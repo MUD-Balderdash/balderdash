@@ -13,6 +13,7 @@
 #define NMATCH 			8
 
 
+CHAT_KEYS  *chatkeys_list;
 
 char regexp_vars[NMATCH][MAX_INPUT_LENGTH];
 

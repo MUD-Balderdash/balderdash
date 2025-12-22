@@ -11,6 +11,7 @@
 #include "interp.h"
 #include "recycle.h"
 
+struct clan_type  clan_table[MAX_CLAN];
 
 
 extern int errfunc(const char *path, int err);

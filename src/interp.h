@@ -340,8 +340,7 @@ DECLARE_DO_FUN( do_csharpen	);
 DECLARE_DO_FUN( do_rename	);
 DECLARE_DO_FUN( do_bounty	);
 DECLARE_DO_FUN( do_addapply	);
-/*DECLARE_DO_FUN( do_limits	);
-*/
+DECLARE_DO_FUN( do_limits	);
 
 DECLARE_DO_FUN( do_identify	);
 DECLARE_DO_FUN( do_wpeace	);
