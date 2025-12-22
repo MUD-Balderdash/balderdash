@@ -1,0 +1,12 @@
+Filename  insect.race~
+Name      insect~
+MName     насекомое~
+FName     насекомое~
+PC        false
+Act       animal~
+Aff       ~
+Off       dodge~
+Form      edible poison animal insect~
+Parts     head legs eye~
+End
+* charset=cp1251

@@ -1,0 +1,6 @@
+IS_OBJ_STAT(obj, FLAG) -  проверка наличия флага у объекта
+obj = get_obj_carry(ch, arg1, ch) - получить ссылку на объект по названию arg1 у ch
+
+can_create_socket(obj) - проверить можно ли сделать в объекте сокет
+
+

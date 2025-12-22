@@ -1,0 +1,13 @@
+Filename  waterfowl.race~
+Name      water fowl~
+MName     водоплавающее~
+FName     водоплавающее~
+PC        false
+Act       ~
+Aff       swim~
+Off       ~
+Resist    drowning 100
+Form      edible animal fish~
+Parts     head legs heart brains guts feet eye wings skin~
+End
+* charset=cp1251

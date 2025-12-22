@@ -1,0 +1,18 @@
+Filename  elemental_ice.race~
+Name      ice elemental~
+MName     ледяной элементал~
+FName     ледяная элементаль~
+PC        false
+Act       ~
+Aff       ice_shield~
+Off       dodge parry assist_race~
+Resist    fire -100
+Resist    cold 100
+Resist    poison 100
+Resist    disease 100
+Resist    charm 50
+Resist    weapon 10
+Form      sentient construct biped~
+Parts     ~
+End
+* charset=cp1251

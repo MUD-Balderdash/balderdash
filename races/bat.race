@@ -1,0 +1,13 @@
+Filename  bat.race~
+Name      bat~
+MName     летучая мышь~
+FName     летучая мышь~
+PC        false
+Act       animal~
+Aff       flying dark_vision~
+Off       dodge fast~
+Resist    light -30
+Form      edible animal mammal~
+Parts     head legs heart brains guts feet ear eye wings skin~
+End
+* charset=cp1251

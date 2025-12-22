@@ -1,0 +1,15 @@
+Filename  centipede.race~
+Name      centipede~
+MName     сороконожка~
+FName     сороконожка~
+PC        false
+Act       animal~
+Aff       dark_vision~
+Off       ~
+Resist    pierce 25
+Resist    cold 20
+Resist    bash -50
+Form      edible poison animal insect~
+Parts     head legs eye~
+End
+* charset=cp1251

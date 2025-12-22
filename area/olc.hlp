@@ -1,0 +1,995 @@
+#HELPS
+0 ADDAP~
+addap resist none 10 bash
+~
+
+1 MYIP~
+http://www.peski.ru/gbook/ShowMyIP.php3
+~
+
+0 ДОБАВИТЬ РЕЗИСТ СКИЛЛ~
+{yaddap res skill 10 iron{X
+[ 0] modifies resistance to iron by 10
+ 
+{yaddap res skill 0 none haste{x
+[ 0] 0        skill        haste
+ 
+{yaddap aff skill 0 haste{x
+[ 0] 0        skill       , affect 'haste'
+~
+
+52 СУНДУК~
+Создание сундука.
+В OLC создаем объект сундука, потом лоадим его в нужную комнату - oload <внум>
+ 
+Удаление сундука.
+В нужной комнате пуржим сундук - purge <название сундука>
+~
+
+52 CHOICE~
+С помощью данной команды можно находить объекты или мобов, удовлетворяющих
+условиям запроса.
+ 
+СПИСОК КОМАНД:
+ 
+choice mob <номер запроса> - поиск мобов по запросу
+choice obj <номер запроса> - поиск объектов по запросу
+choice query [list]- показывает список доступных запросов
+choice query add <название запроса> - позволяет создавать новый запрос
+choice query delete <номер запроса> - удаляет запрос из списка
+choice query edit <номер запроса> - позволяет изменять тело запрос
+choice query show <номер запроса> - показывает тело запроса
+choice query save - сохранение всех запросов
+ 
+СТРУКТУРА ЗАПРОСА:
+ 
+<указатель поиска> <аргумент> <знак> <значение>
+ 
+Всего 3 указателя поиска: affects, object, resist.
+affects - осуществляется поиск среди аффектов объекта, где аргумент может быть:
+hp, mana, move, saves, ac, str, int, wis, dex, con, damroll, hitroll, а также
+при поиске аффекта affected
+ 
+object - осуществляется поиск по параметрам объекта:
+cost, condition, level, vnum, material, type, weight, wear
+ 
+resist - поиск идет по резистам и вульнам, которые дает объект:
+в качестве аргумента используются существующие названия резистов
+ 
+Доступные знаки: ==, !=, >=, <=, <, >
+ 
+Значение: ставится в зависимости от типа агрумента, либо число, либо текст в кавычках.
+ 
+ПРИМЕЧЕНИЯ:
+ 
+Указатель и агрумент можно писать не полностью. 
+Стоит ограничение на список - 300 объектов.
+Условия запроса объединены логической операцией AND.
+Запрос может состоять из нескольких условий, которые ставятся построчно.
+ 
+ПРИМЕРЫ:
+aff aff == 'haste'
+obj level > 10
+obj level < 30
+resist fire > 10
+aff damroll > 10
+obj material == stone
+~
+
+0 SKEDIT~
+Синтаксис: skedit <умение/заклинание> - Начать редактирование.
+ 
+Следующие команды доступны в режиме SKEDITOR:
+ 
+show                  - получить данные умения/заклинания
+create                - создать новое умение/заклинание
+name <название>       - изменить/установить название умения/заклинания
+rname <название>      - изменить/установить русское название
+fun <название>        - установка имени функции
+target <цель>         - установка направление действия
+minpos <позиция>      - установка минимального состояния использования
+minmana <число>       - установка минимального количества маны
+beats <число>         - установка времени задержки от использования (лаг)
+gsn <название>        - установка уникального gsn-имени умения/заклинания
+damagemsg <текст>     - установка сообщения типа повреждения
+damagegendar <текст>  - установка личного местоимения персонажа
+messageoff <текст>    - установка сообщения на завершение аффекта у персонажа
+messageobj <текст>    - установка сообщения на завершение аффекта у объекта
+messageroom <текст>   - установка сообщения на завершение аффекта в комнате
+~
+
+1 ВНУМЫ VNUMS~
+Диапазоны внумов и зон, в том числе кто какие внумы взял.
+ 
+Лимбо                         (1    -   99)
+[ 1 10] Origin  Деревня Смурв (100  -  199)
+Клан-Зона                     (200  -  299)
+[ 1 20] Origin  Северные равн (300  -  399)
+[ 1 10] Origin  Выставка в Му (400  -  499)
+Артефакты                     (500  -  599)
+[ 1 51] Дарлион Долина насеко (600  -  699) {Rв разработке{x
+[ 5 25] Кристус Индусcкое пос (700  -  749)
+[30 51] Сорг    Остров Кулага (750  -  899)
+[ 5 51] Origin  Олимп         (900  -  999)
+[ 5 10] Origin  В Воздухе     (1000 - 1099) 
+[ All ] Poohb   Шир           (1100 - 1199)
+[51 60] Боги    Резиденция Бе (1200 - 1299)
+[10 30] Skylar  Башня Волшебс (1300 - 1499)
+[ 5 15] Origin  Деревня гномо (1500 - 1599)
+[ 5 30] Tyrst   Башня Виверн  (1600 - 1799)
+[25 35] Тэмион  Проклятый ста (1800 - 1899)
+[10 20] Origin  Катакомбы гно (2000 - 2099)
+[10 20] Кей     Горная деревня(2100 - 2199) 
+[ 5 30] Wench   Башня Драконо (2200 - 2299)
+[ 5 35] Chris   Махнтор       (2300 - 2399)
+[30 51] Драгэм  Аббатство     (2400 - 2499)
+[35 51] Тэмион  Башня Великог (2500 - 2599)
+[ 5 51] Кристус Казино        (2601 - 2649) 
+[ 5 15] Ризо    Зеленый лесок (2650 - 2700)
+[45 51] Шаград  Магический куб(2701 - 2750)
+[10 15] Origin  Логово Тролле (2800 - 2899)
+[35 51] Драгэм  Город скальны (2900 - 2999)
+[ All ] Origin  Мидгард       (3000 - 3399)
+[ All ] Origin  Часовня       (3400 - 3499)
+[ 5 15] Origin  Миденир       (3500 - 3599)
+[ 5 10] Origin  Кладбище      (3600 - 3699)
+[ 1  3] Origin  Мад-школа     (3700 - 3799)
+[30 51] Шад     Орден Инквизи (3800 - 3899)
+[ 5 15] Origin  Мория         (3900 - 4199)
+[10 35] Алон    Шахматная дос (4200 - 4299)
+[клан ] Аргид   Гардбург      (4300 - 4399)
+[ All ] Шад     Змеиный Город (4400 - 4520)
+[ all ] Арунариона Темница    (4521 - 4549)
+[ All ] Шад     Тролльград    (4550 - 4650)
+[ All ] Шад     Железные Холм (4660 - 4849)
+[ All ] Глоин   Лориэн        (4850 - 4949)
+[10 20] Origin  Пески Горя    (5000 - 5099)
+[15 25] Origin  Город Дроу    (5100 - 5199)
+[ 7 25] Origin  Талос         (5200 - 5299)
+[35 51] Суре    Поход изгоев  (5300 - 5499) 
+[45 51] Набия   Вулкан        (5600 - 5700) {Rв разработке{x
+[30 45] Глоин   Крепость наем (5701 - 5799)
+[30 51] Драгэм  Священный кру (5800 - 5899)
+[ 1 51] Виэль   Дом Познающих (5900 - 5999)         
+[ 5 10] Origin  Хаон Дор      (6000 - 6199)
+[ 5 20] Origin  Паучья Обител (6200 - 6399)
+[25 51] Шакс    Тортуга       (6400 - 6499)
+[10 25] Origin  Королевство Г (6500 - 6599)
+[ 1  5] Sandman Гномский Детс (6600 - 6699)
+[35 51] Драгэм  Подземелье То (6700 - 6799)
+[35 51] Лерг    Споровой лес  (6700 - 6850) {Rв разработке{x
+[ 5 30] Origin  Канализация   (7000 - 7499) 
+[ 1 51] Драгэм  Риаталь       (7500 - 7600) 
+[30 51] Драгэм  Кришал-Тирит  (7601 - 7699)
+[20 35] Архинес Млечный путь  (7700 - 7799)
+[ 5 20] Hatchet Долина Эльфов (7800 - 7899)
+[20 30] Origin  Дворец Красно (7900 - 7999)
+[ All ] Глоин   Райнак        (8000 - 8099)
+[10 20] Умбра   Кельтон       (8151 - 8199)
+[ 1 20] Origin  Зоопарк Мидга (8200 - 8299)
+[15 25] Origin  Старое Болото (8300 - 8399)
+[ 1 51] Виэль   Ссин Верин    (8400 - 8699)
+[ 5 15] Yaegar  Мирквуд       (8800 - 8899) 
+[ 5 20] Alfa    Священная Рощ (8900 - 8999)
+[30 51] Драгэм  Скала Драгэма (9000 - 9099)
+[15 25] Dylan   Место Диланы  (9100 - 9199)
+[ 5 30] Origin  Каньон Элемен (9200 - 9299)
+[ 5 15] Глоин   Каменоломня   (9400 - 9499)
+[10 35] Conner  Новый Талос   (9500 - 9800)
+[25 35] Шанамир Подземный Лаб (10000-10060) 
+[ All ] Сорг    Убежище Вампи (10100-10299) 
+[32 51] Origin  Ад            (10400-10599)
+[25 51] Шакс    Золотой город (10600-10749)
+[20 51] Або     Темнолесье    (10750-10904)
+[40 51] Сорг    Рай           (11000-11099)
+[40 51] Архинес Госпиталь...  (11100-11199)
+[15 40] Умбра   Ниельский мон (11500-11579)
+[40 51] Умбра   Храм стихий   (11580-11609)
+[  ?  ] Азорг                 (11620-11799) {Rв разработке{x
+[40 51] Астер   Лесная страна (12000-12049)
+[20 51] Шакс    Заколд.деревня (12050-12149) 
+[20 40] Астер   Логово разбой (12200-12300)
+[7  51] Шад     Графство Шада (12300-12599)
+[ 5 51] Бурзхыр Колизей       (12600-12799)
+[40 51] Драгэм  Осада         (12900-12999)
+[  ?  ] Драгэм            (13000-13999) {RВ разработке{x
+[40 51] Лив     Пиратский кор (13200-13299)
+[40 51] Хельст  Живой лес     (13300-13399)
+[40 51] Origin  Логово Чикуал (13400-13499)
+[ 1 60] Шакс    Храм Суре     (13500-13649)
+[ 1 35] Торлин  Северная доро (13651-13820)
+[45 51] Сорг    Занзар        (13851-13950)
+[20 55] Архинес Распутье      (13951-14099)
+[10 25] Архинес Дорога в Астрал(14100-14149)
+[45 51] Бобр    Ледяной Город (15000-15200)
+[15 51] Даниэль Тюрьма        (15201-15300) 
+[ 1 25] Даниэль Школа         (15301-15400)
+[20 51] Бардыг  Противостояние(15401-15499)
+[ 1-10] Бардыг  Трениров лагерь(15500-15699)
+[клан ] Бардыг  Акрополь      (15700-15899) {Rв разработке{x
+[1  51] Тэмион        ?        (16100-16999) {Rв разработке{x
+[ 1 25] Азорг   Леса вокруг Т (17001-17249)
+[20 51] Origin  Камелот       (17300-17500)
+[xx xx] Илайри  ????????      (17699-17899) {Rв разработке{x
+[ 3 45] Джамб   Хвойный лесок (17900-17940)
+[35 51] Бокр    Испытание     (17941-17999)
+[35 51] Артвин  Королевство Н (18000-18100)
+[ 5 20] Кристус Граница Нарна (18201-18250)
+[10 51] Кристус Южная земля   (18400-18459)
+[15 51] Кристус Город мастеро (18500-18599)
+[30 51] Флэйс   Проклятый скл (18750-18899)
+[45 51] Шанамир Город совершен(18900-19233)
+[ 1 60] Тананда Сумеречная об (19400-19549)
+[30 51] Драгэм  Город Сокола  (20001-20150)
+[40 51] Драгэм  Царство весел (20201-20299)
+[35 51] Сорг    Белый город   (20300-20499)
+[ 5 20] Ризо    Дом повелител (20500-20550)
+[45 51] Сорг    Долина призра (23400-23499)
+[ 1 15] Озис    Тоннель       (24500-24649)
+[ all ] Кей Лабиринт проклятых (25000-25299) {Rв разработке{x
+[     ] Кей ***заняты внумы с 25299 до 25999*** {Rв разработке{x
+[ all ] Кей     Лакмор        (25501-25799) {Rв разработке{x
+[ All ] All     Аллея славы   (29000-29499) 
+[45 51] Ниам    Черный замок  (29500-29565) 
+[45 51] Лерг    Крепость К-Д  (30100-30575)
+[19 51] Ссарт   Проклятый лес (30600-30699)
+[xx yy] Ссарт   Остров Дракон (30700-30899) {Rв разработке{x
+[45 51] Сорг    Чистилище     (31000-31099)
+[30 40] Сорг    Долина фэйри  (31100-31199)
+[35 40] Седна   Остров Сирен  (31900-31999)
+[45 51] Арунариона Орлеан     (31200-31399)
+~
+
+52 ITEM_TRAP~
+v0 - кол-во кубиков повреждений
+    v1 - тип кубиков
+    v2 - для внутреннего использования
+    v3 - тип повреждений
+    v4 - задержка, выставляемая у жертвы после попадания в капкан (в раундах)
+~
+
+-1 OLC EDIT~
+Синтаксис: AEDIT [reset] [vnum]		- редактировать или перегрузить зону.
+Синтаксис: REDIT ( [create] [vnum] )	- Создать или редактировать комнату.
+Синтаксис: OEDIT  [create] <vnum>	- Создать или редактировать объект.
+Синтаксис: MEDIT  [create] <vnum>	- Создать или редактировать моба.
+
+Синтаксис: ASAVE  <vnum/area/changed>	- Сохранить изменения на диск.
+Синтаксис: ALIST			- Список зон мира.
+Синтаксис: RESET  			- Установить/просмотреть "ресеты".
+
+Definition: [optional]  <required>  (combined arguments)
+
+     Команды AEDIT и REDIT, введеные без каких-либо аргументов, редактируют
+текущую зону или комнату соответственно.
+     Для команд OEDIT и REDIT параметр vnum (номер редактируемого объекта или
+моба) является обязательным.
+     Внутри редактирования чего-либо наберите ? для получения более подробной
+подсказки по интересующим вас командам.
+~
+
+0 ALIST~
+Синтаксис: ALIST
+
+Эта команда выдает вам список всех зон мира с их vnum's и имена билдеров этих
+зон.
+~
+
+0 AEDIT~
+Синтаксис: aedit        -Начать редактирование текущей зоны (в которой вы
+сейчас находитесь).
+Syntax: aedit <vnum>    -Начать редактирование выбранной зоны.
+
+Следующие команды доступны в режиме AEDITOR:
+
+age <number>        	- установить age зоны
+builder <имя_игрока>	- установить билдера данной зоны
+commands            	- получить список возможных команд
+create              	- создать новую зону и переключиться в редактирование ее
+done                	- выйти из редактирования зоны
+filename <filename> 	- сменить название файла зоны
+name <имя_зоны>         - сменить название зоны
+reset               	- перегрузить текущую зону
+security <номера>   	- установить номер безопасности зоны
+show                	- показывает данные текущей зоны
+vnum <нижний> <верхний> - установить нижнюю и верхнюю границы vnum'ов
+lvnum <нижний_внум>     - установить нижнюю границу vnum
+uvnum <верхний_внум>    - установить верхнюю границу vnum
+<flags>                 - флаги зоны, введите ? AREA для получения списка
+~
+
+52 REDIT~
+Синтаксис: redit 	-Начать редактирование текущей комнаты.
+
+Следующие команды доступны в режиме REDITOR:
+
+commands            - получение списка возможных команд
+create <vnum>       - создать комнату с заданным vnum
+desc                - войти в редактор описания комнаты
+done                - выйти из редактирования комнаты
+ed                  - введите эту команду для редактирования экстра-описаний
+format              - отформатировать описание комнаты
+name <название>     - изменить/установить название комнаты
+show                - получить статсы комнаты
+oshow <vnum>        - показать данные объекта с заданным vnum
+olist               - список объектов этой зоны.
+mshow <vnum>        - показать данные моба с заданным vnum
+mlist               - список мобов этой зоны.
+room <флаги>        - установить флаги комнаты, введите ? ROOM для получения списка
+sector <тип>        - установить тип комнаты, введите ? SECTOR для получения списка
+
+для информации о редактировании выходов из комнаты введите ? EXIT
+~
+
+0 EXIT~
+Для выходов введите направление на английском (north/s/e/w) вместе с:
+
+dig <vnum>         - создать комнату и установить двусторонний линк с ней
+link <room vnum>   - создать двусторонний линк
+room <room vnum>   - создать односторонний линк (использовать с осторожностью)
+key <vnum ключа>   - установить ключ на дверь
+name <название>    - установить название двери
+desc               - редактировать описание выхода
+delete             - удалить этот выход
+flag <флаги выхода>- установить флаги выхода (door,closed,locked, и т.д.)
+
+-South to [ 3744] Key: [   -1] Exit flags: [door CLOSED bashed pickproof]
+
+Например: west link 2234 - создаст односторонний выход в комнату с vnum 2234
+~
+
+52 OEDIT~
+Синтаксис: oedit <vnum>		-Войти в редактор выбранного объекта.
+
+Следующие команды доступны в режиме OEDITOR:
+
+addaffect       - добавить аффект на объект, без аргументов вызывает подсказку
+delaffect       - удалить аффект с объекта, без аргументов вызывает подсказку
+commands        - выдает список возможных команд
+cost <цена>     - устанавливает цену объекта
+create <vnum>   - создает новый объект с заданным vnum
+done            - выход из режима редактора объекта
+ed              - введите эту команду для получения информации о редактировании
+                  экстра-описаний
+long            - установить длинное описание (которое видно, когда объект
+		  находится в комнате, например: Бутылка лежит на полу.)
+name <имена>    - устанавливает имена объекта, имен может быть несколько
+short <desc>    - устанавливает короткое описание (которое видно, когда объект
+                  находится в инвентаре или используется: Бутылка пива)
+show            - показывает статсы редактируемого объекта
+v0 <num>        - устанавливает значение '0' на объект
+v1 <num>        - устанавливает значение '1' на объект
+v2 <num>        - устанавливает значение '2' на объект
+v3 <num>        - устанавливает значение '3' на объект
+v4 <num>        - устанавливает значение '4' на объект
+weight <num>    - установить вес объекта
+type            - установить тип объекта, введите ? TYPE для получения списка 
+		  типов
+extra		- установить аттрибуты объекта, введите ? EXTRA для получения
+		  списка аттрибутов
+wear            - установить, где объект носится (в руках, на шее и т.п.), 
+		  введите ? WEAR для получения списка
+material        - установить материал, из которого объект создан
+addapply        - добавить аффект на объект, более мощная версия addaffect. см. ?addapply
+~
+
+52 MEDIT~
+Синтаксис: medit <vnum>		-Войти в режим редактирования выбранного моба.
+
+Следующие команды доступны в режиме MEDITOR:
+
+alignment <значение> - установить натуру моба
+commands             - выдает список возможных команд
+create <vnum>        - создать моба с заданным vnum
+desc                 - войти в редактор описания моба
+done                 - закончить редактирование моба
+level <уровень>      - установить уровень моба
+long <описание>      - редактировать длинное описание моба (которое видно в 
+		       комнате, например: Страж бессмертия стоит тут.)
+name <имена>         - установить имена моба (имен может быть несколько)
+shop                 - "сделать" моба продавцом, введите эту команду без
+                       аргументов, чтобы получить более подробную информацию
+short <описание>     - установить 'имя' моба, которое видно в действии
+		       (например, Алкаш приходит с юга - "Алкаш" - short name)
+show                 - показывает статсы редактируемого моба
+spec                 - установить специальную функцию моба, введите ? SPEC для
+		       получения списка функций (страж, вор и т.п.)
+sex                  - установить пол моба, введите ? SEX для получения списка
+act                  - установить действия моба, введите ? ACT для получения
+			списка действий
+affect               - установить аффекты моба, введите ? AFFECT для получения
+			списка аффектов
+ac		     - установить уровни защиты моба, введите ? AC для
+			получения более подробной информации
+form		     - установить форму тела моба, введите ? FORM для получения
+			списка форм
+part		     - установить список частей моба (руки, ноги, голова и т.п.)
+			введите ? PART для получения списка частей
+imm		     - установить иммунитеты моба, введите ? IMM для получения
+			списка иммунитетов
+res		     - установить сопротивления(защиты) моба, введите ? RES для
+			получения списка сопротивлений
+vuln		     - установить уязвимости моба, введите ? VULN для получения
+			списка уязвмостей
+material	     - материал, из которого моб сделан, введите ? MATERIAL для
+			получения списка материалов
+off		     - установить "оффенсивы" моба, введите ? OFF для получения
+			списка оффенсивов
+size		     - установить размер моба, введите ? SIZE для получения
+			списка возможных размеров
+hitdice		     - установить кол-во очков жизни (хитов) моба
+manadice	     - установить кол-во очков магии (маны) моба
+damdice		     - установить урон, наносимый мобом в бою (дамроллы)
+hitroll		     - установить "хитроллы" моба
+
+введите 'help HITDICE', 'help MANADICE', 'help DAMDICE' для получения более
+подробной информации об установлении параметров жизни, магии, дамроллов.
+~
+
+0 HITDICE~
+Установление жизни мобов. Примерные данные такие:
+
+       Уровень    dice         min         max       среднее
+         1:       1d2+6       7(  7)     8(   8)     8(   8)
+	 2:       1d3+15     16( 15)    18(  18)    17(  17)
+	 3:       1d6+24     25( 24)    30(  30)    27(  27)
+	 5:      1d17+42     43( 42)    59(  59)    51(  51)
+	10:      3d22+96     99( 95)   162( 162)   131( 129)
+	15:      5d30+161   166(159)   311( 311)   239( 235)
+	30:     10d61+416   426(419)  1026(1026)   726( 723)
+	50:    10d169+920   930(923)  2610(2610)  1770(1767)
+
+Пример: hitdice 1 d 2 + 6.
+Используйте значения, похожие на те, которые в таблице, для получения 
+необходимого кол-ва хитов у создаваемого вами моба. У него будет кол-во хитов,
+примерно равное среднему из таблицы.
+Например, 1d2+6 - у моба будет 6-8 хитов.
+~
+
+0 MANADICE~
+Установление кол-ва магии мобов. Рекомендуется так:
+
+  <уровень_моба> d 10 + 100
+~
+
+0 DAMDICE~
+Установление урона (дамроллов) мобов. Примерные данные такие:
+
+      уровень     dice       min      max   среднее
+        1         1d2+0       1        2       2
+        2         1d2+1       2        3       3
+        3         1d3+2       3        5       4
+        5         2d3+2       4        8       6
+       10         2d5+5       7       15      11
+       15         3d5+8      11       23      17
+       20         4d5+10     14       30      22
+       30         5d6+15     20       45      33
+       50         5d10+25    30       75      53
+
+Используйте значения, похожие на те, которые в таблице, для получения 
+необходимого кол-ва дамроллов у создаваемого вами моба. У него будет кол-во
+роллов, примерно равное среднему из таблицы.
+
+~
+
+0 RESETS~
+Синтаксис: 
+RESET <номер> OBJ <vnum> <location on body> [<limit>] : 
+                                              снарядить моба, который
+                                              предыдущий в списке
+                                              reset данной комнаты
+RESET <номер> OBJ <vnum> inside <obj vnum> [<limit>] [<count>] :
+                                              установить вещь в
+                                              каком-либо контейнере
+RESET <номер> OBJ <vnum> room               : установить вещь в 
+                                              комнате, предыдущей
+                                              в списке reset
+RESET <номер> MOB <vnum> [<max # world>] [<max # room>] : 
+                                              установить моба
+RESET <номер> TRAP <vnum>                   : капкан в комнату
+RESET <номер> TRAP <vnum> OBJ <vnum> <flag> : капкан на контейнер или портал
+RESET <номер> TRAP <vnum> EXIT <dir> <flag> : капкан на выходы и двери
+RESET <номер> DELETE                        : удалить reset
+
+RESET без аргументов покажет resets в текущей комнате. <номер> установит
+задаваемый ресет в список ресетов под данным номером. Введите ? WEAR-LOC
+для получения списка возможных местоположений вещей на мобе.
+
+Система следующая. Если в комнате должен быть моб, одетый во что-либо, то
+сначала устанавливается ресет моба в комнату, затем следующими по номеру
+устанавливаются вещи, которые одеты на моба.
+Например: в комнате стоит моб c vnum 1244, одетый в вещь с vnum 4344.
+reset 1 mob 1244
+reset 2 obj 4344.
+
+Для капканов на выходы направление (пока) указывать надо цифрой:
+0 - север
+1 - восток
+2 - юг
+3 - запад
+4 - вверх
+5 - вниз
+ 
+Флаги ловушек пока действуют только для установленных на выход или объект.
+Они определяют, на какое событие сработает капкан. Флаги следующие (можно
+сразу несколько):
+enter  - на проход черех выход или портал
+unlock - на отпирание двери или контейнера
+open   - на открывание двери или контейнера
+get    - на попытку взять предмет из контейнера
+pick   - на попытку взломать дверь или контейнер
+~
+
+0 MOB_AC~
+Рекомендуемые значения защиты мобов:
+
+   Уровень    pierce    bash    slash   exotic
+     1          95       95       95      95
+     5          70       70       70      85
+    10          40       40       40      70
+    15           5        5        5      55
+    20         -25      -25      -25      40
+    25         -55      -55      -55      20
+    30         -90      -90      -90       5
+    35        -120     -120     -120     -10
+    40        -150     -150     -150     -25
+    45        -180     -180     -180     -40
+    50        -215     -215     -215     -55
+    55        -245     -245     -245     -70
+    60        -275     -275     -275     -90
+~
+
+0 ITEM_LIGHT~
+.   value 0    unused
+   value 1    unused
+   value 2    hours of light available, 0 is dead, -1 or 999 is infinite            
+   value 3    unused
+   value 4    unused
+~
+
+0 ITEM_ARTIFACT~
+.   value 0    creating chance (0-100%)
+   value 1    unused
+   value 2    unused
+   value 3    unused
+   value 4    unused
+~
+
+0 ITEM_STAFF_WAND~
+.   value 0    level
+   value 1    max charges
+   value 2    current charges
+   value 3    spell name
+   value 4    unused
+
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+0 ITEM_SCROLL_POTION_PILL~
+.   value 0    level
+   value 1    spell name 1
+   value 2    spell name 2
+   value 3    spell name 3
+   value 4    unused
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+0 ITEM_ARMOR~
+.   value 0    ac pierce
+   value 1    ac bash
+   value 2    ac slash
+   value 3    ac exotic (magic)
+   value 4    unused
+~
+
+0 ITEM_WEAPON~
+.   value 0   weapon class.
+   value 1    number of dice to roll.
+   value 2    type of dice to roll.
+   value 3    weapon type.
+   value 4    special weapon type.
+
+An up-to-date list of values can be obtained by typing
+? WCLASS
+help WEAPON_DICE
+? WEAPON
+? WTYPE
+~
+
+0 WEAPON_DICE~
+These are the values the server generates automatically when
+converting a merc-format mobile to ROM format.  A higher
+number of dice gives less variance in damage.  There is no
+dice-bonus on weapon dice.
+
+      level:   dice 
+        1:     1d8
+        2:     2d5
+        3:     2d5
+        5:     2d6
+       10:     4d5
+       20:     5d5
+       30:     5d7
+       50:     5d11
+~
+
+0 ITEM_CONTAINER~
+.   value 0    weight capacity
+   value 1    flags: closeable, pickproof, closed, locked            
+   value 2    key vnum
+   value 3    unused
+   value 4    unused
+
+An up-to-date list of flags can be obtained by typing
+? CONTAINTER
+~
+
+0 ITEM_DRINK~
+.   value0    capacity
+   value 1    current quantity
+   value 2    liquid type
+   value 3    poisoned?
+   value 4    unused
+
+An up-to-date list of liquid types can be obtained by typing
+? LIQUID
+~
+
+0 ITEM_FOOD~
+.   value 0    hours of food value
+   value 1    unused
+   value 2    unused
+   value 3    poisoned?
+   value 4    unused
+~
+
+0 ITEM_MONEY~
+.   value 0    value in gold pieces
+   value 1    unused
+   value 2    unused
+   value 3    unused
+   value 4    unused
+~
+
+0 SHORT КОРОТКОЕ~
+Правила создания короткого описания (short description) мобов/объектов. 
+
+Короткое описание (далее КО) используется очень и очень часто в маде.
+Дело в том, что именно КО Вы чаще всего видите в бою, в своем инвентаре, 
+в своей экипировке. Но самое главное - именно КО склоняется по падежам,
+поэтому существуют некоторые правила, которым нужно следовать для того,
+чтобы эти склонения были нормальными в игре.
+
+1) Желательно создавать КО из 1-2 слов. Рассмотрим варианты:
+
+   - КО из одного слова. В принципе это описание должно склоняться без
+     особых проблем.
+   - Первое слово в КО - прилагательное, следующим словом тогда должно
+     быть существительное (ржавый меч, хитрый гоблин и т.п). Это КО
+     также должно склоняться без проблем.
+   - Первое слово - существительное, второе тогда также должно быть
+     существительным. (копье страха, зелье полета). Здесь есть одно 
+     НО. Если второе слово начинается с заглавной буквы (дракон 
+     Анкалагон, леди Диана), то оно будет склоняться, если с 
+     прописной (то же копье страха) - то не будет. Если же вы хотите,
+     чтобы второе слово было с заглавной буквы и не склонялось, 
+     добавьте перед этим словом вот такую последовательность '{{/'
+   - В случае, если описание моба представляет собой предмет 
+     (спрятанный потолок), ставьте перед всеми словами описания
+     последовательность '{{&' 
+   - В случае, если описание объекта представляет собой описание
+     одушевленного предмета (карась), ставьте перед всеми 
+     словами описания последовательность '{{%' 
+   - В описании, которое пишется через дефис (змей-воин, орк-торгаш)
+     по-умолчанию склоняется только последнее слово. Если необходимо,
+     чтобы оба слова склонялись, добавьте впереди такого описания 
+     последовательность '{{:'. 
+   - Перед существитильными, означающими множественное число, необходимо
+     поставить последовательность '{{$'.
+
+2) Допускается описание из более чем 2 слов.
+
+3) Очень не желательно делать КО, в которых:
+   
+   - Первым словом идет существительное, вторым - прилагательное.
+     (пьянь подпещерная) Поменяйте порядок, либо придумайте другое 
+     описание.
+
+4) Проверяйте Ваши спорные КО (допустим, с цветами, либо с какими-то 
+   спорными и нестандарнтными словами) в локальной версии Балдердаша 
+   (взять можно там же, где Вы брали этот редактор, а именно на 
+   http://balderdash.pp.ru) командой "падеж КО". 
+
+5) Если Вы уверены в полном соблюдении этих правил, а команда "падеж"
+   все равно выдает неправильные падежи, постарайтесь сменить описание,
+   либо, если это описание очень четко подходит для моба, напишите об
+   этом имморталу, которому посылаете зону для проверки.
+~
+
+0 MESSAGE~
+Использование: message [arrive|gone] <message>
+
+Это служит для того, чтобы устанавливать нестандартные сообщения о
+приходе/уходе мобов.
+
+Например: message arrive приплывает
+
+Получим сообщение "Рыба приплывает с востока", а не стандартное
+"Рыба приходит с востока".
+~
+
+0 AREAL~
+Syntax: areal [sector]
+        areal all
+        areal none
+
+Это служит для того, чтобы устанавливать доступные для мобов типы секторов.
+Например, рыбам не стоит ходить по земле, и т.п.
+~
+
+52 CEDIT CHAT~
+Применение: cedit [create] <vnum>
+
+Управление словарями для разговаривающих мобов. Словарь имеет нижеуказанный вид:
+
+=<regexp1>
+<weight 1-9><race><sex>(:|"|!)<response1>
+<weight 1-9><race><sex>(:|"|!)<response2>
+....
+
+=<regexp2>
+<weight 1-9><race><sex>(:|"|!)<response1>
+<weight 1-9><race><sex>(:|"|!)<response2>
+......
+
+: emote
+" say
+! interpret
+
+Special regexp:
+cannotsee - if mob cannot see char
+angry - if char asks and get always the same regexp more then MAX_REGEXP_TO_ANGRY
+
+You can use special pattern variables ($1, $2, etc) in response
+
+$n имя моба
+$t имя чара 
+
+
+regexp create <regexp #>          Создает регулярное выражение с заданнм номером.
+                                  Имейте ввиду, что порядок следования регулярных
+                                  выражений имеет значение, т.е сначала идут более
+                                  специализированые выражения, потом более общие.
+
+regexp delete <regexp #>          Удаляет выбранное регулярное выражение.
+
+regexp <regexp #> <regexp text>   Исправляет выбранное регулярное выражение. Чтобы
+                                  узнать синтаксис регулярных выражений, наберите
+                                  ? regexp
+                                   
+
+reply <regexp #> create           Создает реплику для заданного регулярного выражения
+
+reply <regexp #> delete <reply #> Удаляет выбранную реплику
+
+reply <regexp #> <reply #> [weight|sex|race|text] <value>   Правка выбранной реплики
+                                                                   
+~
+
+0 REGEXP~
+Regular expressions (``REs''), as defined in IEEE Std 1003.2
+(``POSIX.2''), come in two forms: modern REs (roughly those of egrep(1);
+1003.2 calls these ``extended'' REs) and obsolete REs (roughly those of
+ed(1); 1003.2 ``basic'' REs).  Obsolete REs mostly exist for backward
+compatibility in some old programs; they will be discussed at the end.
+IEEE Std 1003.2 (``POSIX.2'') leaves some aspects of RE syntax and seman-
+tics open; `=' marks decisions on these aspects that may not be fully
+portable to other IEEE Std 1003.2 (``POSIX.2'') implementations.
+
+A (modern) RE is one= or more non-empty= branches, separated by `|'.  It
+matches anything that matches one of the branches.
+
+A branch is one= or more pieces, concatenated.  It matches a match for
+the first, followed by a match for the second, etc.
+
+A piece is an atom possibly followed by a single= `*', `+', `?', or
+bound.  An atom followed by `*' matches a sequence of 0 or more matches
+of the atom.  An atom followed by `+' matches a sequence of 1 or more
+matches of the atom.  An atom followed by `?' matches a sequence of 0 or
+1 matches of the atom.
+
+A bound is `{{' followed by an unsigned decimal integer, possibly followed
+by `,' possibly followed by another unsigned decimal integer, always fol-
+lowed by `}'.  The integers must lie between 0 and RE_DUP_MAX (255=)
+inclusive, and if there are two of them, the first may not exceed the
+second.  An atom followed by a bound containing one integer i and no
+comma matches a sequence of exactly i matches of the atom.  An atom fol-
+lowed by a bound containing one integer i and a comma matches a sequence
+of i or more matches of the atom.  An atom followed by a bound containing
+two integers i and j matches a sequence of i through j (inclusive)
+matches of the atom.
+
+An atom is a regular expression enclosed in `()' (matching a match for
+the regular expression), an empty set of `()' (matching the null
+string)=, a bracket expression (see below), `.' (matching any single
+character), `^' (matching the null string at the beginning of a line),
+`$' (matching the null string at the end of a line), a `\' followed by
+one of the characters `^.[$()|*+?{{\' (matching that character taken as an
+ordinary character), a `\' followed by any other character= (matching
+that character taken as an ordinary character, as if the `\' had not been
+present=), or a single character with no other significance (matching
+that character).  A `{{' followed by a character other than a digit is an
+ordinary character, not the beginning of a bound=.  It is illegal to end
+an RE with `\'.
+
+A bracket expression is a list of characters enclosed in `[]'.  It nor-
+mally matches any single character from the list (but see below).  If the
+list begins with `^', it matches any single character (but see below) not
+from the rest of the list.  If two characters in the list are separated
+by `-', this is shorthand for the full range of characters between those
+two (inclusive) in the collating sequence, e.g. `[0-9]' in ASCII matches
+any decimal digit.  It is illegal= for two ranges to share an endpoint,
+e.g. `a-c-e'.  Ranges are very collating-sequence-dependent, and portable
+programs should avoid relying on them.
+
+To include a literal `]' in the list, make it the first character (fol-
+lowing a possible `^').  To include a literal `-', make it the first or
+last character, or the second endpoint of a range.  To use a literal `-'
+as the first endpoint of a range, enclose it in `[.' and `.]' to make it
+a collating element (see below).  With the exception of these and some
+combinations using `[' (see next paragraphs), all other special charac-
+ters, including `\', lose their special significance within a bracket
+expression.
+
+Within a bracket expression, a collating element (a character, a multi-
+character sequence that collates as if it were a single character, or a
+collating-sequence name for either) enclosed in `[.' and `.]' stands for
+the sequence of characters of that collating element.  The sequence is a
+single element of the bracket expression's list.  A bracket expression
+containing a multi-character collating element can thus match more than
+one character, e.g. if the collating sequence includes a `ch' collating
+element, then the RE `[[.ch.]]*c' matches the first five characters of
+`chchcc'.
+
+Within a bracket expression, a collating element enclosed in `[=' and
+`=]' is an equivalence class, standing for the sequences of characters of
+all collating elements equivalent to that one, including itself.  (If
+there are no other equivalent collating elements, the treatment is as if
+the enclosing delimiters were `[.' and `.]'.)  For example, if `x' and
+`y' are the members of an equivalence class, then `[[=x=]]', `[[=y=]]',
+and `[xy]' are all synonymous.  An equivalence class may not= be an end-
+point of a range.
+
+Within a bracket expression, the name of a character class enclosed in
+`[:' and `:]' stands for the list of all characters belonging to that
+class.  Standard character class names are:
+
+      alnum    digit    punct
+      alpha    graph    space
+      blank    lower    upper
+      cntrl    print    xdigit
+
+These stand for the character classes defined in ctype(3).  A locale may
+provide others.  A character class may not be used as an endpoint of a
+range.
+
+There are two special cases= of bracket expressions: the bracket expres-
+sions `[[:<:]]' and `[[:>:]]' match the null string at the beginning and
+end of a word respectively.  A word is defined as a sequence of word
+characters which is neither preceded nor followed by word characters.  A
+word character is an alnum character (as defined by ctype(3)) or an
+underscore.  This is an extension, compatible with but not specified by
+IEEE Std 1003.2 (``POSIX.2''), and should be used with caution in soft-
+ware intended to be portable to other systems.
+
+In the event that an RE could match more than one substring of a given
+string, the RE matches the one starting earliest in the string.  If the
+RE could match more than one substring starting at that point, it matches
+the longest.  Subexpressions also match the longest possible substrings,
+subject to the constraint that the whole match be as long as possible,
+with subexpressions starting earlier in the RE taking priority over ones
+starting later.  Note that higher-level subexpressions thus take priority
+over their lower-level component subexpressions.
+
+Match lengths are measured in characters, not collating elements.  A null
+string is considered longer than no match at all.  For example, `bb*'
+matches the three middle characters of `abbbc',
+`(wee|week)(knights|nights)' matches all ten characters of `weeknights',
+when `(.*).*' is matched against `abc' the parenthesized subexpression
+matches all three characters, and when `(a*)*' is matched against `bc'
+both the whole RE and the parenthesized subexpression match the null
+string.
+
+If case-independent matching is specified, the effect is much as if all
+case distinctions had vanished from the alphabet.  When an alphabetic
+that exists in multiple cases appears as an ordinary character outside a
+bracket expression, it is effectively transformed into a bracket expres-
+sion containing both cases, e.g. `x' becomes `[xX]'.  When it appears
+inside a bracket expression, all case counterparts of it are added to the
+bracket expression, so that (e.g.)  `[x]' becomes `[xX]' and `[^x]'
+becomes `[^xX]'.
+
+No particular limit is imposed on the length of REs=.  Programs intended
+to be portable should not employ REs longer than 256 bytes, as an imple-
+mentation can refuse to accept such REs and remain POSIX-compliant.
+
+Obsolete (``basic'') regular expressions differ in several respects.  `|'
+is an ordinary character and there is no equivalent for its functional-
+ity.  `+' and `?' are ordinary characters, and their functionality can be
+expressed using bounds (`{{1,}' or `{{0,1}' respectively).  Also note that
+`x+' in modern REs is equivalent to `xx*'.  The delimiters for bounds are
+`\{{' and `\}', with `{{' and `}' by themselves ordinary characters.  The
+parentheses for nested subexpressions are `\(' and `\)', with `(' and `)'
+by themselves ordinary characters.  `^' is an ordinary character except
+at the beginning of the RE or= the beginning of a parenthesized subex-
+pression, `$' is an ordinary character except at the end of the RE or=
+the end of a parenthesized subexpression, and `*' is an ordinary charac-
+ter if it appears at the beginning of the RE or the beginning of a paren-
+thesized subexpression (after a possible leading `^').  Finally, there is
+one new type of atom, a back reference: `\' followed by a non-zero deci-
+mal digit d matches the same sequence of characters matched by the dth
+parenthesized subexpression (numbering subexpressions by the positions of
+their opening parentheses, left to right), so that (e.g.)  `\([bc]\)\1'
+matches `bb' or `cc' but not `bc'.
+~
+
+-1 TAG ТЭГ ТЕГ~
+Формирует текст в зависимости от персонажа, которому он отправляется.
+Например, можно вставлять в описания комнат имя чара, в зависимости от его
+пола писать фразы типа 'ты был тут' или 'ты была тут'. Так же можно делать
+описания, зависящими от времени суток и прочего.
+
+Есть следующие тэги:
+1.str int wis dex con age time day month gold silver level group pos.
+Применение этих тэгов: [#"имя тэга" "<=>" "число" : "Текст"]
+При этом "имя тэга" - это название тэга (без кавычек!)
+         "<=>" - признаки сравнения <, >, =, >=, <=, !=     (без кавычек!)
+		 "Текст" - текст, на который заменяется этот тэг, в случае 
+		 если сравнение верно.          (без кавычек!)
+Например, [#level < 10: Добро пожаловать, новичок!] будет заменено на
+"Добро пожаловать, новичок!" (без кавычек) если уровень того, кому это пишется
+меньше 10, иначе этот тэг заменится на пустое слово.
+[#group >= 3: Ээээ, да у тебя группа большая!] - выведет сообщение, если 
+количество народу в группе больше либо равно 3.
+
+Также имеется возможность проверять скилл игрока, при этом если название скилла 
+больше, чем одно слово, то его нужно обрамлять кавычками:
+  [#armor > 75: Да, броню ты умеешь хорошо кастовать!]
+  [#pos = sleeping: Я сплю.] - выведет текст, если чар спит.
+(доступные варианты: sleeping, resting, sitting, standing, fighting)
+
+2. Особые тэги:
+sun:      Параметры: sunrise sunset day night
+weather:  Параметры: sunny cloudy rainy ligthning
+sex:      Параметры: none male female either
+race:     Параметры: любая из доступных рас (русское название)
+norace:
+class:    Параметры: любой класс из доступных (русское название)
+noclass:
+align:    Параметры: good neutral evil
+affect:   Параметры: название скилла.
+
+Например: 
+[#sun night: Кругом тьма!] - будет заменено на "Кругом тьма!" ночью,
+а днем ни на что.
+[#affect "detect invis": Ты можешь видить невидимое!] - выведет текст,
+если на чаре есть аффект "обнаружить невидимое".
+
+3. Спец. тэги:
+name:     Параметры: нет параметров
+Все вхождения '*' заменяются на имя персонажа.
+Например: [#name: Добро пожаловать, *!] будет заменено на
+'Добро пожаловать, <имя персонажа>'.
+ 
+Запомните одну вещь. Если вы пишете НЕСКОЛЬКО тэгов, то конец первого тэга (символ ]),
+и начало следующего (символ [) ДОЛЖНЫ быть на одной строке. Естесственно, это
+если тэги идут подряд.
+~
+
+-1 $~
+
+#$

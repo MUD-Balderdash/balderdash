@@ -1,0 +1,14 @@
+Filename  kobold.race~
+Name      kobold~
+MName     кобольд~
+FName     кобольдиха~
+PC        false
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    poison 33
+Resist    magic -10
+Form      edible poison sentient biped mammal~
+Parts     head arms legs heart brains guts hands feet fingers ear eye tail skin~
+End
+* charset=cp1251

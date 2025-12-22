@@ -1,0 +1,32 @@
+#!/bin/csh
+set port = 9000
+if ( "$1" != "" ) set port="$1"
+set cmd = "valgrind ./rom"
+if ( "$2" != "" ) set cmd="$2"
+
+
+# Change to area directory.
+cd /home/mud/mud/area
+
+if ( -e shutdown.txt ) rm -f shutdown.txt
+if ( -e maintance.pid ) rm -f maintance.pid
+
+while ( 1 )
+   
+   #./maintance.pl | mail -s 'Immortals Report' unviss@yandex.ru
+
+#   if ( -e copy.txt ) then
+#        cp /usr/local/mud/test/src/rom ./
+#        rm -f copy.txt
+#   endif
+
+# Set permissions
+#   chown -R mud * ./ ../player ../log ../test
+#   chmod 500 rom *.pl
+
+    # Run rom.
+   $cmd
+
+    # Restart, giving old connections a chance to die.
+   if ( -e shutdown.txt ) exit 0
+end

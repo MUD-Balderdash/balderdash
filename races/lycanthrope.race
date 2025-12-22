@@ -1,0 +1,39 @@
+Filename  lycanthrope.race~
+Name      lycanthrope~
+MName     оборотень~
+FName     оборотень~
+PC        true
+Act       ~
+Aff       dark_vision~
+Off       dodge~
+Resist    mental 33
+Resist    charm 33
+Resist    silver -33
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Оборотень~
+Points    0
+Skills    'dodge' '' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     15  14  15  15  15 
+MStats    20  18  18  20  19 
+ClassMult маг             0
+ClassMult жрец            0
+ClassMult вор             0
+ClassMult воин            0
+ClassMult некромант       0
+ClassMult паладин         0
+ClassMult назгул          0
+ClassMult друид           0
+ClassMult егерь           0
+ClassMult вампир          0
+ClassMult алхимик         0
+ClassMult оборотень       120
+Size      medium
+Recall    5553
+Map       5549
+Align     evil neutral~
+End
+
+* charset=cp1251

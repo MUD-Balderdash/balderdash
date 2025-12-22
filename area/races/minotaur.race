@@ -1,0 +1,14 @@
+Filename  minotaur.race~
+Name      minotaur~
+MName     минотавр~
+FName     минотавр~
+PC        false
+Act       ~
+Aff       ~
+Resist    weapon 10
+Resist    poison 20
+Off       berserk bash dodge parry dirt~
+Form      edible sentient biped mammal~
+Parts     head arms legs heart brains guts hands feet fingers ear eye horns skin~
+End
+* charset=cp1251

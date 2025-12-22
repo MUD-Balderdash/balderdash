@@ -1,0 +1,267 @@
+Filename     nazgul.class~
+Name         назгул~
+WName        Назгул~
+Primary      Str~
+Secondary    Int~
+Weapon       ~
+SkillAdept   75
+THAC0        15 -4
+MinHP        8
+MaxHP        12
+MagicUser    semimagic~
+BaseGroup    nazgul basics~
+DefaultGroup nazgul default~
+Align        evil~
+Guilds       3059 4494 4647 4905 8060 7555 8479 8480 31762 0 0 0 0 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'nazgul basics'        0
+Group        'nazgul default'       40
+Group        'weaponsmaster'        34
+Group        'attack'               5
+Group        'beguiling'            3
+Group        'combat'               5
+Group        'detection'            4
+Group        'illusion'             3
+Group        'maladictions'         4
+Group        'protective'           2
+Group        'transportation'       3
+Group        'weather'              2
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        40 1 'die sun'                      false
+Skill        5  1 'armor'                        false
+Skill        14 3 'blindness'                    false
+Skill        14 1 'burning hands'                false
+Skill        38 2 'cancellation'                 false
+Skill        4  2 'chill touch'                  false
+Skill        18 2 'colour spray'                 false
+Skill        18 2 'control weather'              false
+Skill        16 1 'curse'                        false
+Skill        26 2 'demonfire'                    false
+Skill        7  1 'detect good'                  false
+Skill        22 2 'detect hidden'                false
+Skill        21 2 'detect invis'                 false
+Skill        29 3 'detect magic'                 false
+Skill        9  1 'dispel good'                  false
+Skill        31 2 'dispel magic'                 false
+Skill        34 2 'energy drain'                 false
+Skill        23 2 'faerie fog'                   false
+Skill        33 2 'farsight'                     false
+Skill        31 2 'fireball'                     false
+Skill        32 2 'fly'                          false
+Skill        19 2 'identify'                     false
+Skill        14 1 'infravision'                  false
+Skill        14 2 'invisibility'                 false
+Skill        1  1 'magic missile'                false
+Skill        26 1 'pass door'                    false
+Skill        19 1 'plague'                       false
+Skill        27 2 'poison'                       false
+Skill        10 1 'protection good'              false
+Skill        18 2 'sleep'                        false
+Skill        24 1 'slow'                         false
+Skill        22 2 'teleport'                     false
+Skill        13 1 'ventriloquate'                false
+Skill        27 2 'weaken'                       false
+Skill        35 2 'control undead'               false
+Skill        12 1 'detect undead'                false
+Skill        20 2 'beacon'                       false
+Skill        20 2 'find beacon'                  false
+Skill        33 2 'beacon identify'              false
+Skill        42 2 'power word fear'              false
+Skill        40 2 'aura of fear'                 false
+Skill        30 1 'call horse'                   false
+Skill        41 2 'fire shield'                  false
+Skill        28 2 'stunning word'                false
+Skill        36 1 'acid rain'                    false
+Skill        17 2 'shadow cloak'                 false
+Skill        27 1 'cursed lands'                 false
+Skill        32 2 'mirror images'                false
+Skill        18 1 'evil aura'                    false
+Skill        18 1 'identify corpse'              false
+Skill        1  6 'axe'                          false
+Skill        1  3 'dagger'                       false
+Skill        1  4 'flail'                        false
+Skill        1  3 'mace'                         false
+Skill        1  4 'polearm'                      false
+Skill        1  3 'shield block'                 false
+Skill        1  4 'spear'                        false
+Skill        1  5 'staff'                        false
+Skill        1  3 'sword'                        false
+Skill        1  2 'whip'                         false
+Skill        1  3 'exotic weapon'                false
+Skill        13 5 'bash'                         false
+Skill        25 0 'berserk'                      false
+Skill        6  4 'dirt kicking'                 false
+Skill        16 5 'disarm'                       false
+Skill        23 8 'dodge'                        false
+Skill        19 5 'enhanced damage'              false
+Skill        18 7 'hand to hand'                 false
+Skill        10 4 'kick'                         false
+Skill        15 5 'parry'                        false
+Skill        10 4 'second attack'                false
+Skill        30 6 'third attack'                 false
+Skill        25 5 'lunge'                        false
+Skill        9  0 'tail'                         false
+Skill        17 4 'fight off'                    false
+Skill        14 3 'riding'                       false
+Skill        25 3 'fight on mount'               false
+Skill        30 4 'care style'                   false
+Skill        30 4 'aggressive style'             false
+Skill        39 5 'leadership'                   false
+Skill        34 7 'select enemy'                 false
+Skill        14 5 'fast healing'                 false
+Skill        22 5 'haggle'                       false
+Skill        20 0 'hide'                         false
+Skill        17 5 'lore'                         false
+Skill        8  5 'meditation'                   false
+Skill        17 0 'sneak'                        false
+Skill        1  3 'scrolls'                      false
+Skill        1  4 'staves'                       false
+Skill        1  3 'wands'                        false
+Skill        35 4 'sharpen'                      false
+Skill        1  2 'recall'                       false
+Skill        1  3 'rods'                         false
+Skill        22 2 'steal horse'                  false
+Skill        26 4 'hoof'                         false
+Skill        24 2 'armor use'                    false
+Skill        6  1 'recovery'                     false
+Skill        10 2 'run'                          false
+Skill        12 2 'scribe'                       false
+Skill        23 4 'bandage'                      false
+Skill        22 1 'make bag'                     false
+Skill        39 1 'attract attention'            false
+Skill        15 1 'grimuar'                      false
+Skill        37 3 'pierce'                       false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  Начинающий в магии~
+FTitle       1  Начинающая в магии~
+MTitle       2  Изучающий заклинания~
+FTitle       2  Изучающая заклинания~
+MTitle       3  Ученик назгула~
+FTitle       3  Ученица назгула~
+MTitle       4  Исследователь заклинаний~
+FTitle       4  Исследовательница заклинаний~
+MTitle       5  У назгула на посылках~
+FTitle       5  У назгула на посылках~
+MTitle       6  Помощник мага~
+FTitle       6  Помощница мага~
+MTitle       7  Колдун~
+FTitle       7  Колдунья~
+MTitle       8  Мудрец~
+FTitle       8  Мудрая~
+MTitle       9  Иллюзионист~
+FTitle       9  Иллюзионистка~
+MTitle       10 Отступник~
+FTitle       10 Отступница~
+MTitle       11 Заклинатель~
+FTitle       11 Заклинательница~
+MTitle       12 Чародей~
+FTitle       12 Чародейка~
+MTitle       13 Кудесник~
+FTitle       13 Кудесница~
+MTitle       14 Фокусник~
+FTitle       14 Фокусница~
+MTitle       15 Творец~
+FTitle       15 Творец~
+MTitle       16 Ученый~
+FTitle       16 Ученая~
+MTitle       17 Хитрец~
+FTitle       17 Хитрая~
+MTitle       18 Волшебник~
+FTitle       18 Волшебница~
+MTitle       19 Назгул~
+FTitle       19 Ведьма~
+MTitle       20 Назгул~
+FTitle       20 Ведьма~
+MTitle       21 Старший волшебник~
+FTitle       21 Старшая волшебница~
+MTitle       22 Главный чародей~
+FTitle       22 Главная чародейка~
+MTitle       23 Великий маг~
+FTitle       23 Великая колдунья~
+MTitle       24 Создатель големов~
+FTitle       24 Создательница големов~
+MTitle       25 Великий создатель големов~
+FTitle       25 Великая создательница големов~
+MTitle       26 Создатель камней~
+FTitle       26 Создательница камней~
+MTitle       27 Создатель зелий~
+FTitle       27 Создательница зелий~
+MTitle       28 Создатель свитков~
+FTitle       28 Создательница свитков~
+MTitle       29 Создатель волшебных палочек~
+FTitle       29 Создательница волшебных палочек~
+MTitle       30 Создатель жезлов~
+FTitle       30 Создательница жезлов~
+MTitle       31 Призыватель демонов~
+FTitle       31 Призывательница демонов~
+MTitle       32 Великий призыватель демонов~
+FTitle       32 Великая призывательница демонов~
+MTitle       33 Очаровывающий драконов~
+FTitle       33 Очаровывающая драконов~
+MTitle       34 Великий очарователь драконов~
+FTitle       34 Великая очаровательница драконов~
+MTitle       35 Мастер всей магии~
+FTitle       35 Мастер всей магии~
+MTitle       36 Мастер магии~
+FTitle       36 Мастер магии~
+MTitle       37 Мастер магии~
+FTitle       37 Мастер магии~
+MTitle       38 Мастер магии~
+FTitle       38 Мастер магии~
+MTitle       39 Мастер магии~
+FTitle       39 Мастер магии~
+MTitle       40 Мастер магии~
+FTitle       40 Мастер магии~
+MTitle       41 Мастер магии~
+FTitle       41 Мастер магии~
+MTitle       42 Мастер магии~
+FTitle       42 Мастер магии~
+MTitle       43 Мастер магии~
+FTitle       43 Мастер магии~
+MTitle       44 Мастер магии~
+FTitle       44 Мастер магии~
+MTitle       45 Мастер магии~
+FTitle       45 Мастер магии~
+MTitle       46 Мастер магии~
+FTitle       46 Мастер магии~
+MTitle       47 Мастер магии~
+FTitle       47 Мастер магии~
+MTitle       48 Мастер магии~
+FTitle       48 Мастер магии~
+MTitle       49 Мастер магии~
+FTitle       49 Мастер магии~
+MTitle       50 Мастер магии~
+FTitle       50 Мастер магии~
+MTitle       51 Герой магии~
+FTitle       51 Героиня магии~
+MTitle       52 Воплощение магии~
+FTitle       52 Воплощение магии~
+MTitle       53 Ангел магии~
+FTitle       53 Ангел магии~
+MTitle       54 Полубог магии~
+FTitle       54 Полубогиня магии~
+MTitle       55 Immortal of Magic~
+FTitle       55 Immortal of Magic~
+MTitle       56 Бог магии~
+FTitle       56 Богиня магии~
+MTitle       57 Божество магии~
+FTitle       57 Божество магии~
+MTitle       58 Верховный маг~
+FTitle       58 Верховная колдунья~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

@@ -1,0 +1,38 @@
+Filename  orc.race~
+Name      orc~
+MName     орк~
+FName     оркиня~
+PC        true
+Act       ~
+Aff       infrared dark_vision~
+Off       ~
+Resist    mental -25
+Resist    disease 33
+Resist    light -50
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Орк~
+Points    5
+Skills    'dodge' '' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     15  15  15  16  13 
+MStats    21  18  18  21  17 
+ClassMult маг             100
+ClassMult жрец            135
+ClassMult вор             130
+ClassMult воин            105
+ClassMult некромант       120
+ClassMult паладин         0
+ClassMult назгул          110
+ClassMult друид           150
+ClassMult егерь           120
+ClassMult вампир          0
+ClassMult алхимик         130
+ClassMult оборотень       0
+Size      medium
+Recall    8015
+Map       8053
+Align     evil neutral~
+End
+* charset=cp1251

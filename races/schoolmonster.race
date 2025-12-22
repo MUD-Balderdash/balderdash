@@ -1,0 +1,15 @@
+Filename  schoolmonster.race~
+Name      school monster~
+MName     школьный монстр~
+FName     школьная монстриха~
+PC        false
+Act       noalign~
+Aff       ~
+Off       ~
+Resist    summon 100
+Resist    charm 100
+Resist    magic -50
+Form      edible biped mammal~
+Parts     head arms legs heart brains guts feet ear eye claws~
+End
+* charset=cp1251

@@ -1,0 +1,12 @@
+Filename  cat.race~
+Name      cat~
+MName     кот~
+FName     кошка~
+PC        false
+Act       animal~
+Aff       dark_vision~
+Off       dodge fast~
+Form      edible animal mammal~
+Parts     head legs heart brains guts feet ear eye tail claws fangs skin~
+End
+* charset=cp1251

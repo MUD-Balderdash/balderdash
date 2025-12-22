@@ -1,0 +1,40 @@
+Filename  dwarf.race~
+Name      dwarf~
+MName     гном~
+FName     гномиха~
+PC        true
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    fire 33
+Resist    cold -50
+Resist    poison 33
+Resist    disease 33
+Resist    drowning -50
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     √ном~
+Points    8
+Skills    'berserk' '' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     16  14  16  12  16 
+MStats    21  17  19  16  22 
+ClassMult маг             150
+ClassMult жрец            100
+ClassMult вор             125
+ClassMult воин            100
+ClassMult некромант       0
+ClassMult паладин         100
+ClassMult назгул          0
+ClassMult друид           140
+ClassMult егерь           120
+ClassMult вампир          0
+ClassMult алхимик         100
+ClassMult оборотень       0
+Size      small
+Recall    4660
+Map       4696
+Align     neutral good~
+End
+* charset=cp1251

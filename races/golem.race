@@ -1,0 +1,18 @@
+Filename  golem.race~
+Name      golem~
+MName     голем~
+FName     голем~
+PC        false
+Act       warrior~
+Aff       regeneration~
+Off       bash parry assist_race~
+Resist    lightning -50
+Resist    poison 100
+Resist    disease 100
+Resist    drowning -50
+Resist    charm 100
+Resist    weapon 50
+Form      construct biped~
+Parts     head arms legs hands feet fingers~
+End
+* charset=cp1251

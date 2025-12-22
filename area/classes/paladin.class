@@ -1,0 +1,257 @@
+Filename     paladin.class~
+Name         паладин~
+WName        Паладин~
+Primary      Str~
+Secondary    Wis~
+Weapon       ~
+SkillAdept   75
+THAC0        15 -4
+MinHP        9
+MaxHP        14
+MagicUser    slightly~
+BaseGroup    paladin basics~
+DefaultGroup paladin default~
+Align        good~
+Guilds       3038 4451 9680 4648 4718 4903 1160 7560 31764 10374 0 0 0 0 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'paladin basics'       0
+Group        'paladin default'      40
+Group        'weaponsmaster'        27
+Group        'benedictions'         4
+Group        'creation'             2
+Group        'curative'             4
+Group        'detection'            4
+Group        'healing'              4
+Group        'transportation'       3
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        16 2 'armor'                        false
+Skill        14 1 'bless'                        false
+Skill        24 2 'calm'                         false
+Skill        9  2 'continual light'              false
+Skill        11 2 'create food'                  false
+Skill        15 2 'create rose'                  false
+Skill        19 2 'create spring'                false
+Skill        16 2 'create water'                 false
+Skill        28 2 'cure blindness'               false
+Skill        17 2 'cure critical'                false
+Skill        18 2 'cure disease'                 false
+Skill        3  1 'cure light'                   false
+Skill        21 2 'cure poison'                  false
+Skill        8  2 'cure serious'                 false
+Skill        7  1 'detect evil'                  false
+Skill        13 2 'detect invis'                 false
+Skill        24 3 'detect magic'                 false
+Skill        19 2 'detect poison'                false
+Skill        17 1 'dispel evil'                  false
+Skill        31 2 'dispel magic'                 false
+Skill        34 2 'farsight'                     false
+Skill        21 2 'flamestrike'                  false
+Skill        20 2 'floating disc'                false
+Skill        25 2 'heal'                         false
+Skill        39 2 'holy word'                    false
+Skill        22 2 'identify'                     false
+Skill        15 2 'infravision'                  false
+Skill        24 2 'know alignment'               false
+Skill        27 2 'locate object'                false
+Skill        10 1 'protection evil'              false
+Skill        34 2 'ray of truth'                 false
+Skill        14 2 'refresh'                      false
+Skill        22 1 'remove curse'                 false
+Skill        33 2 'teleport'                     false
+Skill        34 2 'word of recall'               false
+Skill        24 1 'beacon'                       false
+Skill        24 1 'find beacon'                  false
+Skill        34 1 'beacon identify'              false
+Skill        32 2 'wrath'                        false
+Skill        31 1 'turn undead'                  false
+Skill        20 1 'vaccine'                      false
+Skill        34 1 'holy shield'                  false
+Skill        1  5 'axe'                          false
+Skill        1  3 'dagger'                       false
+Skill        1  4 'flail'                        false
+Skill        1  3 'mace'                         false
+Skill        1  4 'polearm'                      false
+Skill        1  2 'shield block'                 false
+Skill        1  3 'spear'                        false
+Skill        1  4 'staff'                        false
+Skill        1  2 'sword'                        false
+Skill        1  4 'whip'                         false
+Skill        1  2 'exotic weapon'                false
+Skill        15 5 'bash'                         false
+Skill        24 0 'berserk'                      false
+Skill        16 5 'disarm'                       false
+Skill        27 8 'dodge'                        false
+Skill        21 4 'enhanced damage'              false
+Skill        13 5 'hand to hand'                 false
+Skill        6  3 'kick'                         false
+Skill        3  3 'parry'                        false
+Skill        5  3 'rescue'                       false
+Skill        9  3 'second attack'                false
+Skill        21 4 'third attack'                 false
+Skill        18 4 'second weapon'                false
+Skill        12 5 'lunge'                        false
+Skill        7  0 'tail'                         false
+Skill        20 4 'fight off'                    false
+Skill        15 4 'riding'                       false
+Skill        35 4 'fight on mount'               false
+Skill        25 3 'care style'                   false
+Skill        25 3 'aggressive style'             false
+Skill        15 4 'deafen'                       false
+Skill        34 5 'leadership'                   false
+Skill        32 7 'select enemy'                 false
+Skill        14 5 'fast healing'                 false
+Skill        23 7 'haggle'                       false
+Skill        20 0 'hide'                         false
+Skill        16 3 'lore'                         false
+Skill        14 5 'meditation'                   false
+Skill        18 0 'sneak'                        false
+Skill        1  4 'scrolls'                      false
+Skill        1  4 'staves'                       false
+Skill        1  4 'wands'                        false
+Skill        31 5 'sharpen'                      false
+Skill        32 5 'reinforce armor'              false
+Skill        1  2 'recall'                       false
+Skill        1  4 'rods'                         false
+Skill        12 1 'armor use'                    false
+Skill        5  1 'recovery'                     false
+Skill        5  1 'run'                          false
+Skill        14 3 'scribe'                       false
+Skill        20 3 'bandage'                      false
+Skill        21 1 'make bag'                     false
+Skill        33 5 'secondary mastery'            false
+Skill        15 1 'prayer'                       false
+Skill        30 2 'st aura'                      false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  Ученик паладина~
+FTitle       1  Ученица паладина~
+MTitle       2  Постигающий основы~
+FTitle       2  Постигающая основы~
+MTitle       3  Испытуемый~
+FTitle       3  Испытуемая~
+MTitle       4  Стремящийся к познанию~
+FTitle       4  Стремящаяся к познанию~
+MTitle       5  Молящийся~
+FTitle       5  Молящаяся~
+MTitle       6  Прислуживающий~
+FTitle       6  Прислуживающая~
+MTitle       7  Обучающийся~
+FTitle       7  Обучающаяся~
+MTitle       8  Познающий бой~
+FTitle       8  Познающая бой~
+MTitle       9  Познающий молитву~
+FTitle       9  Познающая молитву~
+MTitle       10 Познающий веру~
+FTitle       10 Познающая веру~
+MTitle       11 Познающий дух~
+FTitle       11 Познающая дух~
+MTitle       12 Познающий Святость~
+FTitle       12 Познающая Святость~
+MTitle       13 Младший страж врат Гильдии~
+FTitle       13 Младшая стражница врат Гильдии~
+MTitle       14 Страж врат Гильдии~
+FTitle       14 Стражница врат Гильдии~
+MTitle       15 Адепт~
+FTitle       15 Адепт~
+MTitle       16 Постигший~
+FTitle       16 Постигшая~
+MTitle       17 Младший страж Гильдии~
+FTitle       17 Младшая стражница Гильдии~
+MTitle       18 Страж Гильдии~
+FTitle       18 Стражница Гильдии~
+MTitle       19 Познавший Святость~
+FTitle       19 Познавшая Святость~
+MTitle       20 Хранитель~
+FTitle       20 Хранительница~
+MTitle       21 Защитник~
+FTitle       21 Защитница~
+MTitle       22 Святой воин~
+FTitle       22 Святая воительница~
+MTitle       23 Младший страж Храма~
+FTitle       23 Младшая стражница Храма~
+MTitle       24 Страж Храма~
+FTitle       24 Стражница Храма~
+MTitle       25 Прислуживающий у Алтаря~
+FTitle       25 Прислуживающая у Алтаря~
+MTitle       26 Постигающий таинства~
+FTitle       26 Постигающая таинства~
+MTitle       27 Служитель~
+FTitle       27 Служительница~
+MTitle       28 Хранящий Святость~
+FTitle       28 Хранящая Святость~
+MTitle       29 Страж Алтаря~
+FTitle       29 Стражница Алтаря~
+MTitle       30 Хранитель Алтаря~
+FTitle       30 Хранительница Алтаря~
+MTitle       31 Обучающий~
+FTitle       31 Обучающая~
+MTitle       32 Великий страж~
+FTitle       32 Великая стражница~
+MTitle       33 Готовящийся к Посвящению~
+FTitle       33 Готовящаяся к Посвящению~
+MTitle       34 Проходящий Посвящение~
+FTitle       34 Проходящая Посвящение~
+MTitle       35 Паладин~
+FTitle       35 Паладин~
+MTitle       36 Святой Мастер~
+FTitle       36 Святой Мастер~
+MTitle       37 Святой Мастер~
+FTitle       37 Святой Мастер~
+MTitle       38 Святой Мастер~
+FTitle       38 Святой Мастер~
+MTitle       39 Святой Мастер~
+FTitle       39 Святой Мастер~
+MTitle       40 Святой Мастер~
+FTitle       40 Святой Мастер~
+MTitle       41 Святой Мастер~
+FTitle       41 Святой Мастер~
+MTitle       42 Святой Мастер~
+FTitle       42 Святой Мастер~
+MTitle       43 Святой Мастер~
+FTitle       43 Святой Мастер~
+MTitle       44 Святой Мастер~
+FTitle       44 Святой Мастер~
+MTitle       45 Святой Мастер~
+FTitle       45 Святой Мастер~
+MTitle       46 Святой Мастер~
+FTitle       46 Святой Мастер~
+MTitle       47 Святой Мастер~
+FTitle       47 Святой Мастер~
+MTitle       48 Святой Мастер~
+FTitle       48 Святой Мастер~
+MTitle       49 Святой Мастер~
+FTitle       49 Святой Мастер~
+MTitle       50 Святой Мастер~
+FTitle       50 Святой Мастер~
+MTitle       51 Герой рыцарей~
+FTitle       51 Героиня рыцарей~
+MTitle       52 Воплощение войны~
+FTitle       52 Воплощение войны~
+MTitle       53 Ангел войны~
+FTitle       53 Ангел войны~
+MTitle       54 Полубог войны~
+FTitle       54 Полубогиня войны~
+MTitle       55 Бессмертный воин~
+FTitle       55 Бессмертный воин~
+MTitle       56 Бог войны~
+FTitle       56 Богиня войны~
+MTitle       57 Божество войны~
+FTitle       57 Божество войны~
+MTitle       58 Высший мастер войны~
+FTitle       58 Высший мастер войны~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

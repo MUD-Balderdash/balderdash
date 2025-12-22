@@ -1,0 +1,220 @@
+Filename     thief.class~
+Name         вор~
+WName        Вор~
+Primary      Dex~
+Secondary    Dex~
+Weapon       ~
+SkillAdept   75
+THAC0        15 -3
+MinHP        8
+MaxHP        13
+MagicUser    nomagic~
+BaseGroup    thief basics~
+DefaultGroup thief default~
+Align        evil neutral good~
+Guilds       3028 9639 9646 4446 4602 4716 4891 1161 8058 7513 8472 8473 31770 10398 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'thief basics'         0
+Group        'thief default'        40
+Group        'weaponsmaster'        36
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        19 2 'detect poison'                false
+Skill        1  5 'axe'                          false
+Skill        1  2 'dagger'                       false
+Skill        1  6 'flail'                        false
+Skill        1  3 'mace'                         false
+Skill        1  6 'polearm'                      false
+Skill        1  3 'shield block'                 false
+Skill        1  4 'spear'                        false
+Skill        1  4 'staff'                        false
+Skill        1  3 'sword'                        false
+Skill        1  5 'whip'                         false
+Skill        1  3 'exotic weapon'                false
+Skill        1  4 'backstab'                     false
+Skill        13 0 'bash'                         false
+Skill        23 0 'berserk'                      false
+Skill        10 4 'dirt kicking'                 false
+Skill        12 6 'disarm'                       false
+Skill        1  4 'dodge'                        false
+Skill        25 5 'enhanced damage'              false
+Skill        14 3 'envenom'                      false
+Skill        15 6 'hand to hand'                 false
+Skill        14 6 'kick'                         false
+Skill        13 6 'parry'                        false
+Skill        1  4 'trip'                         false
+Skill        12 4 'second attack'                false
+Skill        24 5 'third attack'                 false
+Skill        14 6 'second weapon'                false
+Skill        14 5 'lunge'                        false
+Skill        36 2 'dual backstab'                false
+Skill        8  0 'tail'                         false
+Skill        18 5 'fight off'                    false
+Skill        11 2 'detect_hidden'                false
+Skill        16 5 'riding'                       false
+Skill        26 7 'fight on mount'               false
+Skill        28 4 'care style'                   false
+Skill        28 4 'aggressive style'             false
+Skill        16 4 'deafen'                       false
+Skill        38 5 'leadership'                   false
+Skill        30 7 'select enemy'                 false
+Skill        16 5 'fast healing'                 false
+Skill        1  3 'haggle'                       false
+Skill        1  3 'hide'                         false
+Skill        6  2 'lore'                         false
+Skill        20 8 'meditation'                   false
+Skill        1  2 'peek'                         false
+Skill        7  4 'pick lock'                    false
+Skill        4  3 'sneak'                        false
+Skill        5  4 'steal'                        false
+Skill        1  5 'scrolls'                      false
+Skill        1  5 'staves'                       false
+Skill        1  5 'wands'                        false
+Skill        33 4 'sharpen'                      false
+Skill        35 4 'reinforce armor'              false
+Skill        1  2 'recall'                       false
+Skill        1  5 'rods'                         false
+Skill        14 2 'track'                        false
+Skill        43 4 'trap'                         false
+Skill        40 3 'detect trap'                  false
+Skill        45 4 'disarm trap'                  false
+Skill        15 2 'unpeek'                       false
+Skill        22 2 'armor use'                    false
+Skill        10 2 'recovery'                     false
+Skill        5  1 'run'                          false
+Skill        24 4 'bandage'                      false
+Skill        24 1 'make bag'                     false
+Skill        24 5 'secondary mastery'            false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  Мелкий воришка~
+FTitle       1  Мелкая воришка~
+MTitle       2  Разбойник~
+FTitle       2  Разбойница~
+MTitle       3  Утаскивающий все~
+FTitle       3  Утаскивающая все~
+MTitle       4  Чистильщик карманов~
+FTitle       4  Чистильщица карманов~
+MTitle       5  Крадущийся~
+FTitle       5  Крадущаяся~
+MTitle       6  Щипач~
+FTitle       6  Щипач~
+MTitle       7  Срезающий кошельки~
+FTitle       7  Срезающая кошельки~
+MTitle       8  Воришка~
+FTitle       8  Воришка~
+MTitle       9  Жулик~
+FTitle       9  Жуликоватая~
+MTitle       10 Плут~
+FTitle       10 Плутовка~
+MTitle       11 Грабитель~
+FTitle       11 Грабительница~
+MTitle       12 Обманщик~
+FTitle       12 Обманщица~
+MTitle       13 Разбойник с большой дороги~
+FTitle       13 Разбойница с большой дороги~
+MTitle       14 Взломщик~
+FTitle       14 Взломщица~
+MTitle       15 Вор~
+FTitle       15 Вор~
+MTitle       16 Играющий с ножичком~
+FTitle       16 Играющая с ножичком~
+MTitle       17 Быстрое лезвие~
+FTitle       17 Быстрое лезвие~
+MTitle       18 Убийца~
+FTitle       18 Убийца~
+MTitle       19 Бандит~
+FTitle       19 Бандитка~
+MTitle       20 Перерезающий глотки~
+FTitle       20 Перерезающая глотки~
+MTitle       21 Шпион~
+FTitle       21 Шпионка~
+MTitle       22 Старший шпион~
+FTitle       22 Старшая шпионка~
+MTitle       23 Главный шпион~
+FTitle       23 Главная шпионка~
+MTitle       24 Наемник~
+FTitle       24 Наемница~
+MTitle       25 Великий наемник~
+FTitle       25 Великая наемница~
+MTitle       26 Мастер видения~
+FTitle       26 Мастер видения~
+MTitle       27 Мастер слуха~
+FTitle       27 Мастер слуха~
+MTitle       28 Мастер запахов~
+FTitle       28 Мастер запахов~
+MTitle       29 Мастер вкусов~
+FTitle       29 Мастер вкусов~
+MTitle       30 Мастер осязания~
+FTitle       30 Мастер осязания~
+MTitle       31 Король преступников~
+FTitle       31 Королева преступников~
+MTitle       32 Злой король преступности~
+FTitle       32 Злая королева преступности~
+MTitle       33 Великий предводитель~
+FTitle       33 Великая предводительница~
+MTitle       34 Глава мафии~
+FTitle       34 Глава мафии~
+MTitle       35 Крестный отец~
+FTitle       35 Крестная мать~
+MTitle       36 Мастер воровства~
+FTitle       36 Мастер воровства~
+MTitle       37 Мастер воровства~
+FTitle       37 Мастер воровства~
+MTitle       38 Мастер воровства~
+FTitle       38 Мастер воровства~
+MTitle       39 Мастер воровства~
+FTitle       39 Мастер воровства~
+MTitle       40 Мастер воровства~
+FTitle       40 Мастер воровства~
+MTitle       41 Мастер воровства~
+FTitle       41 Мастер воровства~
+MTitle       42 Мастер воровства~
+FTitle       42 Мастер воровства~
+MTitle       43 Мастер воровства~
+FTitle       43 Мастер воровства~
+MTitle       44 Мастер воровства~
+FTitle       44 Мастер воровства~
+MTitle       45 Мастер воровства~
+FTitle       45 Мастер воровства~
+MTitle       46 Мастер воровства~
+FTitle       46 Мастер воровства~
+MTitle       47 Мастер воровства~
+FTitle       47 Мастер воровства~
+MTitle       48 Мастер воровства~
+FTitle       48 Мастер воровства~
+MTitle       49 Мастер воровства~
+FTitle       49 Мастер воровства~
+MTitle       50 Мастер воровства~
+FTitle       50 Мастер воровства~
+MTitle       51 Герой-наемник~
+FTitle       51 Героиня-наемница~
+MTitle       52 Воплощение смерти~
+FTitle       52 Воплощение смерти~
+MTitle       53 Ангел смерти~
+FTitle       53 Ангел смерти~
+MTitle       54 Полубог наемников~
+FTitle       54 Полубогиня наемников~
+MTitle       55 Бессмертный наемник~
+FTitle       55 Бессмертная наемница~
+MTitle       56 Бог наемников~
+FTitle       56 Богиня наемников~
+MTitle       57 Божество наемников~
+FTitle       57 Божество наемников~
+MTitle       58 Главный вор~
+FTitle       58 Главный вор~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

@@ -1,0 +1,26 @@
+Filename  doll.race~
+Name      doll~
+MName     кукла~
+FName     кукла~
+PC        false
+Act       ~
+Aff       ~
+Off       ~
+Resist    cold 100
+Resist    poison 100
+Resist    negative 100
+Resist    holy 100
+Resist    mental 100
+Resist    disease 100
+Resist    drowning 100
+Resist    bash 60
+Resist    light 75
+Resist    slash -20
+Resist    fire -50
+Resist    lightning -20
+Resist    acid -30
+Resist    energy -10
+Form      other construct biped cold_blood~
+Parts     head arms legs hands feet eye~
+End
+* charset=cp1251

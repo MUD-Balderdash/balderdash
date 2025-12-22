@@ -1,0 +1,12 @@
+Filename  worm.race~
+Name      worm~
+MName     червяк~
+FName     червяк~
+PC        false
+Act       animal~
+Aff       ~
+Off       dodge~
+Form      edible poison animal cold_blood~
+Parts     tail~
+End
+* charset=cp1251

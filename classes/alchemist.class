@@ -1,0 +1,250 @@
+Filename     alchemist.class~
+Name         алхимик~
+WName        Алхимик~
+Primary      Wis~
+Secondary    Int~
+Weapon       ~
+SkillAdept   75
+THAC0        15 2 
+MinHP        8
+MaxHP        11
+MagicUser    magic~
+BaseGroup    alchemist basics~
+DefaultGroup alchemist default~
+Align        evil neutral good~
+Guilds       3361 4945 4505 4808 8084 8570 31760 10378 0 0 0 0 0 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'alchemist basics'     0
+Group        'alchemist default'    40
+Group        'weaponsmaster'        40
+Group        'transportation'       5
+Group        'weather'              4
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        5  1 'burning hands'                false
+Skill        27 1 'call lightning'               false
+Skill        24 1 'cancellation'                 false
+Skill        5  1 'chill touch'                  false
+Skill        7  1 'continual light'              false
+Skill        16 1 'control weather'              false
+Skill        12 1 'create food'                  false
+Skill        12 1 'create rose'                  false
+Skill        11 1 'create spring'                false
+Skill        7  1 'create water'                 false
+Skill        17 1 'detect evil'                  false
+Skill        17 1 'detect good'                  false
+Skill        21 1 'detect hidden'                false
+Skill        4  1 'detect invis'                 false
+Skill        3  1 'detect magic'                 false
+Skill        18 1 'detect poison'                false
+Skill        31 2 'enchant armor'                false
+Skill        34 2 'enchant weapon'               false
+Skill        6  1 'faerie fire'                  false
+Skill        16 1 'faerie fog'                   false
+Skill        10 1 'fireproof'                    false
+Skill        8  1 'floating disc'                false
+Skill        18 1 'identify'                     false
+Skill        6  1 'invisibility'                 false
+Skill        1  1 'magic missile'                false
+Skill        26 1 'plague'                       false
+Skill        14 1 'poison'                       false
+Skill        11 1 'refresh'                      false
+Skill        13 1 'teleport'                     false
+Skill        35 1 'word of recall'               false
+Skill        22 1 'beacon'                       false
+Skill        22 1 'find beacon'                  false
+Skill        29 1 'beacon identify'              false
+Skill        20 2 'detect landscape'             false
+Skill        20 2 'locate object'                false
+Skill        30 2 'vaccine'                      false
+Skill        25 1 'identify corpse'              false
+Skill        28 1 'preserve'                     false
+Skill        1  6 'axe'                          false
+Skill        1  3 'dagger'                       false
+Skill        1  6 'flail'                        false
+Skill        1  5 'mace'                         false
+Skill        1  6 'polearm'                      false
+Skill        1  4 'shield block'                 false
+Skill        1  5 'spear'                        false
+Skill        1  3 'staff'                        false
+Skill        1  6 'sword'                        false
+Skill        1  6 'whip'                         false
+Skill        1  6 'exotic weapon'                false
+Skill        33 0 'bash'                         false
+Skill        33 0 'berserk'                      false
+Skill        19 7 'dodge'                        false
+Skill        33 8 'enhanced damage'              false
+Skill        25 6 'hand to hand'                 false
+Skill        22 6 'parry'                        false
+Skill        27 7 'second attack'                false
+Skill        33 9 'lunge'                        false
+Skill        15 0 'tail'                         false
+Skill        20 7 'riding'                       false
+Skill        15 6 'fast healing'                 false
+Skill        7  5 'haggle'                       false
+Skill        10 0 'hide'                         false
+Skill        10 5 'lore'                         false
+Skill        9  4 'meditation'                   false
+Skill        18 5 'peek'                         false
+Skill        25 8 'pick lock'                    false
+Skill        13 0 'sneak'                        false
+Skill        1  2 'scrolls'                      false
+Skill        1  2 'staves'                       false
+Skill        1  2 'wands'                        false
+Skill        1  2 'recall'                       false
+Skill        1  2 'rods'                         false
+Skill        8  2 'herbs'                        false
+Skill        8  2 'run'                          false
+Skill        29 2 'make bag'                     false
+Skill        1  2 'concentrate'                  false
+Skill        27 1 'lightning bolt'               false
+Skill        12 2 'collection'                   false
+Skill        15 1 'mix potion'                   false
+Skill        17 2 'pound pill'                   false
+Skill        24 2 'rename potion'                false
+Skill        19 2 'energy potion'                false
+Skill        21 1 'gritstorm'                    false
+Skill        13 1 'slime'                        false
+Skill        35 2 'stinking cloud'               false
+Skill        37 2 'flame cloud'                  false
+Skill        40 2 'acid fog'                     false
+Skill        20 1 'absorb thing'                 false
+Skill        38 2 'protection elements'          false
+Skill        45 2 'protection sphere'            false
+Skill        15 1 'create mortar'                false
+Skill        15 1 'create potion'                false
+Skill        23 1 'create creature'              false
+Skill        25 1 'dissolve'                     false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  У алхимика на посылках~
+FTitle       1  У алхимика на посылках~
+MTitle       2  Помощник алхимика~
+FTitle       2  Помощница алхимика~
+MTitle       3  Ученик алхимика~
+FTitle       3  Ученица алхимика~
+MTitle       4  Изучающий алхимию~
+FTitle       4  Изучающая алхимию~
+MTitle       5  Вызывающий искры~
+FTitle       5  Вызывающая искры~
+MTitle       6  Создающий сияние~
+FTitle       6  Создающая сияние~
+MTitle       7  Ищущий знания~
+FTitle       7  Ищущая знания~
+MTitle       8  Собирающий травы~
+FTitle       8  Собирающая травы~
+MTitle       9  Осваивающий энергии~
+FTitle       9  Осваивающая энергии~
+MTitle       10 Готовящийся к Посвящению~
+FTitle       10 Готовящаяся к Посвящению~
+MTitle       11 Юный алхимик~
+FTitle       11 Юный алхимик~
+MTitle       12 Собирающий ингредиенты~
+FTitle       12 Собирающая ингредиенты~
+MTitle       13 Создающий смеси~
+FTitle       13 Создающая смеси~
+MTitle       14 Отравитель~
+FTitle       14 Отравительница~
+MTitle       15 Стеклодув~
+FTitle       15 Стеклодув~
+MTitle       16 Вызывающий бури~
+FTitle       16 Вызывающая бури~
+MTitle       17 Посвященный алхимик~
+FTitle       17 Посвященный алхимик~
+MTitle       18 Ищущий истину~
+FTitle       18 Ищущая истину~
+MTitle       19 Мастер зелий~
+FTitle       19 Мастерица зелий~
+MTitle       20 Опытный алхимик~
+FTitle       20 Опытный алхимик~
+MTitle       21 Повелитель вещей~
+FTitle       21 Повелительница вещей~
+MTitle       22 Познающий пространство~
+FTitle       22 Познающая пространство~
+MTitle       23 Создатель гомункулов~
+FTitle       23 Создательница гомункулов~
+MTitle       24 Сортирующий зелья~
+FTitle       24 Сортирующая зелья~
+MTitle       25 Изучающий стихии~
+FTitle       25 Изучающая стихии~
+MTitle       26 Мастер болезней~
+FTitle       26 Мастерица болезней~
+MTitle       27 Повелитель погоды~
+FTitle       27 Повелительница погоды~
+MTitle       28 Создатель мумий~
+FTitle       28 Создательница мумий~
+MTitle       29 Многомудрый~
+FTitle       29 Многомудрая~
+MTitle       30 Исцелитель~
+FTitle       30 Исцелительница~
+MTitle       31 Мастер-доспешник~
+FTitle       31 Мастер-доспешник~
+MTitle       32 Мудрейший~
+FTitle       32 Мудрейшая~
+MTitle       33 Изменяющий пространство~
+FTitle       33 Изменяющая пространство~
+MTitle       34 Мастер-оружейник~
+FTitle       34 Мастер-оружейник~
+MTitle       35 Создатель штормов~
+FTitle       35 Создательница штормов~
+MTitle       36 Мастер воды~
+FTitle       36 Мастерица воды~
+MTitle       37 Мастер огня~
+FTitle       37 Мастерица огня~
+MTitle       38 Повелитель стихий~
+FTitle       38 Повелительница стихий~
+MTitle       39 Мастер воздуха~
+FTitle       39 Мастерица воздуха~
+MTitle       40 Мастер земли~
+FTitle       40 Мастерица земли~
+MTitle       41 Мастер-алхимик~
+FTitle       41 Мастер-алхимик~
+MTitle       42 Мастер-алхимик~
+FTitle       42 Мастер-алхимик~
+MTitle       43 Мастер-алхимик~
+FTitle       43 Мастер-алхимик~
+MTitle       44 Мастер-алхимик~
+FTitle       44 Мастер-алхимик~
+MTitle       45 Мастер-алхимик~
+FTitle       45 Мастер-алхимик~
+MTitle       46 Мастер-алхимик~
+FTitle       46 Мастер-алхимик~
+MTitle       47 Мастер-алхимик~
+FTitle       47 Мастер-алхимик~
+MTitle       48 Мастер-алхимик~
+FTitle       48 Мастер-алхимик~
+MTitle       49 Мастер-алхимик~
+FTitle       49 Мастер-алхимик~
+MTitle       50 Мастер-алхимик~
+FTitle       50 Мастер-алхимик~
+MTitle       51 Мастер-алхимик~
+FTitle       51 Мастер-алхимик~
+MTitle       52 Воплощение Стихий~
+FTitle       52 Воплощение Стихий~
+MTitle       53 Ангел Стихий~
+FTitle       53 Ангел Стихий~
+MTitle       54 Полубог Стихий~
+FTitle       54 Полубогиня Стихий~
+MTitle       55 Полубог Стихий~
+FTitle       55 Полубогиня Стихий~
+MTitle       56 Бог Стихий~
+FTitle       56 Богиня Стихий~
+MTitle       57 Божество~
+FTitle       57 Божество~
+MTitle       58 Божество~
+FTitle       58 Божество~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

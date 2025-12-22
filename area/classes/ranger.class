@@ -1,0 +1,223 @@
+Filename     ranger.class~
+Name         егерь~
+WName        Егерь~
+Primary      Dex~
+Secondary    Str~
+Weapon       ~
+SkillAdept   75
+THAC0        15 -4
+MinHP        8
+MaxHP        13
+MagicUser    nomagic~
+BaseGroup    ranger basics~
+DefaultGroup ranger default~
+Align        neutral~
+Guilds       6157 6159 4942 8067 7532 4803 8452 8453 31754 10372 0 0 0 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'ranger basics'        0
+Group        'ranger default'       40
+Group        'weaponsmaster'        24
+
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        1  5 'axe'                          false
+Skill        1  3 'dagger'                       false
+Skill        1  4 'flail'                        false
+Skill        1  4 'mace'                         false
+Skill        1  5 'polearm'                      false
+Skill        1  3 'shield block'                 false
+Skill        1  4 'spear'                        false
+Skill        1  4 'staff'                        false
+Skill        1  3 'sword'                        false
+Skill        1  3 'whip'                         false
+Skill        1  3 'exotic weapon'                false
+Skill        8  4 'bash'                         false
+Skill        20 0 'berserk'                      false
+Skill        10 4 'dirt kicking'                 false
+Skill        17 5 'disarm'                       false
+Skill        15 7 'dodge'                        false
+Skill        20 5 'enhanced damage'              false
+Skill        14 5 'hand to hand'                 false
+Skill        3  3 'kick'                         false
+Skill        9  5 'parry'                        false
+Skill        14 4 'rescue'                       false
+Skill        12 5 'trip'                         false
+Skill        9  3 'second attack'                false
+Skill        23 5 'third attack'                 false
+Skill        18 6 'second weapon'                false
+Skill        21 5 'lunge'                        false
+Skill        7  0 'tail'                         false
+Skill        19 4 'fight off'                    false
+Skill        13 3 'detect_hidden'                false
+Skill        16 4 'riding'                       false
+Skill        28 4 'fight on mount'               false
+Skill        28 3 'care style'                   false
+Skill        28 3 'aggressive style'             false
+Skill        24 4 'deafen'                       false
+Skill        33 5 'leadership'                   false
+Skill        14 5 'fast healing'                 false
+Skill        25 6 'haggle'                       false
+Skill        11 0 'hide'                         false
+Skill        14 4 'lore'                         false
+Skill        27 7 'meditation'                   false
+Skill        22 4 'peek'                         false
+Skill        7  0 'sneak'                        false
+Skill        1  4 'scrolls'                      false
+Skill        1  4 'staves'                       false
+Skill        1  4 'wands'                        false
+Skill        38 5 'sharpen'                      false
+Skill        1  2 'recall'                       false
+Skill        1  4 'rods'                         false
+Skill        5  2 'camp'                         false
+Skill        6  2 'herbs'                        false
+Skill        14 2 'track'                        false
+Skill        8  2 'camouflaging'                 false
+Skill        16 2 'camouflage move'              false
+Skill        6  2 'attention'                    false
+Skill        19 4 'ambush'                       false
+Skill        12 2 'butcher'                      false
+Skill        13 2 'find spring'                  false
+Skill        35 2 'trap'                         false
+Skill        11 2 'detect trap'                  false
+Skill        35 2 'disarm trap'                  false
+Skill        13 2 'torch'                        false
+Skill        36 6 'ambush move'                  false
+Skill        13 2 'recovery'                     false
+Skill        6  1 'run'                          false
+Skill        21 3 'bandage'                      false
+Skill        21 1 'maps'                         false
+Skill        21 1 'make bag'                     false
+Skill        32 5 'secondary mastery'            false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  Родившийся в лесу~
+FTitle       1  Родившаяся в лесу~
+MTitle       2  Изучающий лес~
+FTitle       2  Изучающая лес~
+MTitle       3  Ученик лесника~
+FTitle       3  Ученица лесника~
+MTitle       4  Исследователь леса~
+FTitle       4  Исследовательница леса~
+MTitle       5  У рейнджера на посылках~
+FTitle       5  У рейнджера на посылках~
+MTitle       6  Помощник рейнджера~
+FTitle       6  Помощница рейнджера~
+MTitle       7  Лесник~
+FTitle       7  Лесник~
+MTitle       8  Лесничий~
+FTitle       8  Лесничий~
+MTitle       9  Прячущийся в лесу~
+FTitle       9  Прячущаяся в лесу~
+MTitle       10 Отступник~
+FTitle       10 Отступница~
+MTitle       11 Егерь~
+FTitle       11 Егерь~
+MTitle       12 Охотник~
+FTitle       12 Охотница~
+MTitle       13 Охотник~
+FTitle       13 Охотница~
+MTitle       14 Ловец зверей~
+FTitle       14 Ловец зверей~
+MTitle       15 Ловец зверей~
+FTitle       15 Ловец зверей~
+MTitle       16 Зверобой~
+FTitle       16 Зверобой~
+MTitle       17 Следопыт~
+FTitle       17 Следопыт~
+MTitle       18 Очищающий лес~
+FTitle       18 Очищающая лес~
+MTitle       19 Рейнджер~
+FTitle       19 Рейнджер~
+MTitle       20 Рейнджер~
+FTitle       20 Рейнджер~
+MTitle       21 Старший рейнджер~
+FTitle       21 Старшая рейнджер~
+MTitle       22 Главный рейнджер~
+FTitle       22 Главная рейнджер~
+MTitle       23 Великий рейнджер~
+FTitle       23 Великий рейнджер~
+MTitle       24 Создатель деревьев~
+FTitle       24 Создательница деревьев~
+MTitle       25 Великий создатель деревьев~
+FTitle       25 Великая создательница деревьев~
+MTitle       26 Создатель камней~
+FTitle       26 Создательница камней~
+MTitle       27 Создатель земли~
+FTitle       27 Создательница земли~
+MTitle       28 Создатель воды~
+FTitle       28 Создательница воды~
+MTitle       29 Создатель огня~
+FTitle       29 Создательница огня~
+MTitle       30 Создатель воздуха~
+FTitle       30 Создательница воздуха~
+MTitle       31 Призыватель волков~
+FTitle       31 Призывательница волков~
+MTitle       32 Призыватель медведей~
+FTitle       32 Призывательница медведей~
+MTitle       33 Очаровывающий драконов~
+FTitle       33 Очаровывающая драконов~
+MTitle       34 Великий очарователь драконов~
+FTitle       34 Великая очаровательница драконов~
+MTitle       35 Ставящий капканы~
+FTitle       35 Ставящая капканы~
+MTitle       36 Мастер леса~
+FTitle       36 Мастер леса~
+MTitle       37 Мастер леса~
+FTitle       37 Мастер леса~
+MTitle       38 Мастер леса~
+FTitle       38 Мастер леса~
+MTitle       39 Мастер леса~
+FTitle       39 Мастер леса~
+MTitle       40 Мастер леса~
+FTitle       40 Мастер леса~
+MTitle       41 Мастер леса~
+FTitle       41 Мастер леса~
+MTitle       42 Мастер леса~
+FTitle       42 Мастер леса~
+MTitle       43 Мастер леса~
+FTitle       43 Мастер леса~
+MTitle       44 Мастер леса~
+FTitle       44 Мастер леса~
+MTitle       45 Мастер леса~
+FTitle       45 Мастер леса~
+MTitle       46 Мастер леса~
+FTitle       46 Мастер леса~
+MTitle       47 Мастер леса~
+FTitle       47 Мастер леса~
+MTitle       48 Мастер леса~
+FTitle       48 Мастер леса~
+MTitle       49 Мастер леса~
+FTitle       49 Мастер леса~
+MTitle       50 Мастер леса~
+FTitle       50 Мастер леса~
+MTitle       51 Герой леса~
+FTitle       51 Героиня леса~
+MTitle       52 Воплощение леса~
+FTitle       52 Воплощение леса~
+MTitle       53 Ангел леса~
+FTitle       53 Ангел леса~
+MTitle       54 Полубог леса~
+FTitle       54 Полубогиня леса~
+MTitle       55 Immortal of Magic~
+FTitle       55 Immortal of Magic~
+MTitle       56 Бог леса~
+FTitle       56 Богиня леса~
+MTitle       57 Божество леса~
+FTitle       57 Божество леса~
+MTitle       58 Верховный рейнджер~
+FTitle       58 Верховный рейнджер~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

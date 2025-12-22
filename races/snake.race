@@ -1,0 +1,39 @@
+Filename  snake.race~
+Name      snake~
+MName     змей~
+FName     зме€~
+PC        true
+Act       ~
+Aff       ~
+Off       ~
+Resist    pierce -30
+Resist    slash 33
+Resist    cold -30
+Resist    poison 33
+Form      edible biped reptile snake cold_blood~
+Parts     head arms legs heart skin brains guts hands feet fingers eye tail~
+WName     «мей~
+Points    7
+Skills    'dodge' 'tail' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     11  15  18  17  13 
+MStats    15  18  24  21  17 
+ClassMult маг             100
+ClassMult жрец            125
+ClassMult вор             100
+ClassMult воин            120
+ClassMult некромант       100
+ClassMult паладин         120
+ClassMult назгул          130
+ClassMult друид           130
+ClassMult егерь           150
+ClassMult вампир          0
+ClassMult алхимик         130
+ClassMult оборотень       0
+Size      medium
+Recall    4400
+Map       4432
+Align     evil neutral good~
+End
+* charset=cp1251

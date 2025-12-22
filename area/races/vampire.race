@@ -1,0 +1,42 @@
+Filename  vampire.race~
+Name      vampire~
+MName     вампир~
+FName     вампирица~
+PC        true
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    poison 100
+Resist    holy -33
+Resist    disease 100
+Resist    light -33
+Resist    wood -25
+Resist    silver -25
+Resist    weapon 40
+Form      edible sentient undead biped~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Вампир~
+Points    20
+Skills    'sneak' 'hide' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     16  16  16  16  10 
+MStats    21  21  20  20  13 
+ClassMult маг             0
+ClassMult жрец            0
+ClassMult вор             0
+ClassMult воин            0
+ClassMult некромант       0
+ClassMult паладин         0
+ClassMult назгул          0
+ClassMult друид           0
+ClassMult егерь           0
+ClassMult вампир          100
+ClassMult алхимик         0
+ClassMult оборотень       0
+Size      medium
+Recall    10100
+Map       10126
+Align     evil~
+End
+* charset=cp1251

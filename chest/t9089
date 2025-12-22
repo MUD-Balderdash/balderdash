@@ -1,0 +1,5154 @@
+#O
+Vnum 24
+Nest 0
+Name Магический сундук~
+ShD  {gМагический сундук{x~
+Desc {gМагический сундук{x~
+Wear -1
+Cost 0
+Room 28000
+End
+
+#O
+Vnum 30059
+Nest 1
+Name рубин~
+ShD  {RРубин{x~
+Desc Рубин пылится на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30059
+Nest 1
+Name рубин~
+ShD  {RРубин{x~
+Desc Рубин пылится на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30059
+Nest 1
+Name рубин~
+ShD  {RРубин{x~
+Desc Рубин пылится на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10680
+Nest 1
+Name руна огня~
+ShD  руна огня~
+Desc Руна огня дышит адским жаром.~
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20
+Nest 1
+Name магический кусок сала еда~
+ShD  магический кусок сала~
+Desc Магический кусок сала парит перед тобой в воздухе.~
+Wear -1
+Cost 0
+Val  15 30 0 0 0
+End
+
+#O
+Vnum 4872
+Nest 1
+Name котелок для пельменей~
+ShD  котелок для пельменей~
+Desc Чугунный котел стоит тут~
+Cond 94
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 29512
+Nest 1
+Name эликсир воскрешения~
+ShD  эликсир воскрешения~
+Desc Бутылочка с бурлящим эликсиром воскрешения неосмотрительно брошена на землю!~
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 30062
+Nest 1
+Name хризолит~
+ShD  {GХ{gризолит{x~
+Desc Хризолит лежит на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30062
+Nest 1
+Name хризолит~
+ShD  {GХ{gризолит{x~
+Desc Хризолит лежит на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 12105
+Nest 1
+Name доспех каменного стража~
+ShD  доспех каменного стража~
+Desc Доспех каменного стража лежит здесь.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10680
+Nest 1
+Name руна огня~
+ShD  руна огня~
+Desc Руна огня дышит адским жаром.~
+Cond 93
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 30062
+Nest 1
+Name хризолит~
+ShD  {GХ{gризолит{x~
+Desc Хризолит лежит на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Name книга знаний~
+ShD  книга знаний~
+Desc Старая потертая книга лежит здесь.~
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 13955
+Nest 1
+Name белый шар~
+ShD  Белый шар~
+Desc Белый шар переливается перламутровым светом.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2937
+Nest 1
+Name черная сфера~
+ShD  Черная Сфера~
+Desc Черная сфера зависла посреди комнаты.~
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 30054
+Nest 1
+Name лунный камень~
+ShD  {cЛунный камень{x~
+Desc Лунный камень лежит на земле.~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 30051
+Nest 1
+Name Янтарь~
+ShD  {yЯ{Yнтар{yь{x~
+Desc {yЯ{Yнтар{yь{x лежит тут.~
+Cond 99
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 29509
+Nest 1
+Name бутылка вина~
+ShD  Бутылка вина~
+Desc Бутылка отличного крепленого вина тихонько покрывается пылью.~
+Cond 98
+Wear -1
+Cost 32000
+End
+
+#O
+Vnum 13215
+Nest 1
+Name костыль~
+ShD  костыль~
+Desc Тяжелый деревянный костыль лежит здесь.~
+Cond 98
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 12106
+Nest 1
+Name перчатки каменного стража~
+ShD  перчатки каменного стража~
+Desc Перчатки каменного стража лежит здесь.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10679
+Nest 1
+Name глаз призрака~
+ShD  глаз призрака~
+Desc Большой светящийся глаз лежит здесь.~
+Cond 99
+Wear -1
+Cost 0
+Val  0 0 4262 0 0
+End
+
+#O
+Vnum 10680
+Nest 1
+Name руна огня~
+ShD  руна огня~
+Desc Руна огня дышит адским жаром.~
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 4872
+Nest 1
+Name котелок для пельменей~
+ShD  котелок для пельменей~
+Desc Чугунный котел стоит тут~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13871
+Nest 1
+Name камень элементов~
+ShD  камень~
+Desc Элементарный камень брошен здесь.~
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 13871
+Nest 1
+Name камень элементов~
+ShD  камень~
+Desc Элементарный камень брошен здесь.~
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 12109
+Nest 1
+Name пояс каменного стража~
+ShD  пояс каменного стража~
+Desc Пояс каменного стража лежит здесь.~
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 13871
+Nest 1
+Name камень элементов~
+ShD  камень~
+Desc Элементарный камень брошен здесь.~
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 12107
+Nest 1
+Name сапоги каменного стража~
+ShD  сапоги каменного стража~
+Desc Сапоги каменного стража лежат здесь.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9036
+Nest 1
+Name гарда~
+ShD  гарда~
+Desc Гарда красивейшего меча лежит здесь.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17653
+Nest 1
+Name огромный окровавленный топор~
+ShD  огромный окровавленный топор~
+Desc Огромный, весь покрытый кровью топор, лежит тут.~
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 30055
+Nest 1
+Name халцедон~
+ShD  {DХалцедон{x~
+Desc Халцедон лежит на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30063
+Nest 1
+Name топаз~
+ShD  {yТопаз{x~
+Desc Топаз лежит на земле.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10889
+Nest 1
+Name желудок кротокрыса~
+ShD  {yЖелудок {gкротокрыса{x~
+Desc Желудок кротокрыса может вместить что угодно и кого угодно... Бррр....~
+Cond 97
+Wear -1
+Cost 115
+End
+
+#O
+Vnum 1345
+Nest 1
+Name кожаный рюкзак~
+ShD  Кожаный рюкзак~
+Desc Кожаный рюкзак лежит здесь.~
+Cond 62
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 524
+Nest 2
+Name осиновый лист артефакт~
+ShD  осиновый лист~
+Desc Осиновый лист лежит здесь.~
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 529
+Nest 2
+Name жесткая нить артефакт~
+ShD  жесткая нить~
+Desc Жесткая плетеная нить лежит здесь.~
+Wear -1
+Cost 33
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 538
+Nest 2
+Name обломок рубина артефакт~
+ShD  обломок рубина~
+Desc Маленький обломок рубина лежит здесь.~
+Cond 99
+Wear -1
+Cost 42
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 515
+Nest 2
+Name металлическое колечко артефакт~
+ShD  металлическое колечко~
+Desc Металлическое колечко лежит здесь.~
+Wear -1
+Cost 16
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 530
+Nest 2
+Name конский волос артефакт~
+ShD  конский волос~
+Desc Волос из хвоста Пегаса лежит здесь.~
+Wear -1
+Cost 34
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 528
+Nest 2
+Name бумажный листок артефакт~
+ShD  бумажный листок~
+Desc Скомканный лист бумаги лежит здесь.~
+Cond 99
+Wear -1
+Cost 32
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 528
+Nest 2
+Name бумажный листок артефакт~
+ShD  бумажный листок~
+Desc Скомканный лист бумаги лежит здесь.~
+Wear -1
+Cost 32
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 562
+Nest 2
+Name частица огня артефакт~
+ShD  частица огня~
+Desc Частица огня мерцает в темноте.~
+Cond 99
+Wear -1
+Cost 36
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Name перышко чайки артефакт~
+ShD  перышко чайки~
+Desc Легкое перышко чайки лежит здесь.~
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Name перышко чайки артефакт~
+ShD  перышко чайки~
+Desc Легкое перышко чайки лежит здесь.~
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Name перышко чайки артефакт~
+ShD  перышко чайки~
+Desc Легкое перышко чайки лежит здесь.~
+Cond 98
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 537
+Nest 2
+Name обломок изумруда артефакт~
+ShD  обломок изумруда~
+Desc Маленький обломок изумруда лежит здесь.~
+Cond 97
+Wear -1
+Cost 41
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 533
+Nest 2
+Name кубик кости артефакт~
+ShD  кубик для игры в кости~
+Desc Небольшой кубик для игры в кости лежит здесь.~
+Cond 99
+Wear -1
+Cost 37
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 553
+Nest 2
+Name перо ангела артефакт~
+ShD  перо ангела~
+Desc Излучающее свет перо лежит здесь.~
+Cond 99
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 553
+Nest 2
+Name перо ангела артефакт~
+ShD  перо ангела~
+Desc Излучающее свет перо лежит здесь.~
+Cond 99
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 522
+Nest 2
+Name серебряный самородок артефакт~
+ShD  серебряный самородок~
+Desc Серебряный самородок лежит здесь.~
+Cond 99
+Wear -1
+Cost 26
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 549
+Nest 2
+Name волос мерлина артефакт~
+ShD  волос {/Мерлина~
+Desc Странного цвета волос едва заметен в пыли.~
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 548
+Nest 2
+Name красный орб артефакт~
+ShD  красный орб~
+Desc Маленький красный орб поблескивает здесь.~
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 557
+Nest 2
+Name стеклянный кубик кислоты артефакт~
+ShD  кубик кислоты~
+Desc Стеклянный кубик с кислотой лежит здесь.~
+Wear -1
+Cost 0
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 524
+Nest 2
+Name осиновый лист артефакт~
+ShD  осиновый лист~
+Desc Осиновый лист лежит здесь.~
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Name перышко чайки артефакт~
+ShD  перышко чайки~
+Desc Легкое перышко чайки лежит здесь.~
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 511
+Nest 2
+Name стеклянный шарик артефакт~
+ShD  стеклянный шарик~
+Desc Светящийся стеклянный шарик лежит здесь.~
+Wear -1
+Cost 17
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 524
+Nest 2
+Name осиновый лист артефакт~
+ShD  осиновый лист~
+Desc Осиновый лист лежит здесь.~
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 557
+Nest 2
+Name стеклянный кубик кислоты артефакт~
+ShD  кубик кислоты~
+Desc Стеклянный кубик с кислотой лежит здесь.~
+Wear -1
+Cost 0
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Name кусок кожи артефакт~
+ShD  кусок кожи~
+Desc Кусок кожи какого-то животного лежит здесь.~
+Cond 99
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Name перо грифа артефакт~
+ShD  перо грифа~
+Desc Перо грифа лежит здесь.~
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Name кусок кожи артефакт~
+ShD  кусок кожи~
+Desc Кусок кожи какого-то животного лежит здесь.~
+Cond 97
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Name перо грифа артефакт~
+ShD  перо грифа~
+Desc Перо грифа лежит здесь.~
+Cond 99
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 518
+Nest 2
+Name перышко совы артефакт~
+ShD  перышко совы~
+Desc Перышко совы лежит здесь.~
+Cond 94
+Wear -1
+Cost 22
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Name перо грифа артефакт~
+ShD  перо грифа~
+Desc Перо грифа лежит здесь.~
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Name перо грифа артефакт~
+ShD  перо грифа~
+Desc Перо грифа лежит здесь.~
+Cond 98
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Name перо грифа артефакт~
+ShD  перо грифа~
+Desc Перо грифа лежит здесь.~
+Cond 98
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 518
+Nest 2
+Name перышко совы артефакт~
+ShD  перышко совы~
+Desc Перышко совы лежит здесь.~
+Wear -1
+Cost 22
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 518
+Nest 2
+Name перышко совы артефакт~
+ShD  перышко совы~
+Desc Перышко совы лежит здесь.~
+Wear -1
+Cost 22
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 513
+Nest 2
+Name коготь орла артефакт~
+ShD  коготь орла~
+Desc Острый коготь орла лежит здесь.~
+Wear -1
+Cost 19
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Name зеркальный камень артефакт~
+ShD  зеркальный камень~
+Desc Камень, обработанный до зеркального блеска, лежит здесь.~
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 524
+Nest 2
+Name осиновый лист артефакт~
+ShD  осиновый лист~
+Desc Осиновый лист лежит здесь.~
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 521
+Nest 2
+Name гранитный камешек артефакт~
+ShD  гранитный камешек~
+Desc Гранитный камешек валяется здесь.~
+Wear -1
+Cost 25
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Name кусок кожи артефакт~
+ShD  кусок кожи~
+Desc Кусок кожи какого-то животного лежит здесь.~
+Cond 99
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Name зеркальный камень артефакт~
+ShD  зеркальный камень~
+Desc Камень, обработанный до зеркального блеска, лежит здесь.~
+Cond 99
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Name кусок кожи артефакт~
+ShD  кусок кожи~
+Desc Кусок кожи какого-то животного лежит здесь.~
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Name зеркальный камень артефакт~
+ShD  зеркальный камень~
+Desc Камень, обработанный до зеркального блеска, лежит здесь.~
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Name зеркальный камень артефакт~
+ShD  зеркальный камень~
+Desc Камень, обработанный до зеркального блеска, лежит здесь.~
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 560
+Nest 2
+Name кусок кожи тролля артефакт~
+ShD  кусок кожи тролля~
+Desc Кусок какой-то грубой зеленоватой кожи лежит здесь.~
+Wear -1
+Cost 35
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Name кусок кожи артефакт~
+ShD  кусок кожи~
+Desc Кусок кожи какого-то животного лежит здесь.~
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Name кусок кожи артефакт~
+ShD  кусок кожи~
+Desc Кусок кожи какого-то животного лежит здесь.~
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Name кусок кожи артефакт~
+ShD  кусок кожи~
+Desc Кусок кожи какого-то животного лежит здесь.~
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 517
+Nest 2
+Name перышко воробья артефакт~
+ShD  перышко воробья~
+Desc Перышко воробья лежит здесь.~
+Wear -1
+Cost 21
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 1345
+Nest 1
+Name кожаный рюкзак~
+ShD  Кожаный рюкзак~
+Desc Кожаный рюкзак лежит здесь.~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Кайтара~
+ShD  коврик из кожи {/{/Кайтара~
+Desc Коврик из кожи {/Кайтара лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  33
+Cost 32
+Val  1 0 1168 116 116
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Джахмы~
+ShD  коврик из кожи {/{/Джахмы~
+Desc Коврик из кожи {/Джахмы лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 51
+Val  1 0 1168 125 125
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Джахмы~
+ShD  коврик из кожи {/{/Джахмы~
+Desc Коврик из кожи {/Джахмы лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 51
+Val  1 0 1168 125 125
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Чефа~
+ShD  коврик из кожи {/{/Чефа~
+Desc Коврик из кожи {/Чефа лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 38
+Val  1 0 1168 119 119
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Чефа~
+ShD  коврик из кожи {/{/Чефа~
+Desc Коврик из кожи {/Чефа лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 42
+Val  1 0 1168 121 121
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Кайтара~
+ShD  коврик из кожи {/{/Кайтара~
+Desc Коврик из кожи {/Кайтара лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 51
+Val  1 0 1168 125 125
+End
+
+#O
+Vnum 2335
+Nest 1
+Name маленький кожаный вещмешок~
+ShD  кожаный вещмешок~
+Desc Маленький кожаный вещмешок лежит здесь.~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2325
+Nest 2
+Name кольцо мраморное толстое~
+ShD  толстое мраморное кольцо~
+Desc Толстое кольцо, сделанное из мрамора лежит здесь.~
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 2326
+Nest 2
+Name браслет толстый мраморный~
+ShD  толстый мраморный браслет~
+Desc Толстый браслет, сделанный из мрамора лежит здесь.~
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 2325
+Nest 2
+Name кольцо мраморное толстое~
+ShD  толстое мраморное кольцо~
+Desc Толстое кольцо, сделанное из мрамора лежит здесь.~
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 2326
+Nest 2
+Name браслет толстый мраморный~
+ShD  толстый мраморный браслет~
+Desc Толстый браслет, сделанный из мрамора лежит здесь.~
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 2325
+Nest 2
+Name кольцо мраморное толстое~
+ShD  толстое мраморное кольцо~
+Desc Толстое кольцо, сделанное из мрамора лежит здесь.~
+Cond 99
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 10336
+Nest 2
+Name нунчаки аватара~
+ShD  нунчаки аватара~
+Desc Нунчаки аватара полны магической энергии.~
+Cond 90
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2339
+Nest 2
+Name меч злобный короткий~
+ShD  Злобный Меч~
+Desc Злобный короткий меч находится здесь.~
+Cond 97
+Wear -1
+Cost 2300
+End
+
+#O
+Vnum 10855
+Nest 2
+Name серебряный венчик~
+ShD  серебряный венчик~
+Desc Серебряный Венчик - женский головной убор необыкновенной красоты и изящества лежит на полу.~
+Cond 98
+Wear -1
+Cost 4200
+End
+
+#O
+Vnum 10633
+Nest 2
+Name браслет из медвежьей кости~
+ShD  браслет из медвежьей кости~
+Desc Белый браслет из кости медведя лежит тут.~
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 10633
+Nest 2
+Name браслет из медвежьей кости~
+ShD  браслет из медвежьей кости~
+Desc Белый браслет из кости медведя лежит тут.~
+Cond 96
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 19420
+Nest 2
+Name накидка из мха~
+ShD  накидка из мха~
+Desc Мягкая накидка из тёмного мха лежит тут.~
+Cond 84
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2300
+Nest 2
+Name боевые перчатки~
+ShD  Пара боевых перчаток~
+Desc Пара, покрытых металлическими пластинками, перчаток лежит здесь.~
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 10854
+Nest 2
+Name накидка Кнесинки~
+ShD  накидка {%Кнесинки~
+Desc Красная накидка сброшена с плеч красавицы.~
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 10335
+Nest 2
+Name меч аватара~
+ShD  меч аватара~
+Desc Меч аватара полон магической энергии.~
+Cond 84
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 101
+Nest 2
+Name квадратные очки~
+ShD  квадратные очки~
+Desc Очки квадратной формы с толстыми линзами в роговой оправе лежат тут.~
+Cond 77
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 2204
+Nest 2
+Name черный шелковый пояс~
+ShD  черный пояс~
+Desc Черный пояс, сделаный из самого прекрасного шелка, висит здесь.~
+Cond 88
+Wear -1
+Cost 3900
+End
+
+#O
+Vnum 2330
+Nest 2
+Name резное деревянное кольцо~
+ShD  резное деревянное кольцо~
+Desc Деревянное кольцо лежит здесь.~
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 7914
+Nest 2
+Name колпак повара~
+ShD  колпак повара~
+Desc Колпак повара небрежно брошен здесь.~
+Cond 54
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 2328
+Nest 2
+Name ледяной жилет~
+ShD  ледяной жилет~
+Desc Груда льда лежит здесь.~
+Cond 91
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 9609
+Nest 2
+Name перстень клинки талоса~
+ShD  {:Перстень {x"{CКлинки Талоса{x"~
+Desc Пестень из какого-то недорого металла лежит здесь.~
+Cond 98
+Wear -1
+Cost 1700
+End
+
+#O
+Vnum 9608
+Nest 2
+Name символ безделушка бронзовая тени талоса~
+ShD  {:Символ {x"{DТени Талоса{x"~
+Desc Бронзовая безделушка лежит здесь таинственно поблескивая.~
+Cond 99
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 9608
+Nest 2
+Name символ безделушка бронзовая тени талоса~
+ShD  {:Символ {x"{DТени Талоса{x"~
+Desc Бронзовая безделушка лежит здесь таинственно поблескивая.~
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 9610
+Nest 2
+Name браслет тьма талоса~
+ShD  {:Браслет {x"{bТьма Талоса{x"~
+Desc Темный браслет лежит здесь чуть мерцая.~
+Cond 97
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 17314
+Nest 2
+Name серебряные шпоры сэра Ламорака~
+ShD  шпоры сэра Ламорака~
+Desc Пара серебряных шпор сэра Ламорака лежит здесь.~
+Cond 87
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 18091
+Nest 2
+Name кинжал легкая смерть dagger death~
+ShD  кинжал "Легкая смерть"~
+Desc Кинжал с кровавыми разводами на лезвии лежит тут.~
+ExtF 256
+Cond 94
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 12658
+Nest 2
+Name железный кинжал~
+ShD  железный кинжал~
+Desc Большой железный кинжал лежит здесь.~
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 31103
+Nest 2
+Name небольшой баделер~
+ShD  баделер~
+Desc Баделер потерян тут кем-то.~
+Cond 95
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 13547
+Nest 2
+Name маленький вихрь~
+ShD  маленький вихрь~
+Desc Небольшой вихрь кружится на одном месте.~
+Cond 87
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 15066
+Nest 2
+Name ледяной кинжал ice dagger~
+ShD  ледяной кинжал~
+Desc Ледяной кинжал брошен на землю.~
+Cond 84
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 15066
+Nest 2
+Name ледяной кинжал ice dagger~
+ShD  ледяной кинжал~
+Desc Ледяной кинжал брошен на землю.~
+Cond 93
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 134
+Nest 2
+Name льняная накидка~
+ShD  льняная накидка~
+Desc Льняная накидка аккуратно сложена здесь.~
+Cond 85
+Wear -1
+Cost 780
+End
+
+#O
+Vnum 2204
+Nest 2
+Name черный шелковый пояс~
+ShD  черный пояс~
+Desc Черный пояс, сделаный из самого прекрасного шелка, висит здесь.~
+Cond 97
+Wear -1
+Cost 3900
+End
+
+#O
+Vnum 15556
+Nest 2
+Name зуб ящера~
+ShD  зуб ящера~
+Desc Острый зуб какой-то рептилии валяется здесь.~
+Cond 94
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 5974
+Nest 2
+Name золотая печатка~
+ShD  золотая печатка~
+Desc Золотая печатка лежит здесь.~
+ExtF 64
+Cond 97
+Wear -1
+Cost 1700
+End
+
+#O
+Vnum 10632
+Enchanted
+Nest 2
+Name кольцо из медвежьей кости~
+ShD  кольцо из медвежьей кости~
+Desc Белое кольцо из медвежьей кости лежит здесь.~
+ExtF 16777280
+Wt   20
+Cond 88
+Wear -1
+Cost 500
+Affc 'reserved'   1  21  -1 -10  17          0
+Affc 'reserved'   1  21  -1   4  18          0
+Affc 'reserved'   1  21  -1   1   2          0
+Affc 'reserved'   0  25  -1   1   0          8
+Affc 'reserved'   1  25  -1   1   4          0
+Affc 'reserved'   1  25  -1   2  19          0
+Affc 'reserved'   1  25  -1  20  13          0
+ExDe кольцо из медвежьей кости~ Вставлено в гнездо: перышко воробья.~
+End
+
+#O
+Vnum 10633
+Nest 2
+Name браслет из медвежьей кости~
+ShD  браслет из медвежьей кости~
+Desc Белый браслет из кости медведя лежит тут.~
+Cond 98
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 10866
+Nest 2
+Name солнцезащитные очки~
+ShD  солнцезащитные очки~
+Desc Солнцезащитные очки тускло блестят темными стёклами.~
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 20233
+Nest 2
+Name посох лесника~
+ShD  посох лесника~
+Desc Большой красивый посох лежит здесь.~
+Wear -1
+Cost 5600
+End
+
+#O
+Vnum 20234
+Nest 2
+Name волчий амулет~
+ShD  волчий амулет~
+Desc Амулет с выгравированной головой волка лежит здесь.~
+Wear -1
+Cost 1235
+End
+
+#O
+Vnum 2333
+Nest 2
+Name кроваво красный камень~
+ShD  кроваво-красный камень~
+Desc Кроваво-красный камень лежит в пыли.~
+Cond 98
+Wear -1
+Cost 580
+End
+
+#O
+Vnum 2516
+Nest 2
+Name посох серый~
+ShD  серый посох~
+Desc Посох из серого дерева лежит здесь.~
+Cond 97
+Wear -1
+Cost 5320
+Spell 3 'heal'
+End
+
+#O
+Vnum 2342
+Nest 2
+Name шипастый щит~
+ShD  шипастый щит~
+Desc Маленький шипастый щит лежит здесь.~
+Wear -1
+Cost 6600
+End
+
+#O
+Vnum 12657
+Nest 2
+Name мифриловый кинжал~
+ShD  мифриловый кинжал~
+Desc Мифриловый кинжал лежит здесь.~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 20234
+Nest 2
+Name волчий амулет~
+ShD  волчий амулет~
+Desc Амулет с выгравированной головой волка лежит здесь.~
+Wear -1
+Cost 1235
+End
+
+#O
+Vnum 13313
+Nest 2
+Name маска~
+ShD  деревянная маска~
+Desc Маска из черного дерева ждет своей очереди для отправки в печь.~
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10774
+Nest 2
+Name полированный браслет~
+ShD  полированный браслет {/Кнеса~
+Desc Полированный браслет, выполненный из необычайно прочного дерева  - ценная находка для искателей приключений!~
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 30012
+Nest 2
+Name цветок папоротника~
+ShD  цветок папоротника~
+Desc Неимоверной красоты цветок растет из-под земли.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10774
+Nest 2
+Name полированный браслет~
+ShD  полированный браслет {/Кнеса~
+Desc Полированный браслет, выполненный из необычайно прочного дерева  - ценная находка для искателей приключений!~
+Cond 84
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10774
+Nest 2
+Name полированный браслет~
+ShD  полированный браслет {/Кнеса~
+Desc Полированный браслет, выполненный из необычайно прочного дерева  - ценная находка для искателей приключений!~
+Cond 88
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10773
+Nest 2
+Name плетеный перстень кнеса~
+ShD  плетеный перстень {/Кнеса~
+Desc Перстень, выполненный необычным, ранее невиданным способом обработки дерева, притягивает взор.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10774
+Nest 2
+Name полированный браслет~
+ShD  полированный браслет {/Кнеса~
+Desc Полированный браслет, выполненный из необычайно прочного дерева  - ценная находка для искателей приключений!~
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10889
+Nest 1
+Name желудок кротокрыса~
+ShD  {yЖелудок {gкротокрыса{x~
+Desc Желудок кротокрыса может вместить что угодно и кого угодно... Бррр....~
+Cond 92
+Wear -1
+Cost 115
+Val  1000 1 0 3000 10
+End
+
+#O
+Vnum 17310
+Nest 2
+Name меч экскалибур~
+ShD  Экскалибур~
+Desc Прекрасный меч с рукояткой в виде дракона лежит здесь.~
+Cond 96
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 24617
+Nest 2
+Name варежки Алиньяна~
+ShD  {cварежки {yАлиньяна{x~
+Desc Теплые варежки привлекают тебя своим видом.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 24616
+Nest 2
+Name алмазная цепь Сенувея~
+ShD  алмазная цепь {/Сенувея~
+Desc Миниатюрная цепь с алмазами лежит здесь.~
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 24616
+Nest 2
+Name алмазная цепь Сенувея~
+ShD  алмазная цепь {/Сенувея~
+Desc Миниатюрная цепь с алмазами лежит здесь.~
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 26040
+Nest 2
+Name меч святой каратель~
+ShD  меч "{WCвятой каратель{w"{x~
+Desc Меч "Святой каратель" лежит здесь.~
+ExtF 0
+Cond 99
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 26039
+Nest 2
+Name кинжал святой каратель~
+ShD  кинжал "{WCвятой каратель{w"{x~
+Desc Кинжал "Святой каратель" лежит здесь.~
+ExtF 0
+Cond 98
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 5520
+Nest 2
+Name топор ледяной~
+ShD  ледяной топор~
+Desc Ледяной топор брошен здесь кем-то.~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5520
+Nest 2
+Name топор ледяной~
+ShD  ледяной топор~
+Desc Ледяной топор брошен здесь кем-то.~
+Cond 99
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13876
+Nest 2
+Name кольцо занзара shel_~
+ShD  {YКольцо {YЗанзара{x~
+Desc {YКольцо Занзара{y брошено тут.{x~
+Cond 77
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 14015
+Nest 2
+Name живой медальон~
+ShD  живой медальон~
+Desc Этот медальон ЖИВОЙ, берегись его!~
+Cond 86
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 10615
+Nest 2
+Name копье древнего бога~
+ShD  копье {Bдревнего{x бога~
+Desc Небольшое копье с позолоченным наконечником лежит здесь.~
+ExtF 0
+Cond 96
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 15447
+Nest 2
+Name адское лезвие~
+ShD  адское лезвие~
+Desc Оружие адских сил лежит здесь.~
+ExtF 68
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 14051
+Nest 2
+Name эльфийский плащ~
+ShD  эльфийский плащ~
+Desc Зeленый плащ эльфoв лежит нa зeмле.~
+Cond 97
+Wear -1
+Cost 3401
+End
+
+#O
+Vnum 20412
+Nest 2
+Name вороненый доспех~
+ShD  вороненый доспех~
+Desc Вороненый доспех лежит тут.~
+Cond 61
+Wear -1
+Cost 6700
+End
+
+#O
+Vnum 17329
+Nest 2
+Name копье страха~
+ShD  Копье страха~
+Desc Копье, окутаное черной пылающей аурой Ненависти и Ужаса, гасит свет вокруг себя.~
+ExtF 84
+Cond 71
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 20041
+Nest 2
+Name саркозан меч~
+ShD  Саркозан~
+Desc Огромный меч лежит здесь у твоих ног.~
+ExtF 1
+Wear -1
+Cost 10814
+End
+
+#O
+Vnum 14006
+Nest 2
+Name чешуйчатый амулет~
+ShD  чешуйчатый амулет~
+Desc Чешуйчатый амулeт пеpеливаeтся в лучax света.~
+ExtF 16781312
+Wear -1
+Cost 543
+End
+
+#O
+Vnum 10797
+Nest 2
+Name зеркальный шлем~
+ShD  {CЗеркальный Шлем{x~
+Desc Зеркальный шлем - античный артефакт - достойнейшая награда для самого достойного...~
+ExtF 51904576
+Wear -1
+Cost 12300
+End
+
+#O
+Vnum 5714
+Nest 2
+Name кольцо с рубином~
+ShD  кольцо с рубином~
+Desc Золотое кольцо с рубином лежит в пыли.~
+ExtF 16777280
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5711
+Nest 2
+Name призрачный кинжал~
+ShD  призрачный кинжал~
+Desc Едва заметный, прозрачный кинжал висит над землей.~
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 15026
+Nest 2
+Name меч армагеддон sword armageddon~
+ShD  меч {yАрмагеддон{x~
+Desc Зловещий черный меч лежит на земле.~
+Wear -1
+Cost 5600
+End
+
+#O
+Vnum 29650
+Nest 2
+Name сломаный кинжал~
+ShD  сломаный кинжал~
+Desc На полу валяется кинжал с половиной лезвия. Видно кто-то его сломал в горячке боя.~
+Cond 98
+Wear -1
+Cost 675
+End
+
+#O
+Vnum 5714
+Nest 2
+Name кольцо с рубином~
+ShD  кольцо с рубином~
+Desc Золотое кольцо с рубином лежит в пыли.~
+ExtF 16777280
+Cond 90
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 24615
+Nest 2
+Name печатка Амонпея~
+ShD  печатка {/Амонпея~
+Desc Платиновая печатка привлекает твое внимание.~
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 9037
+Nest 2
+Name старый меч~
+ShD  {WСтарый{c меч{x~
+Desc Старый меч подрагивает у твоих ног.~
+ExtF 2
+Wear -1
+Cost 5600
+End
+
+#O
+Vnum 18020
+Nest 2
+Name посох второго изменения staff~
+ShD  посох 2-го измерения~
+Desc Длинный посох из звездного металла лежит тут.~
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 18096
+Nest 2
+Name платиновая цепочка~
+ShD  {Wплатиновая цепочка{x~
+Desc Цепочка из светлого металла лежит тут.~
+ExtF 16777281
+Cond 99
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 2422
+Nest 2
+Name хитиновая броня гордость~
+ShD  {/{YГордость Дианы{x~
+Desc Необычайно твердая броня из хитина лежит здесь.~
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 12474
+Nest 2
+Name плащ из шкуры феерического дракона~
+ShD  плащ из шкуры {Cфеерического дракона{x~
+Desc Ты видишь плащ из шкуры {Cфеерического дракона{x.~
+ExtF 17563714
+Cond 98
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 15449
+Nest 2
+Name щит нечестивца~
+ShD  щит нечестивца~
+Desc Огромный щит потерян кем-то.~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 17356
+Nest 2
+Name адский щит~
+ShD  адский щит~
+Desc Щит, от которого веет злом, лежит здесь.~
+Wear -1
+Cost 9300
+End
+
+#O
+Vnum 12641
+Nest 2
+Name астероид~
+ShD  астероид~
+Desc Маленький астероид летает вокруг.~
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 10649
+Nest 2
+Name волчий камень~
+ShD  волчий камень~
+Desc Камень в форме головы волка лежит здесь.~
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2415
+Nest 2
+Name хрустящий меч~
+ShD  меч {/{BХруста{x~
+Desc Тонкий, но невероятно тяжелый меч притягивает твой взгляд.~
+ExtF 268435456
+Cond 82
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 10871
+Nest 2
+Name узорчатый клинок firesword~
+ShD  узорчатый клинок~
+Desc Узорчатый клинок под названием {Y*Солнечный Пламень*{x {gоставлен здесь.{x~
+ExtF 17301568
+Cond 82
+Wear -1
+Cost 5202
+End
+
+#O
+Vnum 15232
+Nest 2
+Name железный меч iron sword~
+ShD  железный меч~
+Desc Тяжелый железный меч лежит тут.~
+Cond 97
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 18758
+Nest 2
+Name горящий факел~
+ShD  горящий факел~
+Desc Горящий факел лежит здесь.~
+ExtF 16777472
+Cond 99
+Wear -1
+Cost 2840
+End
+
+#O
+Vnum 13551
+Nest 2
+Name раскаленные щипцы~
+ShD  раскаленные щипцы~
+Desc Большие раскаленные до красна щипцы брошены здесь.~
+ExtF 0
+Cond 98
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5514
+Nest 2
+Name копье призрачное~
+ShD  призрачное копье~
+Desc Длинное призрачное копье брошено здесь.~
+ExtF 0
+Cond 96
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 10828
+Nest 2
+Name передний резец~
+ShD  передний Резец~
+Desc Огромный и длинный, как копьё, передний резец Кротокрыса вырван с корнем из челюсти чудовища.~
+ExtF 786432
+Cond 72
+Wear -1
+Cost 5810
+End
+
+#O
+Vnum 10662
+Nest 2
+Name зеленый череп~
+ShD  зеленый череп~
+Desc Череп зеленого дракона лежит здесь.~
+Cond 95
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9020
+Nest 2
+Name тугой кожаный доспех~
+ShD  тугой кожаный доспех~
+Desc Тугой кожаный доспех лежит здесь.~
+Cond 95
+Wear -1
+Cost 5800
+End
+
+#O
+Vnum 13217
+Nest 2
+Name кольцо глубин~
+ShD  кольцо глубин~
+Desc Кольцо глубин светится синим светом.~
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 10773
+Nest 2
+Name плетеный перстень кнеса~
+ShD  плетеный перстень {/Кнеса~
+Desc Перстень, выполненный необычным, ранее невиданным способом обработки дерева, притягивает взор.~
+Cond 99
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 15015
+Nest 2
+Name золотой браслет golden bracer~
+ShD  золотой браслет~
+Desc Тяжелый золотой браслет лежит на земле.~
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10868
+Nest 2
+Name знамя кнеса~
+ShD  знамя {/Кнеса~
+Desc Знамя Кнеса Темнолесья оставлено тут.~
+Cond 96
+Wear -1
+Cost 1600
+Val  0 0 2859 0 0
+End
+
+#O
+Vnum 9027
+Nest 2
+Name жаркие перчатки~
+ShD  жаркие перчатки~
+Desc Перчатки, от которых веет жаром лежат здесь.~
+Cond 98
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 4880
+Nest 2
+Name золотой поясок~
+ShD  золотой поясок~
+Desc Золотой поясок, с причудливыми надписями на эльфийском языке лежит тут.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10869
+Nest 2
+Name плетеный пояс~
+ShD  плетеный пояс~
+Desc Плетеный пояс с ножнами оставлен тут без присмотра.~
+Cond 53
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 2422
+Nest 2
+Name хитиновая броня гордость~
+ShD  {/{YГордость Дианы{x~
+Desc Необычайно твердая броня из хитина лежит здесь.~
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20445
+Nest 2
+Name богатый кинжал~
+ShD  богатый кинжал~
+Desc Дорогой кинжал лежит тут.~
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 26044
+Nest 2
+Name железо-хитиновый огненный доспех хитиновый железный~
+ShD  железо-хитиновый огненный доспех~
+Desc Пылающий железо-хитиновый доспех лежит здесь.~
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 7620
+Nest 2
+Name плеть эррту whip errtu~
+ShD  Плеть {RЭррту{x~
+Desc Огромная толстая плеть лежит здесь.~
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 10773
+Nest 2
+Name плетеный перстень кнеса~
+ShD  плетеный перстень {/Кнеса~
+Desc Перстень, выполненный необычным, ранее невиданным способом обработки дерева, притягивает взор.~
+Cond 99
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10828
+Nest 2
+Name передний резец~
+ShD  передний Резец~
+Desc Огромный и длинный, как копьё, передний резец Кротокрыса вырван с корнем из челюсти чудовища.~
+ExtF 786432
+Wear -1
+Cost 5810
+End
+
+#O
+Vnum 3828
+Nest 2
+Name пояс святой~
+ShD  святой пояс~
+Desc Белый святой пояс брошен здесь кем-то.~
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3830
+Nest 2
+Name поножи главы ордена~
+ShD  поножи главы ордена~
+Desc Поножи главы ордена инквизиции оставлены здесь кем-то.~
+Wear -1
+Cost 3400
+End
+
+#O
+Vnum 3082
+Nest 2
+Name божественное зелье~
+ShD  зелье божественной защиты~
+Desc Зелье божественной защиты лежит здесь.~
+Wear -1
+Cost 10000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 4426
+Nest 2
+Name адамант~
+ShD  адамант~
+Desc Адамант, хранящий в себе древние силы, лежит здесь.~
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10660
+Nest 2
+Name перепончатые перчатки Iras_~
+ShD  перепончатые перчатки~
+Desc Аккуратные кожаные перчатки лежат тут.~
+Cond 76
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13312
+Nest 2
+Name черный посох~
+ShD  черный посох~
+Desc Резной посох из черного дерева притягивает взор.~
+Wear -1
+Cost 2401
+End
+
+#O
+Vnum 30607
+Nest 2
+Name амулет добра~
+ShD  амулет добра~
+Desc Сияющий амулет притягивает твое внимание.~
+Wear -1
+Cost 2820
+End
+
+#O
+Vnum 30607
+Nest 2
+Name амулет добра~
+ShD  амулет добра~
+Desc Сияющий амулет притягивает твое внимание.~
+Wear -1
+Cost 2820
+End
+
+#O
+Vnum 11235
+Nest 2
+Name хрустальные браслеты~
+ShD  {Cхрустальные {cбраслеты{x~
+Desc Браслеты, мерцающие хрусталем, лежат здесь.~
+ExtF 16777218
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 15048
+Nest 2
+Name плащ палача executioner coat~
+ShD  плащ палача~
+Desc Красный плащ лежит на земле.~
+Cond 98
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 15074
+Nest 2
+Name тонкий кинжал thin dagger~
+ShD  тонкий кинжал~
+Desc Длинный тонкий кинжал брошен на землю.~
+Cond 99
+Wear -1
+Cost 5400
+End
+
+#O
+Vnum 18052
+Nest 2
+Name топор короля норберта axe king norbert~
+ShD  топор короля Норберта~
+Desc Топор с длинной рукояткой торчит из земли.~
+ExtF 262209
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20453
+Nest 2
+Name индульгенция~
+ShD  индульгенция~
+Desc Свернутый свиток с надписью "Индульгенция" лежит здесь.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 1228
+Nest 2
+Name средний квестовый щит~
+ShD  средний квестовый щит~
+Desc Средний квестовый щит лежит здесь.~
+Wear -1
+Cost 3463
+End
+
+#O
+Vnum 11021
+Nest 2
+Name копье метатрона~
+ShD  копье {/Метатрона~
+Desc Острое копье лежит на земле.~
+Cond 96
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 20239
+Nest 2
+Name меч призраков~
+ShD  меч {RПризраков{x~
+Desc Большой меч со старыми письменами лежит перед тобой.~
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 29530
+Nest 2
+Name древний посох~
+ShD  древний посох~
+Desc Очень древний посох, лежащий здесь, как будто впитывает всю энергию из воздуха возле себя.~
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 7621
+Nest 2
+Name костяное кольцо bone ring~
+ShD  Костяное Кольцо~
+Desc Легкое кольцо из куска кости лежит у твоих ног.~
+Cond 99
+Wear -1
+Cost 6800
+End
+
+#O
+Vnum 4684
+Nest 2
+Name алмазный меч adamant_sword~
+ShD  алмазный меч~
+Desc Алмазный меч передается по наследству Королями гномов.~
+Wear -1
+Cost 9812
+End
+
+#O
+Vnum 8052
+Nest 2
+Name око саурона~
+ShD  {RОко {DСаурона{x~
+Desc Чье-то красное око излучает здесь свою мрачную силу.~
+Wear -1
+Cost 10000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 10797
+Nest 2
+Name зеркальный шлем~
+ShD  {CЗеркальный Шлем{x~
+Desc Зеркальный шлем - античный артефакт - достойнейшая награда для самого достойного...~
+ExtF 51904576
+Wear -1
+Cost 12300
+End
+
+#O
+Vnum 10674
+Nest 2
+Name наручи древнего бога~
+ShD  наручи {WДревнего{x Бога~
+Desc Сияющие белым светом наручи лежат здесь.~
+Wear -1
+Cost 55
+End
+
+#O
+Vnum 10615
+Nest 2
+Name копье древнего бога~
+ShD  копье {Bдревнего{x бога~
+Desc Небольшое копье с позолоченным наконечником лежит здесь.~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 4869
+Nest 2
+Name драконья чешуя~
+ShD  драконья Чешуя~
+Desc Темнозеленые чешуйки лежат тут.~
+Cond 89
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 13876
+Nest 2
+Name кольцо занзара shel_~
+ShD  {YКольцо {YЗанзара{x~
+Desc {YКольцо Занзара{y брошено тут.{x~
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 13876
+Nest 2
+Name кольцо занзара shel_~
+ShD  {YКольцо {YЗанзара{x~
+Desc {YКольцо Занзара{y брошено тут.{x~
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 678
+Nest 2
+Name лик тьмы пучок энергии~
+ShD  лик тьмы~
+Desc Маленький пучок темной энергии лежит здесь.~
+ExtF 16777280
+Cond 16
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12115
+Nest 2
+Name мохнатые перчатки~
+ShD  мохнатые перчатки~
+Desc Мохнатые перчатки брошены здесь сатиром.~
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9035
+Nest 2
+Name орден наставника~
+ShD  орден {YНаставника{x~
+Desc Тяжелый орден на массивной цепи лежит здесь.~
+Cond 99
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 2922
+Nest 2
+Name меч долга~
+ShD  {RМеч {BДолга{x~
+Desc Тяжелый меч лежит у твоих ног, издавая еле слышный звук.~
+Wear -1
+Cost 8350
+End
+
+#O
+Vnum 20224
+Nest 2
+Name амулет шута ulib_~
+ShD  амулет шута~
+Desc Красивый амулет аккуратно положен здесь.~
+Wear -1
+Cost 7800
+End
+
+#O
+Vnum 20221
+Nest 2
+Name посох шута~
+ShD  посох шута~
+Desc Посох шута с огромным количеством звонких бубенчиков лежит здесь.~
+ExtF 1
+Cond 91
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10790
+Nest 2
+Name алмазная лента~
+ShD  алмазная Лента <Герой Темнолесья>~
+Desc Выполненная из темно-красного бархата лента, густо обшита крупными алмазами и украшена бриллиантовыми словами {/{W<{x{YГерой Темнолесья{x{W>{x.~
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 20463
+Nest 2
+Name окованые ботфорты~
+ShD  {Dокованые{x ботфорты~
+Desc Чудесные окованые бронзой ботфорты валяются на полу.~
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10828
+Nest 2
+Name передний резец~
+ShD  передний Резец~
+Desc Огромный и длинный, как копьё, передний резец Кротокрыса вырван с корнем из челюсти чудовища.~
+ExtF 786432
+Wear -1
+Cost 5810
+End
+
+#O
+Vnum 10797
+Nest 2
+Name зеркальный шлем~
+ShD  {CЗеркальный Шлем{x~
+Desc Зеркальный шлем - античный артефакт - достойнейшая награда для самого достойного...~
+ExtF 51904592
+Wear -1
+Cost 12300
+Affc 'curse'   1  44  75   1  20         16
+End
+
+#END

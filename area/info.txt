@@ -1,0 +1,125 @@
+1. С появлением recipe.c изменились файлы
+Makefile
+Makefile.key
+Makefile.win
+
+2. act_info.c
+Описаны новые типы ITEM_MORTAR и ITEM_INGREDIENT, на легенд.
+
+3. act_move.c
+Добавлена раса алхимиков в таблицу movement_loss.
+При аффекте слизь, увеличивается трата шагов (move_char).
+
+4. act_obj.c
+Ступа может вмещать определенное количество вещей, добавлена проверка (check_mortar_put).
+Установлена проверка в функции do_put.
+В функциях описаны новые типы ITEM_MORTAR и ITEM_INGREDIENT, на положить, взять, аукцион.
+
+5. act_wiz.c
+Новая функция по работе с рецептами do_recipe.
+В функциях описаны новые типы ITEM_MORTAR и ITEM_INGREDIENT, на стат шмотки.
+
+6. comm.c
+Отключена возможность ренерации профессии алхимиков, искать по слову findme.
+
+7. const.c
+В item_table добавлены типы ITEM_MORTAR и ITEM_INGREDIENT.
+
+8. db.c
+Добавлена загрузка рецептов из файла recipe.txt
+В create_object добавлены типы ITEM_MORTAR и ITEM_INGREDIENT.
+
+9. db2.c
+В load_objects добавлены типы ITEM_MORTAR и ITEM_INGREDIENT.
+
+10. fight.c
+Добавлены функции: 
+check_gritstorm - проверка на наличие аффекта вихрь осколков и нанесение дамаги. Вызывается в функции multi_hit.	
+char_in_room_update - функция проверяет есть ли в том же руме объекты наносыщие дамагу или какой аффект. Объекты шаровая молния, зловонное облако, кислотный туман, огненное облако.
+create_ingredient - функция создания ингредиента. Вызывается при do_collection или при смерти моба.
+do_mix - замешивает зелье в бутыль, можно добавлять касты. 
+do_pound - делает пилюлю.
+do_collection - позволяет собирать ингредиенты.
+
+11. handler.c
+
+12. interp.c interp.h
+Добавлены новые команды в cmd_table
+
+13. load.c
+
+14. magic.c
+В do_cast добавлены проверки на флаги protection_sphere, 
+
+15. magic.h
+DECLARE_SPELL_FUN(	spell_protection_sphere );
+DECLARE_SPELL_FUN(	spell_protection_elements );
+DECLARE_SPELL_FUN(	spell_absorb_thing	);
+DECLARE_SPELL_FUN(	spell_stinking_cloud	);
+DECLARE_SPELL_FUN(	spell_flame_cloud	);
+DECLARE_SPELL_FUN(	spell_acid_fog		);
+DECLARE_SPELL_FUN(	spell_slime		);
+DECLARE_SPELL_FUN(	spell_gritstorm		);
+DECLARE_SPELL_FUN(	spell_energy_potion	);
+DECLARE_SPELL_FUN(	spell_create_mortar	);
+DECLARE_SPELL_FUN(	spell_rename_potion	);
+DECLARE_SPELL_FUN(	spell_create_potion	);
+DECLARE_SPELL_FUN(	spell_create_creature	);
+
+16. magic2.c
+Добавлены новые касты (см. выше)
+
+17. merc.h
+ДОбавлен новый класс CLASS_ALCHEMIST.
+Новый тип RECIPE_DATA и дополнительные переменные.
+
+18. mob_ai.c
+Добавлены типы ITEM_MORTAR и ITEM_INGREDIENT в get_good_objs.
+
+19. mob_cmds.c
+mob_prog.c
+olc.c
+olc.h
+
+20. olc_act.c
+Создание типов ITEM_MORTAR и ITEM_INGREDIENT.
+
+21. olc_save.c
+Сохранение типов ITEM_MORTAR и ITEM_INGREDIENT.
+
+22. recipe.c
+Функции по работе с рецептами, используются в do_recipe.
+
+23. recycle.c
+Функции new_recipe и free_recipe.
+
+24. recycle.h
+/* recipe recycling */
+#define RE RECIPE_DATA
+RE	*new_recipe args( (void) );
+void	free_recipe args( (RECIPE_DATA *recipe) );
+#undef RE
+
+25. save.c
+
+26. special.c
+Новые SPEC_FUN по аналогии с имеющимися.
+DECLARE_SPEC_FUN( spec_homunculus_mage	);
+DECLARE_SPEC_FUN( spec_homunculus_cleric );
+DECLARE_SPEC_FUN( spec_golem_damager 	);
+
+
+27. tables.c
+Определение флагов
+    { "",		ing_sector_flags, FALSE},
+    { "",		ing_weather_flags, FALSE},
+
+28. update.c
+obj_update с типами ITEM_MORTAR и ITEM_INGREDIENT.
+char_update апдейт с новыми аффектами.
+
+29. Добавлен новый класс Алхимик.
+
+30. В skill.cfg определены новые умения и заклинания.
+
+31. В group.cfg определены базовые умения и заклинания алхимиков, а также новые группы заклинаний.

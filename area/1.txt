@@ -1,0 +1,72 @@
+./blackmountains.are:5885:obj damage $n 500 1000
+./blackmountains.are:5908:obj damage $n 200 400
+./catacomb.are:2283:OBJ DAMAGE $n 300 500 lethal
+./crematoriy.are:2614:obj DAMAGE $n 200 500 lethal~
+./darkwood.are:8888:obj damage $n 15 20
+./darkwood.are:8906:obj damage $n 15 25
+./darkwood.are:9019:obj damage $n 25 50
+./darkwood.are:9041:obj damage $n 20 40
+./darkwood.are:9051:obj damage $n 10 15
+./darkwood.are:9058:obj damage $n 10 15
+./drow.are:1714:obj damage $n 90000 90000 lethal
+./fomagic.are:5152:obj damage $n 200 500
+./fomagic.are:5161:obj damage $n 250 500
+./fomagic.are:5210:obj damage $n 250 500
+./fomagic.are:5218:obj damage $n 250 500
+./Gardburg.are:3266:                                 obj damage $n 20 25
+./gold.are:5433:obj damage $n 300 300 lethal
+./heal.are:3779:obj damage all 100 ~
+./heal.are:3787:obj damage $n 100 100
+./hindu_v.are:1321:      obj damage $n 10 30 lethal
+./house.are:3369:obj damage $n 60 60
+./house.are:3382:obj damage $n 10 10
+./house.are:3392:obj damage $n 60 60
+./house.are:3400:obj damage $n 60 60
+./ice.are:5330:obj damage $n 500 500
+./ice.are:5377:obj damage $n 2000 2000 lethal
+./ice.are:5387:obj damage $n 500 500
+./immort.are:3478:obj damage $n 8000 8000 lethal
+./immort.are:3494:obj damage $n 5000 5000 lethal
+./immort.are:3566:obj damage $n 300 400 lethal
+./immort.are:3711:obj damage $n 5 10
+./immort.are:3820:obj damage $n 90000 90000 lethal
+./kelton.are:3101:obj damage $n 100 100 lethal
+./kelton.are:3112:obj damage $n 25 25 lethal
+./kelton.are:3122:obj damage $n 25 25 lethal
+./kelton.are:3133:obj damage $n 25 25 lethal
+./kelton.are:3142:obj damage $n 25 25 lethal
+./kelton.are:3163:obj damage $n 100 100 lethal
+./kelton.are:3174:obj damage $n 25 25 lethal
+./kelton.are:3184:obj damage $n 25 25 lethal
+./kelton.are:3195:obj damage $n 25 25 lethal
+./kelton.are:3204:obj damage $n 25 25 lethal
+./labdeath.are:3324:OBJ DAMAGE all 10 30
+./northpath.are:4270:obj damage $c 100 500
+./occastle.are:1422:    obj damage all 50 50
+./occastle.are:1423:    obj damage $w 25 25 lethal
+./prison.are:2626:obj damage $r 90000 90000 lethal
+./protivos.are:3385:obj damage $n 100 200 lethal
+./protivos.are:3389:obj damage витязь 3000 3500 lethal
+./protivos.are:3390:obj damage 2.витязь 3000 3500 lethal
+./protivos.are:3391:obj damage 3.витязь 3000 3500 lethal
+./protivos.are:3397:obj damage наложница 4000 4500 lethal
+./protivos.are:3398:obj damage 2.наложница 4000 4500 lethal
+./redferne.are:2601:obj damage $n 90000 90000 lethal
+./scho.are:4070:obj damage $n 2000 2000
+./sclep.are:4286:obj DAMAGE $n 100 200 lethal
+./sclep.are:4292:obj DAMAGE $n 100 200 lethal
+./sclep.are:4302:obj DAMAGE $n 100 200 lethal
+./sclep.are:4309:obj DAMAGE $n 100 200 lethal
+./shadlandia.are:11238:obj damage $n 4 8~
+./shadlandia.are:11245:obj damage $n 15 50~
+./SsinVerin.are:10023:OBJ DAMAGE $n 5 10
+./SsinVerin.are:10031:OBJ DAMAGE $n 5 10
+./stalkers.are:4431: OBJ DAMAGE $n 5 20
+./stalkers.are:4443: OBJ DAMAGE $n 5 20
+./stalkers.are:4476: OBJ DAMAGE $n 5 20
+./stalkers.are:4497: OBJ DAMAGE $n 5 20
+./stalkers.are:4510:  OBJ DAMAGE $n 5 20
+./sure.are:4737:obj damage $n  100 100 lethal
+./tunn_hak.are:3511:OBJ DAMAGE $n 300 500 lethal
+./unwill.are:2278:obj damage $n  1000 2000 lethal
+./zhiv_les.are:1825:*obj damage all 1000 1000 lethal

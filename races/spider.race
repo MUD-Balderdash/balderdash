@@ -1,0 +1,12 @@
+Filename  spider.race~
+Name      spider~
+MName     паук~
+FName     паучиха~
+PC        false
+Act       animal~
+Aff       ~
+Off       dodge fast~
+Form      edible poison animal insect spider~
+Parts     head legs eye~
+End
+* charset=cp1251

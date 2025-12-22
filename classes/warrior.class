@@ -1,0 +1,212 @@
+Filename     warrior.class~
+Name         воин~
+WName        Воин~
+Primary      Str~
+Secondary    Str~
+Weapon       ~
+SkillAdept   75
+THAC0        15 -5
+MinHP        11
+MaxHP        15
+MagicUser    nomagic~
+BaseGroup    warrior basics~
+DefaultGroup warrior default~
+Align        evil neutral good~
+Guilds       3022 9633 4439 4600 4717 4895 1160 8064 7556 8428 8427 31768 10376 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'warrior basics'       0
+Group        'warrior default'      40
+Group        'weaponsmaster'        28
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        1  4 'axe'                          false
+Skill        1  2 'dagger'                       false
+Skill        1  4 'flail'                        false
+Skill        1  3 'mace'                         false
+Skill        1  4 'polearm'                      false
+Skill        1  2 'shield block'                 false
+Skill        1  3 'spear'                        false
+Skill        1  4 'staff'                        false
+Skill        1  2 'sword'                        false
+Skill        1  4 'whip'                         false
+Skill        1  2 'exotic weapon'                false
+Skill        3  4 'bash'                         false
+Skill        18 5 'berserk'                      false
+Skill        12 4 'dirt kicking'                 false
+Skill        11 4 'disarm'                       false
+Skill        13 6 'dodge'                        false
+Skill        8  3 'enhanced damage'              false
+Skill        6  4 'hand to hand'                 false
+Skill        8  3 'kick'                         false
+Skill        1  4 'parry'                        false
+Skill        1  4 'rescue'                       false
+Skill        15 6 'trip'                         false
+Skill        5  3 'second attack'                false
+Skill        17 4 'third attack'                 false
+Skill        35 5 'fourth attack'                false
+Skill        8  4 'second weapon'                false
+Skill        8  4 'lunge'                        false
+Skill        38 3 'cleave'                       false
+Skill        6  0 'tail'                         false
+Skill        16 4 'fight off'                    false
+Skill        15 4 'riding'                       false
+Skill        25 3 'fight on mount'               false
+Skill        22 2 'care style'                   false
+Skill        22 2 'aggressive style'             false
+Skill        11 3 'deafen'                       false
+Skill        29 3 'leadership'                   false
+Skill        25 5 'select enemy'                 false
+Skill        6  4 'fast healing'                 false
+Skill        14 6 'haggle'                       false
+Skill        18 0 'hide'                         false
+Skill        20 3 'lore'                         false
+Skill        20 8 'meditation'                   false
+Skill        24 6 'peek'                         false
+Skill        25 8 'pick lock'                    false
+Skill        16 0 'sneak'                        false
+Skill        1  6 'scrolls'                      false
+Skill        1  6 'staves'                       false
+Skill        1  6 'wands'                        false
+Skill        22 2 'sharpen'                      false
+Skill        24 2 'reinforce armor'              false
+Skill        1  2 'recall'                       false
+Skill        1  6 'rods'                         false
+Skill        15 1 'armor use'                    false
+Skill        2  1 'recovery'                     false
+Skill        4  1 'run'                          false
+Skill        18 3 'bandage'                      false
+Skill        19 1 'make bag'                     false
+Skill        16 4 'secondary mastery'            false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  Ученик воина~
+FTitle       1  Ученица воина~
+MTitle       2  Рекрут~
+FTitle       2  Рекрут~
+MTitle       3  Часовой~
+FTitle       3  Часовая~
+MTitle       4  Боец~
+FTitle       4  Боец~
+MTitle       5  Солдат~
+FTitle       5  Солдат~
+MTitle       6  Воин~
+FTitle       6  Воин~
+MTitle       7  Ветеран~
+FTitle       7  Ветеран~
+MTitle       8  Фехтовальщик~
+FTitle       8  Фехтовальщица~
+MTitle       9  Искусный фехтовальщик~
+FTitle       9  Искусная фехтовальщица~
+MTitle       10 Закаленный воин~
+FTitle       10 Закаленная воительница~
+MTitle       11 Герой~
+FTitle       11 Героиня~
+MTitle       12 Прислужник~
+FTitle       12 Прислужница~
+MTitle       13 Головорез~
+FTitle       13 Головорез~
+MTitle       14 Наемник~
+FTitle       14 Наемница~
+MTitle       15 Мастер оружия~
+FTitle       15 Мастер оружия~
+MTitle       16 Лейтенант~
+FTitle       16 Лейтенант~
+MTitle       17 Чемпион~
+FTitle       17 Чемпион~
+MTitle       18 Драгун~
+FTitle       18 Драгун~
+MTitle       19 Кавалер~
+FTitle       19 Кавалер~
+MTitle       20 Рыцарь~
+FTitle       20 Рыцарь~
+MTitle       21 Старший рыцарь~
+FTitle       21 Старший рыцарь~
+MTitle       22 Главный рыцарь~
+FTitle       22 Главный рыцарь~
+MTitle       23 Мощный рыцарь~
+FTitle       23 Мощный рыцарь~
+MTitle       24 Рыцарь мира~
+FTitle       24 Рыцарь мира~
+MTitle       25 Убийца демонов~
+FTitle       25 Убийца демонов~
+MTitle       26 Великий убийца демонов~
+FTitle       26 Великая убийца демонов~
+MTitle       27 Уничтожитель драконов~
+FTitle       27 Уничтожительница драконов~
+MTitle       28 Великий уничтожитель драконов~
+FTitle       28 Великая уничтожительница драконов~
+MTitle       29 Лорд войны~
+FTitle       29 Миледи войны~
+MTitle       30 Лорд войны~
+FTitle       30 Миледи войны~
+MTitle       31 Повелитель грома~
+FTitle       31 Повелительница грома~
+MTitle       32 Повелитель штормов~
+FTitle       32 Повелительница штормов~
+MTitle       33 Повелитель торнадо~
+FTitle       33 Повелительница торнадо~
+MTitle       34 Повелитель ураганов~
+FTitle       34 Повелительница ураганов~
+MTitle       35 Повелитель метеоров~
+FTitle       35 Повелительница метеоров~
+MTitle       36 Мастер драки~
+FTitle       36 Мастер драки~
+MTitle       37 Мастер драки~
+FTitle       37 Мастер драки~
+MTitle       38 Мастер драки~
+FTitle       38 Мастер драки~
+MTitle       39 Мастер драки~
+FTitle       39 Мастер драки~
+MTitle       40 Мастер драки~
+FTitle       40 Мастер драки~
+MTitle       41 Мастер драки~
+FTitle       41 Мастер драки~
+MTitle       42 Мастер драки~
+FTitle       42 Мастер драки~
+MTitle       43 Мастер драки~
+FTitle       43 Мастер драки~
+MTitle       44 Мастер драки~
+FTitle       44 Мастер драки~
+MTitle       45 Мастер драки~
+FTitle       45 Мастер драки~
+MTitle       46 Мастер драки~
+FTitle       46 Мастер драки~
+MTitle       47 Мастер драки~
+FTitle       47 Мастер драки~
+MTitle       48 Мастер драки~
+FTitle       48 Мастер драки~
+MTitle       49 Мастер драки~
+FTitle       49 Мастер драки~
+MTitle       50 Мастер драки~
+FTitle       50 Мастер драки~
+MTitle       51 Герой рыцарей~
+FTitle       51 Героиня рыцарей~
+MTitle       52 Воплощение войны~
+FTitle       52 Воплощение войны~
+MTitle       53 Ангел войны~
+FTitle       53 Ангел войны~
+MTitle       54 Полубог войны~
+FTitle       54 Полубогиня войны~
+MTitle       55 Бессмертный воин~
+FTitle       55 Бессмертный воин~
+MTitle       56 Бог войны~
+FTitle       56 Богиня войны~
+MTitle       57 Божество войны~
+FTitle       57 Божество войны~
+MTitle       58 Высший мастер войны~
+FTitle       58 Высший мастер войны~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

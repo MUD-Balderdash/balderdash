@@ -1,0 +1,14 @@
+Filename  horse.race~
+Name      horse~
+MName     конь~
+FName     лошадь~
+PC        false
+Act       mount animal~
+Aff       ~
+Off       bash dodge~
+Resist    bash 10
+Resist    pierce -10
+Form      edible animal mammal~
+Parts     head legs heart skin brains guts ear eye~
+End
+* charset=cp1251

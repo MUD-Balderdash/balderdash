@@ -1,0 +1,219 @@
+Filename     lycanthrope.class~
+Name         оборотень~
+WName        Оборотень~
+Primary      Str~
+Secondary    Str~
+Weapon       ~
+SkillAdept   75
+THAC0        15 -3
+MinHP        7
+MaxHP        13
+MagicUser    slightly~
+BaseGroup    lycanthrope basics~
+DefaultGroup lycanthrope default~
+Align        evil neutral~
+Guilds       6157 5567 31754 0 0 0 0 0 0 0 0 0 0 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'lycanthrope basics'   0
+Group        'lycanthrope default'  40
+Group        'enhancement'          4
+Group        'protective'           2
+Group        'weaponsmaster'        35
+
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        1  3 'axe'                          false
+Skill        1  4 'dagger'                       false
+Skill        1  5 'flail'                        false
+Skill        1  4 'mace'                         false
+Skill        1  6 'polearm'                      false
+Skill        1  4 'shield block'                 false
+Skill        1  4 'spear'                        false
+Skill        1  4 'staff'                        false
+Skill        1  2 'sword'                        false
+Skill        1  6 'whip'                         false
+Skill        1  3 'exotic weapon'                false
+Skill        3  5 'bash'                         false
+Skill        14 7 'dirt kicking'                 false
+Skill        13 5 'disarm'                       false
+Skill        11 6 'dodge'                        false
+Skill        10 3 'enhanced damage'              false
+Skill        4  2 'hand to hand'                 false
+Skill        8  3 'kick'                         false
+Skill        23 7 'parry'                        false
+Skill        18 6 'trip'                         false
+Skill        5  3 'second attack'                false
+Skill        19 4 'third attack'                 false
+Skill        6  5 'second weapon'                false
+Skill        7  5 'lunge'                        false
+Skill        30 4 'fight off'                    false
+Skill        26 2 'care style'                   false
+Skill        18 2 'aggressive style'             false
+Skill        16 4 'deafen'                       false
+Skill        6  3 'fast healing'                 false
+Skill        17 4 'lore'                         false
+Skill        15 2 'peek'                         false
+Skill        15 2 'sneak'                        false
+Skill        1  6 'scrolls'                      false
+Skill        1  6 'staves'                       false
+Skill        1  6 'wands'                        false
+Skill        1  2 'recall'                       false
+Skill        1  6 'rods'                         false
+Skill        47 1 'track'                        false
+Skill        22 1 'armor use'                    false
+Skill        10 1 'recovery'                     false
+Skill        4  1 'run'                          false
+Skill        25 4 'bandage'                      false
+Skill        19 1 'make bag'                     false
+Skill        21 5 'secondary mastery'            false
+Skill        10 1 'spirit simbol'                false
+Skill        18 2 'call wolf'                    false
+Skill        16 2 'call bear'                    false
+Skill        26 2 'hair'                         false
+Skill        37 1 'howl'                         false
+Skill        45 2 'jump'                         false
+Skill        40 2 'find victim'                  false
+Skill        42 2 'clutch lycanthrope'           false
+Skill        36 2 'silent step'                  false
+Skill        24 2 'spirit wolf'                  false
+Skill        24 2 'spirit bear'                  false
+Skill        35 2 'form wolf'                    false
+Skill        36 2 'form bear'                    false
+Skill        22 2 'coarse leather'               false
+Skill        28 2 'bear strong'                  false
+Skill        30 2 'animal dodge'                 false
+Skill        37 1 'growl'                        false
+Skill        41 2 'claws'                        false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  Уединившийся~
+FTitle       1  Уединившаяся~
+MTitle       2  Зараженный~
+FTitle       2  Зараженная~
+MTitle       3  Одиночка~
+FTitle       3  Одиночка~
+MTitle       4  Слышащий духов~
+FTitle       4  Слышащая духов~
+MTitle       5  Изгой~
+FTitle       5  Изгой~
+MTitle       6  Буйный~
+FTitle       6  Буйная~
+MTitle       7  Дикарь~
+FTitle       7  Дикарка~
+MTitle       8  Дикарь~
+FTitle       8  Дикарка~
+MTitle       9  Одержимый~
+FTitle       9  Одержимая~
+MTitle       10 Разговаривающий с духами~
+FTitle       10 Разговаривающая с духами~
+MTitle       11 Ведомый духами~
+FTitle       11 Ведомая духами~
+MTitle       12 Кормящий волков~
+FTitle       12 Кормящая волков~
+MTitle       13 Воинствующий~
+FTitle       13 Воинствующая~
+MTitle       14 Отшельник~
+FTitle       14 Отшельница~
+MTitle       15 Крадущийся~
+FTitle       15 Крадущаяся~
+MTitle       16 Зовущий медведей~
+FTitle       16 Зовущая медведей~
+MTitle       17 Зовущий волков~
+FTitle       17 Зовущая волков~
+MTitle       18 Сын стаи~
+FTitle       18 Дочь стаи~
+MTitle       19 Охотящийся в стае~
+FTitle       19 Охотящаяся в стае~
+MTitle       20 Берсерк~
+FTitle       20 Берсерк~
+MTitle       21 Звероподобный~
+FTitle       21 Звероподобная~
+MTitle       22 Двужильный~
+FTitle       22 Двужильная~
+MTitle       23 Брат стаи~
+FTitle       23 Сестра стаи~
+MTitle       24 Волколак~
+FTitle       24 Волколак~
+MTitle       25 Зализывающий раны~
+FTitle       25 Зализывающая раны~
+MTitle       26 Кровавый коготь~
+FTitle       26 Кровавый коготь~
+MTitle       27 Пожирающий добычу~
+FTitle       27 Пожирающая добычу~
+MTitle       28 Шатун~
+FTitle       28 Шатун~
+MTitle       29 Хватающий за горло~
+FTitle       29 Хватающая за горло~
+MTitle       30 Неуязвимый~
+FTitle       30 Неуязвимая~
+MTitle       31 Ликантроп~
+FTitle       31 Ликантроп~
+MTitle       32 Ведущий стаю~
+FTitle       32 Ведущая стаю~
+MTitle       33 Бродящий под луной~
+FTitle       33 Бродящая под луной~
+MTitle       34 Серый охотник~
+FTitle       34 Серая охотница~
+MTitle       35 Волк~
+FTitle       35 Волчица~
+MTitle       36 Медведь~
+FTitle       36 Медведица~
+MTitle       37 Поющий в ночи~
+FTitle       37 Поющая в ночи~
+MTitle       38 Длинный коготь~
+FTitle       38 Длинный коготь~
+MTitle       39 Великий волк~
+FTitle       39 Великая волчица~
+MTitle       40 Выслеживающий жертву~
+FTitle       40 Выслеживающая жертву~
+MTitle       41 Смертельный коготь~
+FTitle       41 Смертельный коготь~
+MTitle       42 Великий медведь~
+FTitle       42 Великая медведица~
+MTitle       43 Вожак стаи~
+FTitle       43 Вожак стаи~
+MTitle       44 Мастер драки~
+FTitle       44 Мастер драки~
+MTitle       45 Мастер драки~
+FTitle       45 Мастер драки~
+MTitle       46 Мастер драки~
+FTitle       46 Мастер драки~
+MTitle       47 Мастер драки~
+FTitle       47 Мастер драки~
+MTitle       48 Мастер драки~
+FTitle       48 Мастер драки~
+MTitle       49 Мастер драки~
+FTitle       49 Мастер драки~
+MTitle       50 Мастер драки~
+FTitle       50 Мастер драки~
+MTitle       51 Герой рыцарей~
+FTitle       51 Героиня рыцарей~
+MTitle       52 Воплощение войны~
+FTitle       52 Воплощение войны~
+MTitle       53 Ангел войны~
+FTitle       53 Ангел войны~
+MTitle       54 Полубог войны~
+FTitle       54 Полубогиня войны~
+MTitle       55 Бессмертный воин~
+FTitle       55 Бессмертный воин~
+MTitle       56 Бог войны~
+FTitle       56 Богиня войны~
+MTitle       57 Божество войны~
+FTitle       57 Божество войны~
+MTitle       58 Высший мастер войны~
+FTitle       58 Высший мастер войны~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

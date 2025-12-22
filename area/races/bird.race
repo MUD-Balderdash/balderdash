@@ -1,0 +1,12 @@
+Filename  bird.race~
+Name      bird~
+MName     птица~
+FName     птица~
+PC        false
+Act       animal~
+Aff       flying~
+Off       dodge fast~
+Form      edible animal biped bird~
+Parts     head legs heart brains guts eye wings claws~
+End
+* charset=cp1251

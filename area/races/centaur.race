@@ -1,0 +1,14 @@
+Filename  centaur.race~
+Name      centaur~
+MName     кентавр~
+FName     кентавр~
+PC        false
+Act       ~
+Aff       regeneration~
+Resist    bash 40
+Resist    mental 20
+Off       fast bash kick dodge assist_race~
+Form      edible centaur mammal sentient~
+Parts     head arms legs heart brains hands ear eye skin~
+End
+* charset=cp1251

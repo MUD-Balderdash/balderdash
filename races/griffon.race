@@ -1,0 +1,12 @@
+Filename  griffon.race~
+Name      griffon~
+MName     грифон~
+FName     грифон~
+PC        false
+Act       warrior outdoors~
+Aff       flying regeneration~
+Off       bash dodge fast parry~
+Form      edible sentient mammal~
+Parts     head legs heart skin brains guts ear eye wings tail claws fangs~
+End
+* charset=cp1251

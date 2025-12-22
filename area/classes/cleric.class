@@ -1,0 +1,286 @@
+Filename     cleric.class~
+Name         жрец~
+WName        Жрец~
+Primary      Wis~
+Secondary    Wis~
+Weapon       ~
+SkillAdept   75
+THAC0        15 1 
+MinHP        7
+MaxHP        10
+MagicUser    magic~
+BaseGroup    cleric basics~
+DefaultGroup cleric default~
+Align        evil neutral good~
+Guilds       3003 9619 4436 4646 4715 4898 1163 8062 7560 8413 8414 31752 10382 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'cleric basics'        0
+Group        'cleric default'       40
+Group        'weaponsmaster'        33
+Group        'attack'               5
+Group        'benedictions'         4
+Group        'creation'             4
+Group        'curative'             4
+Group        'detection'            3
+Group        'harmful'              3
+Group        'healing'              3
+Group        'maladictions'         5
+Group        'protective'           4
+Group        'transportation'       4
+Group        'weather'              4
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        25 1 'clarification'                false
+Skill        2  1 'armor'                        false
+Skill        7  1 'bless'                        false
+Skill        8  1 'blindness'                    false
+Skill        18 1 'call lightning'               false
+Skill        16 1 'calm'                         false
+Skill        26 1 'cancellation'                 false
+Skill        13 1 'cause critical'               false
+Skill        1  1 'cause light'                  false
+Skill        7  1 'cause serious'                false
+Skill        50 1 'change sex'                   false
+Skill        4  1 'continual light'              false
+Skill        19 1 'control weather'              false
+Skill        5  1 'create food'                  false
+Skill        11 1 'create rose'                  false
+Skill        17 1 'create spring'                false
+Skill        3  1 'create water'                 false
+Skill        6  1 'cure blindness'               false
+Skill        13 1 'cure critical'                false
+Skill        13 1 'cure disease'                 false
+Skill        1  1 'cure light'                   false
+Skill        14 1 'cure poison'                  false
+Skill        7  1 'cure serious'                 false
+Skill        18 1 'curse'                        false
+Skill        34 1 'demonfire'                    false
+Skill        4  1 'detect evil'                  false
+Skill        4  1 'detect good'                  false
+Skill        11 1 'detect hidden'                false
+Skill        8  1 'detect invis'                 false
+Skill        6  1 'detect magic'                 false
+Skill        7  1 'detect poison'                false
+Skill        15 1 'dispel evil'                  false
+Skill        15 1 'dispel good'                  false
+Skill        24 1 'dispel magic'                 false
+Skill        10 1 'earthquake'                   false
+Skill        23 1 'energy drain'                 false
+Skill        3  1 'faerie fire'                  false
+Skill        21 1 'faerie fog'                   false
+Skill        16 1 'farsight'                     false
+Skill        12 1 'fireproof'                    false
+Skill        20 1 'flamestrike'                  false
+Skill        18 1 'fly'                          false
+Skill        10 1 'floating disc'                false
+Skill        24 1 'frenzy'                       false
+Skill        27 2 'gate'                         false
+Skill        21 1 'harm'                         false
+Skill        21 1 'heal'                         false
+Skill        16 1 'heat metal'                   false
+Skill        36 2 'holy word'                    false
+Skill        16 1 'identify'                     false
+Skill        13 1 'infravision'                  false
+Skill        35 1 'invisibility'                 false
+Skill        17 1 'know alignment'               false
+Skill        15 1 'locate object'                false
+Skill        38 2 'mass healing'                 false
+Skill        25 1 'mass invis'                   false
+Skill        42 3 'nexus'                        false
+Skill        32 1 'pass door'                    false
+Skill        17 1 'plague'                       false
+Skill        12 1 'poison'                       false
+Skill        40 2 'portal'                       false
+Skill        9  1 'protection evil'              false
+Skill        9  1 'protection good'              false
+Skill        32 1 'ray of truth'                 false
+Skill        5  1 'refresh'                      false
+Skill        18 1 'remove curse'                 false
+Skill        20 1 'sanctuary'                    false
+Skill        35 1 'shield'                       false
+Skill        30 1 'slow'                         false
+Skill        40 1 'stone skin'                   false
+Skill        22 1 'teleport'                     false
+Skill        14 1 'weaken'                       false
+Skill        28 1 'word of recall'               false
+Skill        36 1 'acid breath'                  false
+Skill        38 1 'fire breath'                  false
+Skill        41 1 'frost breath'                 false
+Skill        44 1 'gas breath'                   false
+Skill        46 1 'lightning breath'             false
+Skill        40 1 'ice shield'                   false
+Skill        33 1 'turn undead'                  false
+Skill        1  6 'axe'                          false
+Skill        1  3 'dagger'                       false
+Skill        1  3 'flail'                        false
+Skill        1  2 'mace'                         false
+Skill        1  6 'polearm'                      false
+Skill        1  4 'shield block'                 false
+Skill        1  4 'spear'                        false
+Skill        1  3 'staff'                        false
+Skill        1  6 'sword'                        false
+Skill        1  5 'whip'                         false
+Skill        1  6 'exotic weapon'                false
+Skill        33 0 'bash'                         false
+Skill        33 0 'berserk'                      false
+Skill        22 8 'dodge'                        false
+Skill        30 9 'enhanced damage'              false
+Skill        10 5 'hand to hand'                 false
+Skill        12 4 'kick'                         false
+Skill        20 8 'parry'                        false
+Skill        24 8 'second attack'                false
+Skill        33 8 'lunge'                        false
+Skill        13 0 'tail'                         false
+Skill        19 7 'riding'                       false
+Skill        31 7 'deafen'                       false
+Skill        9  5 'fast healing'                 false
+Skill        18 8 'haggle'                       false
+Skill        15 0 'hide'                         false
+Skill        10 5 'lore'                         false
+Skill        12 4 'meditation'                   false
+Skill        21 7 'peek'                         false
+Skill        25 8 'pick lock'                    false
+Skill        15 0 'sneak'                        false
+Skill        1  3 'scrolls'                      false
+Skill        1  3 'staves'                       false
+Skill        1  3 'wands'                        false
+Skill        1  2 'recall'                       false
+Skill        1  3 'rods'                         false
+Skill        9  2 'run'                          false
+Skill        30 2 'make bag'                     false
+Skill        1  3 'concentrate'                  false
+Skill        25 1 'diagnosis'                    false
+Skill        23 1 'lightning bolt'               false
+
+* Titles section.
+MTitle       0  Мужчина~
+FTitle       0  Женщина~
+MTitle       1  Верующий~
+FTitle       1  Верующая~
+MTitle       2  Слуга~
+FTitle       2  Слуга~
+MTitle       3  Прислужник~
+FTitle       3  Прислужница~
+MTitle       4  Послушник~
+FTitle       4  Послушница~
+MTitle       5  Миссионер~
+FTitle       5  Миссионерша~
+MTitle       6  Адепт~
+FTitle       6  Адепт~
+MTitle       7  Дьякон~
+FTitle       7  Дьякон~
+MTitle       8  Викарий~
+FTitle       8  Викарий~
+MTitle       9  Священник~
+FTitle       9  Священница~
+MTitle       10 Священник~
+FTitle       10 Священница~
+MTitle       11 Каноник~
+FTitle       11 Каноник~
+MTitle       12 Старший каноник~
+FTitle       12 Старший каноник~
+MTitle       13 Старший викарий~
+FTitle       13 Старший викарий~
+MTitle       14 Монах~
+FTitle       14 Монахиня~
+MTitle       15 Лекарь~
+FTitle       15 Лекарь~
+MTitle       16 Капеллан~
+FTitle       16 Капеллан~
+MTitle       17 Толкователь~
+FTitle       17 Толковательница~
+MTitle       18 Епископ~
+FTitle       18 Епископ~
+MTitle       19 Архиепископ~
+FTitle       19 Архиепископ~
+MTitle       20 Патриарх~
+FTitle       20 Патриарх~
+MTitle       21 Старший патриарх~
+FTitle       21 Старший патриарх~
+MTitle       22 Главный патриарх~
+FTitle       22 Главный патриарх~
+MTitle       23 Великий патриарх~
+FTitle       23 Великий патриарх~
+MTitle       24 Убийца демонов~
+FTitle       24 Убийца демонов~
+MTitle       25 Великий убийца демонов~
+FTitle       25 Великая убийца демонов~
+MTitle       26 Кардинал моря~
+FTitle       26 Кардинал моря~
+MTitle       27 Кардинал земли~
+FTitle       27 Кардинал земли~
+MTitle       28 Кардинал воздуха~
+FTitle       28 Кардинал воздуха~
+MTitle       29 Кардинал небес~
+FTitle       29 Кардинал небес~
+MTitle       30 Кардинал поднебесья~
+FTitle       30 Кардинал поднебесья~
+MTitle       31 Воплощение бессмертного~
+FTitle       31 Воплощение бессмертного~
+MTitle       32 Воплощение божества~
+FTitle       32 Воплощение божества~
+MTitle       33 Воплощение бога~
+FTitle       33 Воплощение бога~
+MTitle       34 Воплощение бога~
+FTitle       34 Воплощение бога~
+MTitle       35 Верховный жрец~
+FTitle       35 Верховная жрица~
+MTitle       36 Верховный жрец~
+FTitle       36 Верховная жрица~
+MTitle       37 Верховный жрец~
+FTitle       37 Верховная жрица~
+MTitle       38 Верховный жрец~
+FTitle       38 Верховная жрица~
+MTitle       39 Верховный жрец~
+FTitle       39 Верховная жрица~
+MTitle       40 Верховный жрец~
+FTitle       40 Верховная жрица~
+MTitle       41 Верховный жрец~
+FTitle       41 Верховная жрица~
+MTitle       42 Верховный жрец~
+FTitle       42 Верховная жрица~
+MTitle       43 Верховный жрец~
+FTitle       43 Верховная жрица~
+MTitle       44 Верховный жрец~
+FTitle       44 Верховная жрица~
+MTitle       45 Верховный жрец~
+FTitle       45 Верховная жрица~
+MTitle       46 Верховный жрец~
+FTitle       46 Верховная жрица~
+MTitle       47 Верховный жрец~
+FTitle       47 Верховная жрица~
+MTitle       48 Верховный жрец~
+FTitle       48 Верховная жрица~
+MTitle       49 Верховный жрец~
+FTitle       49 Верховная жрица~
+MTitle       50 Верховный жрец~
+FTitle       50 Верховная жрица~
+MTitle       51 Святой герой~
+FTitle       51 Святая героиня~
+MTitle       52 Воплощение святости~
+FTitle       52 Воплощение святости~
+MTitle       53 Ангел~
+FTitle       53 Ангел~
+MTitle       54 Полубог~
+FTitle       54 Полубогиня~
+MTitle       55 Бессмертный~
+FTitle       55 Бессмертная~
+MTitle       56 Бог~
+FTitle       56 Богиня~
+MTitle       57 Божество~
+FTitle       57 Божество~
+MTitle       58 Верховный жрец~
+FTitle       58 Верховная жрица~
+MTitle       59 Создатель~
+FTitle       59 Создательница~
+MTitle       60 ВСЕДЕРЖИТЕЛЬ~
+FTitle       60 ВСЕДЕРЖИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

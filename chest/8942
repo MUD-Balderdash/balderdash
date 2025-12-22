@@ -1,0 +1,1180 @@
+#O
+Vnum 24
+Nest 0
+Wear -1
+Cost 0
+Room 6872
+End
+
+#O
+Vnum 31712
+Nest 1
+Wear -1
+Cost 0
+Val  2 4 14 28 2057
+End
+
+#O
+Vnum 8052
+Nest 1
+Cond 85
+Wear -1
+Cost 10000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 2415
+Nest 1
+Cond 99
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 2415
+Nest 1
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 2415
+Nest 1
+Cond 98
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 2415
+Nest 1
+Cond 94
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 43109
+Nest 1
+Cond 38
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 7620
+Nest 1
+Cond 88
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 2415
+Nest 1
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 2415
+Nest 1
+Cond 98
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 2415
+Nest 1
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 31000
+Nest 1
+Wear -1
+Cost 2301
+End
+
+#O
+Vnum 31000
+Nest 1
+Wear -1
+Cost 2301
+End
+
+#O
+Vnum 29530
+Nest 1
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 12109
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4692
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30120
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1215
+Nest 1
+Cond 92
+Wear -1
+Cost 0
+Val  200 1 0 50 10
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 31250
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 30062
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20415
+Nest 2
+Cond 54
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 3024
+Nest 2
+Cond 79
+Wear -1
+Cost 390
+End
+
+#O
+Vnum 12001
+Nest 2
+ExtF 17301504
+Cond 69
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 10848
+Enchanted
+Nest 2
+ExtF 16777536
+Wt   80
+Cond 24
+Wear -1
+Cost 97
+Affc 'reserved'   1  15  -1   1  18          0
+Affc 'reserved'   1  15  -1  10  13          0
+Affc 'reserved'   1  15  -1   2  19          0
+Affc 'reserved'   3  22  -1  10   0         25
+Affc 'reserved'   1  22  -1   1   5          0
+ExDe понева~ Вставлено в гнездо: костяной наконечник.~
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 15563
+Nest 2
+Wear -1
+Cost 1000
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 683
+Nest 1
+Cond 94
+Wear -1
+Cost 41
+End
+
+#O
+Vnum 763
+Nest 1
+Cond 83
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 4692
+Enchanted
+Nest 1
+ExtF 16777281
+Wt   60
+Cond 85
+Wear -1
+Cost 10000
+Affc 'reserved'   3  36  -1  10   0          9
+Affc 'reserved'   0  36  -1   0   0     524288
+Affc 'reserved'   3  49  -1  25   0         14
+Affc 'reserved'   1  49  -1   1   2          0
+Affc 'reserved'   1  49  -1   1   4          0
+Affc 'reserved'   1  49  -1 -10  20          0
+Affc 'reserved'   1  49  -1  50  13          0
+Affc 'reserved'   1  49  -1  50  12          0
+Affc 'reserved'   1  49  -1   7  19          0
+Affc 'reserved'   1  49  -1   7  18          0
+ExDe цепь дьёрина~ Вставлено в гнездо: перо ангела.~
+End
+
+#O
+Vnum 43109
+Nest 1
+Cond 45
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 15016
+Nest 1
+Cond 40
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 2937
+Nest 1
+Wear -1
+Cost 6000
+Val  0 0 736 0 0
+End
+
+#O
+Vnum 13876
+Nest 1
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 17960
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17977
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 31712
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 31712
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17969
+Nest 1
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 26029
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 17976
+Nest 1
+Wear -1
+Cost 10000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 26026
+Nest 1
+Cond 43
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 30120
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18801
+Nest 1
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 18777
+Nest 1
+Cond 97
+Wear -1
+Cost 1760
+End
+
+#O
+Vnum 18777
+Nest 1
+Wear -1
+Cost 1760
+End
+
+#O
+Vnum 10773
+Nest 1
+Cond 99
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10774
+Nest 1
+Cond 97
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10790
+Nest 1
+Cond 99
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 15448
+Nest 1
+Cond 17
+Wear -1
+Cost 1000
+Val  9 9 9 9 0
+End
+
+#O
+Vnum 10644
+Nest 1
+Cond 99
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 809
+Nest 1
+ExtF 70
+Cond 99
+Wear -1
+Cost 7050
+End
+
+#O
+Vnum 17662
+Nest 1
+Cond 49
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 17941
+Nest 1
+Cond 95
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 31783
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11254
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 523
+Nest 1
+Wear -1
+Cost 27
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 531
+Nest 1
+Wear -1
+Cost 35
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 532
+Nest 1
+Wear -1
+Cost 36
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 540
+Nest 1
+Wear -1
+Cost 44
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 539
+Nest 1
+Wear -1
+Cost 43
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 543
+Nest 1
+Wear -1
+Cost 47
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 523
+Nest 1
+Wear -1
+Cost 27
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 541
+Nest 1
+Wear -1
+Cost 45
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 544
+Nest 1
+Wear -1
+Cost 48
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 521
+Nest 1
+Wear -1
+Cost 25
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 521
+Nest 1
+Wear -1
+Cost 25
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 546
+Nest 1
+Wear -1
+Cost 50
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 529
+Nest 1
+Cond 99
+Wear -1
+Cost 33
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 556
+Nest 1
+Wear -1
+Cost 45
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 542
+Nest 1
+Wear -1
+Cost 46
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 546
+Nest 1
+Wear -1
+Cost 50
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 529
+Nest 1
+Cond 99
+Wear -1
+Cost 33
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 1345
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1344
+Nest 2
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1345
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 4429
+Nest 2
+Wear -1
+Cost 200
+Val  20 15 5 47 0
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 13876
+Nest 1
+Cond 97
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 10660
+Nest 1
+Cond 55
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1230
+Nest 1
+Cond 52
+Wear -1
+Cost 9300
+End
+
+#O
+Vnum 26781
+Nest 1
+Cond 99
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 1221
+Nest 1
+Cond 97
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 511
+Nest 1
+Wear -1
+Cost 17
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 531
+Nest 1
+Wear -1
+Cost 35
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 2422
+Nest 1
+Cond 57
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 30054
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 543
+Nest 1
+Wear -1
+Cost 47
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 13319
+Nest 1
+Cond 91
+Wear -1
+Cost 20
+End
+
+#END

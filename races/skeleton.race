@@ -1,0 +1,18 @@
+Filename  skeleton.race~
+Name      skeleton~
+MName     скелет~
+FName     скелет~
+PC        false
+Act       undead warrior~
+Aff       ~
+Off       dodge parry assist_race~
+Resist    bash -50
+Resist    pierce 50
+Resist    slash -33
+Resist    poison 100
+Resist    holy -50
+Resist    disease 100
+Form      undead biped cold_blood~
+Parts     head arms legs hands feet fingers~
+End
+* charset=cp1251

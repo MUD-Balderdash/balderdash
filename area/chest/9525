@@ -1,0 +1,531 @@
+#O
+Vnum 24
+Nest 0
+Wear -1
+Cost 0
+Room 28010
+End
+
+#O
+Vnum 26845
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 26845
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 1218
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1218
+Nest 1
+Cond 90
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5808
+Nest 1
+Cond 98
+Wear -1
+Cost 5600
+End
+
+#O
+Vnum 12474
+Nest 1
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 12474
+Nest 1
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 27083
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 27079
+Nest 1
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 27080
+Nest 1
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 1215
+Nest 1
+Owner вихо~
+Person Бруль~
+Cond 70
+Wear -1
+Cost 0
+Val  200 1 0 50 10
+End
+
+#O
+Vnum 10680
+Nest 2
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3162
+Nest 2
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3081
+Nest 2
+Wear -1
+Cost 1100
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 2
+Wear -1
+Cost 1100
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 2
+Wear -1
+Cost 1100
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 2
+Wear -1
+Cost 1100
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 2
+Wear -1
+Cost 1100
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 2
+Wear -1
+Cost 1100
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 2
+Wear -1
+Cost 1100
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1221
+Nest 2
+Cond 81
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 1221
+Nest 2
+Cond 81
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 17941
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 17960
+Nest 2
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17946
+Nest 2
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17969
+Nest 2
+Cond 99
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 17977
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 505
+Nest 2
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 521
+Nest 2
+Cond 99
+Wear -1
+Cost 25
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 514
+Nest 2
+Cond 99
+Wear -1
+Cost 15
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 508
+Nest 2
+Cond 99
+Wear -1
+Cost 12
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 519
+Nest 2
+Wear -1
+Cost 23
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 520
+Nest 2
+Wear -1
+Cost 24
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 535
+Nest 2
+Wear -1
+Cost 39
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 541
+Nest 2
+Wear -1
+Cost 45
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 513
+Nest 2
+Wear -1
+Cost 19
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 534
+Nest 2
+Wear -1
+Cost 38
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 507
+Nest 2
+Wear -1
+Cost 11
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 509
+Nest 2
+Wear -1
+Cost 13
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 506
+Nest 2
+Wear -1
+Cost 10
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 528
+Nest 2
+Cond 96
+Wear -1
+Cost 32
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 545
+Nest 2
+Wear -1
+Cost 49
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 509
+Nest 2
+Cond 99
+Wear -1
+Cost 13
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 530
+Nest 2
+Cond 99
+Wear -1
+Cost 34
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 502
+Nest 2
+Cond 98
+Wear -1
+Cost 30
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 536
+Nest 2
+Wear -1
+Cost 40
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 504
+Nest 2
+Cond 99
+Wear -1
+Cost 70
+Val  0 0 0 0 0
+End
+
+#END

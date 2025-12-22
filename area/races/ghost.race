@@ -1,0 +1,19 @@
+Filename  ghost.race~
+Name      ghost~
+MName     призрак~
+FName     призрак~
+PC        false
+Act       undead mage~
+Aff       flying pass_door death_aura~
+Off       fast dodge assist_race~
+Resist    poison 100
+Resist    disease 100
+Resist    weapon 33
+Resist    magic  33
+Resist    holy   -83
+Resist    silver -50
+Resist    light  -83
+Form      mist undead sentient~
+Parts     ~
+End
+* charset=cp1251

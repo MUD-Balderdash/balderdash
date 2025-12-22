@@ -1,0 +1,12 @@
+Filename  plant.race~
+Name      plant~
+MName     растение~
+FName     растение~
+PC        false
+Act       ~
+Aff       dark_vision~
+Off       trip~
+Form      edible tree bloodless~
+Parts     ~
+End
+* charset=cp1251

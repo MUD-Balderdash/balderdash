@@ -1,0 +1,35 @@
+Filename  human.race~
+Name      human~
+MName     человек~
+FName     женщина~
+PC        true
+Act       ~
+Aff       ~
+Off       ~
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Человек~
+Points    0
+Skills    '' '' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     15  15  14  15  15 
+MStats    19  19  19  19  19 
+ClassMult маг             110
+ClassMult жрец            110
+ClassMult вор             110
+ClassMult воин            110
+ClassMult некромант       110
+ClassMult паладин         110
+ClassMult назгул          110
+ClassMult друид           110
+ClassMult егерь           110
+ClassMult вампир          0
+ClassMult алхимик         110
+ClassMult оборотень       0
+Size      medium
+Recall    7500
+Map       7521
+Align     evil neutral good~
+End
+* charset=cp1251

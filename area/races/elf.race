@@ -1,0 +1,40 @@
+Filename  elf.race~
+Name      elf~
+MName     эльф~
+FName     эльфийка~
+PC        true
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    magic 40
+Resist    mental 40
+Resist    sound -25
+Resist    iron -25
+Resist    disease 40
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Ёльф~
+Points    5
+Skills    'sneak' 'hide' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     12  18  15  16  11 
+MStats    16  25  18  21  15 
+ClassMult маг             100
+ClassMult жрец            125
+ClassMult вор             100
+ClassMult воин            120
+ClassMult некромант       0
+ClassMult паладин         120
+ClassMult назгул          0
+ClassMult друид           110
+ClassMult егерь           110
+ClassMult вампир          0
+ClassMult алхимик         140
+ClassMult оборотень       0
+Size      medium
+Recall    4874
+Map       4903
+Align     neutral good~
+End
+* charset=cp1251

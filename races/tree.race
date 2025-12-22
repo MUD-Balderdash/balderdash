@@ -1,0 +1,18 @@
+Filename  tree.race~
+Name      tree~
+MName     дерево~
+FName     дерево~
+PC        false
+Act       sentinel~
+Aff       ~
+Off       bash parry~
+Resist    bash 33
+Resist    pierce 33
+Resist    fire -50
+Resist    cold 10
+Resist    poison 100
+Resist    disease 100
+Form      cold_blood tree~
+Parts     ~
+End
+* charset=cp1251

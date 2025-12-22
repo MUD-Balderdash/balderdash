@@ -1,0 +1,14 @@
+Filename  fish.race~
+Name      fish~
+MName     рыба~
+FName     рыба~
+PC        false
+Act       animal~
+Aff       swim~
+Off       ~
+Resist    drowning 100
+Resist    cold -30
+Form      edible animal fish cold_blood~
+Parts     head heart brains guts eye~
+End
+* charset=cp1251

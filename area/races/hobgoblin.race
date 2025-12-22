@@ -1,0 +1,14 @@
+Filename  hobgoblin.race~
+Name      hobgoblin~
+MName     хобгоблин~
+FName     хобгоблинка~
+PC        false
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    poison 40
+Resist    disease 40
+Form      edible sentient biped mammal~
+Parts     head arms legs heart brains guts hands feet fingers ear eye tusks skin~
+End
+* charset=cp1251

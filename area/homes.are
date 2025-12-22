@@ -1,0 +1,82 @@
+#AREADATA
+Version 4
+Name Дома~
+Builders None~
+VNUMs 28000 28999
+Credits ~
+Security 9
+Flags FG
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#28000
+Склеп Кайтара~
+~
+0 9256 0
+D2
+~
+дверь~
+1 0 3110
+O 1551116871 Кайтар~
+Z Бруль at Wed Mar  6 21:15:39 2019~
+S
+#28010
+Склеп~
+~
+0 9256 0
+D4
+~
+~
+1 0 31701
+O 1551014629 Вихо~
+Z Бруль at Wed Mar  6 21:18:35 2019~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 28000  2     1    * The юг door of Склеп Кайтара is closed
+D 0 28010  4     1    * The верх door of Склеп is closed
+O 0         24  0      28000    * {gмагический сундук{x loaded to Склеп Кайтара
+O 0         24  0      28010    * {gмагический сундук{x loaded to Склеп
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#CHAT
+#0
+
+#$
+* charset=cp1251

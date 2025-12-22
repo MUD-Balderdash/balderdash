@@ -1,0 +1,18 @@
+Filename  elemental_air.race~
+Name      air elemental~
+MName     воздушный элементал~
+FName     воздушная элементаль~
+PC        false
+Act       ~
+Aff       ~
+Off       assist_race~
+Resist    lightning 100
+Resist    poison 100
+Resist    energy -50
+Resist    disease 100
+Resist    charm 50
+Resist    sound -50
+Form      sentient intangible biped~
+Parts     ~
+End
+* charset=cp1251

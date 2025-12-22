@@ -1,0 +1,12 @@
+Filename  mammal.race~
+Name      mammal~
+MName     млекопитающее~
+FName     млекопитающее~
+PC        false
+Act       animal~
+Aff       ~
+Off       dodge~
+Form      edible animal mammal~
+Parts     head brains guts skin heart eye~
+End
+* charset=cp1251

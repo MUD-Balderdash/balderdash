@@ -1,0 +1,4 @@
+
+load_char_obj(d, arg1, FALSE, FALSE)
+bool load_char_obj(DESCRIPTOR_DATA *d, char *name, bool beac, bool equip);
+IS_SET(ch->act, PLR_NOPK) - ןנמגונטעü פכאד

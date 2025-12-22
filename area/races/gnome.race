@@ -1,0 +1,16 @@
+Filename  gnome.race~
+Name      gnome~
+MName     карлик~
+FName     карлица~
+PC        false
+Act       mage~
+Aff       infrared~
+Off       fast~
+Resist    charm 90
+Resist    mental 50
+Resist    negative 10
+Resist    holy 10
+Resist    weapon -20
+Form      edible sentient biped mammal~
+Parts     head arms legs heart brains guts hands feet fingers ear eye skin~
+* charset=cp1251

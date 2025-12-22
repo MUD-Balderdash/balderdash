@@ -1,0 +1,43 @@
+Filename  zombie.race~
+Name      zombie~
+MName     зомби~
+FName     зомби~
+PC        true
+Act       undead warrior~
+Aff       ~
+Off       parry assist_race~
+Resist    poison 100
+Resist    holy -25
+Resist    disease 100
+Resist    silver -25
+Resist    bash -50
+Resist    pierce 50
+Resist    slash 50
+Resist    negative 50
+Form      cold_blood undead biped~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Зомби~
+Points    8
+Skills    'hide' 'berserk' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     18  11  15  16  14 
+MStats    23  15  19  19  19 
+ClassMult маг             150
+ClassMult жрец            150
+ClassMult вор             150
+ClassMult воин            100
+ClassMult некромант       100
+ClassMult паладин         0
+ClassMult назгул          100
+ClassMult друид           0
+ClassMult егерь           0
+ClassMult вампир          0
+ClassMult алхимик         0
+ClassMult оборотень       0
+Size      large
+Recall    31700
+Map       3167
+Align     evil~
+End
+* charset=cp1251

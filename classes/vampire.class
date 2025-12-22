@@ -1,0 +1,253 @@
+Filename     vampire.class~
+Name         вампир~
+WName        Вампир~
+Primary      Dex~
+Secondary    Str~
+Weapon       ~
+SkillAdept   75
+THAC0        15 3 
+MinHP        8
+MaxHP        12
+MagicUser    magic~
+BaseGroup    vampire basics~
+DefaultGroup vampire default~
+Align        evil~
+Guilds       3060 10180 31766 0 0 0 0 0 0 0 0 0 0 0
+
+* Groups section
+* Not shown groups are not available to this class
+* Format: Group '<group name>' <difficulty rating>
+Group        'rom basics'           0
+Group        'vampire basics'       0
+Group        'vampire default'      40
+Group        'attack'               6
+Group        'beguiling'            4
+Group        'detection'            5
+Group        'enhancement'          6
+Group        'harmful'              8
+Group        'illusion'             4
+Group        'maladictions'         6
+Group        'protective'           1
+Group        'transportation'       3
+
+* Skills/spells section
+* Not shown skills are not available to this class
+* Format: Skill <level> <difficulty> '<name>' <quest>
+Skill        15 4 'armor'                        false
+Skill        13 4 'blindness'                    false
+Skill        40 4 'cancellation'                 false
+Skill        14 4 'cause critical'               false
+Skill        1  1 'cause light'                  false
+Skill        9  2 'cause serious'                false
+Skill        14 3 'curse'                        false
+Skill        27 4 'demonfire'                    false
+Skill        1  1 'detect good'                  false
+Skill        17 1 'detect hidden'                false
+Skill        17 1 'detect invis'                 false
+Skill        25 2 'dispel good'                  false
+Skill        30 8 'dispel magic'                 false
+Skill        15 1 'energy drain'                 false
+Skill        5  2 'faerie fire'                  false
+Skill        12 3 'faerie fog'                   false
+Skill        32 1 'farsight'                     false
+Skill        13 2 'giant strength'               false
+Skill        18 4 'harm'                         false
+Skill        20 8 'haste'                        false
+Skill        13 4 'identify'                     false
+Skill        14 2 'invisibility'                 false
+Skill        19 1 'plague'                       false
+Skill        19 3 'poison'                       false
+Skill        39 2 'portal'                       false
+Skill        10 2 'protection good'              false
+Skill        7  3 'refresh'                      false
+Skill        20 1 'ghost aura'                   false
+Skill        20 1 'sleep'                        false
+Skill        32 4 'slow'                         false
+Skill        20 4 'teleport'                     false
+Skill        23 4 'weaken'                       false
+Skill        35 4 'control undead'               false
+Skill        9  2 'detect undead'                false
+Skill        22 2 'beacon'                       false
+Skill        22 2 'find beacon'                  false
+Skill        22 2 'beacon identify'              false
+Skill        3  3 'protection from light'        false
+Skill        45 1 'vampiric touch'               false
+Skill        33 1 'mist'                         false
+Skill        23 1 'darkness'                     false
+Skill        16 1 'trickle'                      false
+Skill        19 1 'order'                        false
+Skill        50 4 'death aura'                   false
+Skill        19 1 'vampiric blast'               false
+Skill        12 1 'nightfall'                    false
+Skill        9  1 'sense life'                   false
+Skill        21 1 'shadow cloak'                 false
+Skill        25 2 'identify corpse'              false
+Skill        1  5 'dagger'                       false
+Skill        1  6 'shield block'                 false
+Skill        1  5 'spear'                        false
+Skill        1  4 'sword'                        false
+Skill        1  4 'exotic weapon'                false
+Skill        10 4 'bash'                         false
+Skill        11 2 'dirt kicking'                 false
+Skill        21 5 'disarm'                       false
+Skill        20 3 'dodge'                        false
+Skill        23 3 'enhanced damage'              false
+Skill        1  2 'hand to hand'                 false
+Skill        3  2 'kick'                         false
+Skill        23 2 'parry'                        false
+Skill        25 2 'second attack'                false
+Skill        41 8 'third attack'                 false
+Skill        35 5 'second weapon'                false
+Skill        26 3 'lunge'                        false
+Skill        25 0 'fight off'                    false
+Skill        29 2 'care style'                   false
+Skill        29 2 'aggressive style'             false
+Skill        20 3 'fast healing'                 false
+Skill        21 6 'haggle'                       false
+Skill        4  2 'hide'                         false
+Skill        7  3 'lore'                         false
+Skill        9  4 'meditation'                   false
+Skill        11 2 'peek'                         false
+Skill        8  2 'sneak'                        false
+Skill        1  3 'scrolls'                      false
+Skill        1  3 'staves'                       false
+Skill        1  3 'wands'                        false
+Skill        35 5 'sharpen'                      false
+Skill        30 6 'reinforce armor'              false
+Skill        1  2 'recall'                       false
+Skill        1  2 'rods'                         false
+Skill        11 2 'levitate'                     false
+Skill        5  1 'bite'                         false
+Skill        20 5 'recovery'                     false
+Skill        7  1 'run'                          false
+Skill        21 1 'make bag'                     false
+Skill        40 6 'secondary mastery'            false
+Skill        39 2 'attract attention'            false
+Skill        41 3 'concentrate'                  false
+
+* Titles section.
+MTitle       0  (null)~
+FTitle       0  (null)~
+MTitle       1  Укушенный вампиром~
+FTitle       1  Укушенная вампиром~
+MTitle       2  Изучающий ночь~
+FTitle       2  Изучающая ночь~
+MTitle       3  Скрывающийся от света~
+FTitle       3  Скрывающаяся от света~
+MTitle       4  Скрытный~
+FTitle       4  Скрытная~
+MTitle       5  Пьющий кровь~
+FTitle       5  Пьющая кровь~
+MTitle       6  Помощник вампира~
+FTitle       6  Помощница вампира~
+MTitle       7  Гуляющий в ночи~
+FTitle       7  Гуляющая в ночи~
+MTitle       8  Крадущийся в ночи~
+FTitle       8  Крадущаяся в ночи~
+MTitle       9  Чувствующий жизнь~
+FTitle       9  Чувствующая жизнь~
+MTitle       10 Пускающий кровь~
+FTitle       10 Пускающая кровь~
+MTitle       11 Летящий в ночи~
+FTitle       11 Летящая в ночи~
+MTitle       12 Уничтожающий свет~
+FTitle       12 Уничтожающая свет~
+MTitle       13 Очарованный тьмой~
+FTitle       13 Очарованная тьмой~
+MTitle       14 Лишённый веры~
+FTitle       14 Лишённая веры~
+MTitle       15 Похищающий жизнь~
+FTitle       15 Похищающая жизнь~
+MTitle       16 Предвестник смерти~
+FTitle       16 Предвестница смерти~
+MTitle       17 Смотрящий сквозь тень~
+FTitle       17 Смотрящая сквозь тень~
+MTitle       18 Уничтожающий жизнь~
+FTitle       18 Уничтожающая жизнь~
+MTitle       19 Посланник вечности~
+FTitle       19 Посланница вечности~
+MTitle       20 Призрачный странник~
+FTitle       20 Призрачная странница~
+MTitle       21 Господин Теней~
+FTitle       21 Госпожа Теней~
+MTitle       22 Исчезающий во тьме~
+FTitle       22 Исчезающая во тьме~
+MTitle       23 Повелевающий тьмой~
+FTitle       23 Повелевающая тьмой~
+MTitle       24 Ночной убийца~
+FTitle       24 Ночная убийца~
+MTitle       25 Изгоняющий добро~
+FTitle       25 Изгоняющая добро~
+MTitle       26 Приходящий из тьмы~
+FTitle       26 Приходящая из тьмы~
+MTitle       27 Вызывающий Ад~
+FTitle       27 Вызывающая Ад~
+MTitle       28 Сущность ночи~
+FTitle       28 Сущность ночи~
+MTitle       29 Гуляющий под луной~
+FTitle       29 Гуляющая под луной~
+MTitle       30 Владеющий магией~
+FTitle       30 Владеющая магией~
+MTitle       31 Познавший Тьму~
+FTitle       31 Познавшая Тьму~
+MTitle       32 Смотрящий сквозь мрак~
+FTitle       32 Смотрящая сквозь мрак~
+MTitle       33 Приходящий с туманом~
+FTitle       33 Приходящая с туманом~
+MTitle       34 Хозяин темноты~
+FTitle       34 Хозяйка темноты~
+MTitle       35 Идущий путем тьмы~
+FTitle       35 Идущая путем тьмы ~
+MTitle       36 Сущность Тьмы~
+FTitle       36 Сущность Тьмы~
+MTitle       37 Сущность Тьмы~
+FTitle       37 Сущность Тьмы~
+MTitle       38 Сущность Тьмы~
+FTitle       38 Сущность Тьмы~
+MTitle       39 Сущность Тьмы~
+FTitle       39 Сущность Тьмы~
+MTitle       40 Сущность Тьмы~
+FTitle       40 Сущность Тьмы~
+MTitle       41 Сущность Тьмы~
+FTitle       41 Сущность Тьмы~
+MTitle       42 Сущность Тьмы~
+FTitle       42 Сущность Тьмы~
+MTitle       43 Сущность Тьмы~
+FTitle       43 Сущность Тьмы~
+MTitle       44 Сущность Тьмы~
+FTitle       44 Сущность Тьмы~
+MTitle       45 Сущность Тьмы~
+FTitle       45 Сущность Тьмы~
+MTitle       46 Сущность Тьмы~
+FTitle       46 Сущность Тьмы~
+MTitle       47 Сущность Тьмы~
+FTitle       47 Сущность Тьмы~
+MTitle       48 Сущность Тьмы~
+FTitle       48 Сущность Тьмы~
+MTitle       49 Сущность Тьмы~
+FTitle       49 Сущность Тьмы~
+MTitle       50 Сущность Тьмы~
+FTitle       50 Сущность Тьмы~
+MTitle       51 Герой Тьмы~
+FTitle       51 Героиня Тьмы~
+MTitle       52 Воплощение Тьмы~
+FTitle       52 Воплощение Тьмы~
+MTitle       53 Ангел Тьмы~
+FTitle       53 Ангел Тьмы~
+MTitle       54 Полубог Тьмы~
+FTitle       54 Полубогиня Тьмы~
+MTitle       55 Темный Бессмертный~
+FTitle       55 Темная Бессмертная~
+MTitle       56 Бог Тьмы~
+FTitle       56 Богиня Тьмы~
+MTitle       57 Божество Тьмы~
+FTitle       57 Божество Тьмы~
+MTitle       58 Высший Мастер Тьмы~
+FTitle       58 Высший Мастер Тьмы~
+MTitle       59 Создатель Тьмы~
+FTitle       59 Создательница Тьмы~
+MTitle       60 РАЗРУШИТЕЛЬ~
+FTitle       60 РАЗРУШИТЕЛЬНИЦА~
+End
+
+* charset=cp1251

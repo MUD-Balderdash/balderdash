@@ -1,0 +1,3 @@
+/home/pavlov/devel/mud/balderdash/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pavlov/devel/mud/balderdash/src/cmake-build-debug/CMakeFiles/rom.dir
+/home/pavlov/devel/mud/balderdash/src/cmake-build-debug/CMakeFiles/edit_cache.dir

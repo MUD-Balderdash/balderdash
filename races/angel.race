@@ -1,0 +1,16 @@
+Filename  angel.race~
+Name      angel~
+MName     ангел~
+FName     ангел~
+PC        false
+Act       ~
+Aff       detect_invis detect_hidden flying holy_shield~
+Off       ~
+Resist    slash 50
+Resist    negative -50
+Resist    holy 66
+Resist    charm 100
+Form      edible sentient biped~
+Parts     head legs heart skin hands feet fingers ear eye wings~
+End
+* charset=cp1251

@@ -1,0 +1,13 @@
+Filename  fido.race~
+Name      fido~
+MName     фидо~
+FName     фидо~
+PC        false
+Act       animal~
+Aff       ~
+Off       dodge assist_race~
+Resist    magic -50
+Form      edible poison animal mammal~
+Parts     head legs heart brains guts feet ear eye tail fangs~
+End
+* charset=cp1251

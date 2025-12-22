@@ -1,0 +1,16 @@
+Filename  elemental.race~
+Name      elemental~
+MName     элементал~
+FName     элементаль~
+PC        false
+Act       ~
+Aff       ~
+Off       dodge fast~
+Resist    poison 100
+Resist    disease 100
+Resist    magic 50
+Resist    weapon 10
+Form      sentient intangible biped~
+Parts     ~
+End
+* charset=cp1251

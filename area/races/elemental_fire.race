@@ -1,0 +1,18 @@
+Filename  elemental_fire.race~
+Name      fire elemental~
+MName     огненный элементал~
+FName     огненная элементаль~
+PC        false
+Act       ~
+Aff       fire_shield~
+Off       dodge fast assist_race~
+Resist    fire 100
+Resist    cold -50
+Resist    poison 100
+Resist    disease 100
+Resist    charm 50
+Resist    weapon 10
+Form      sentient intangible biped~
+Parts     ~
+End
+* charset=cp1251

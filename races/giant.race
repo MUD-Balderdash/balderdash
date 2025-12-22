@@ -1,0 +1,40 @@
+Filename  giant.race~
+Name      giant~
+MName     гигант~
+FName     гигантиха~
+PC        true
+Act       ~
+Aff       ~
+Off       ~
+Resist    fire 15
+Resist    cold 15
+Resist    lightning -50
+Resist    mental -50
+Resist    sound 5
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Гигант~
+Points    6
+Skills    'bash' 'fast healing' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     18  12  15  13  16 
+MStats    23  15  18  15  24 
+ClassMult маг             0
+ClassMult жрец            0
+ClassMult вор             150
+ClassMult воин            105
+ClassMult некромант       0
+ClassMult паладин         150
+ClassMult назгул          0
+ClassMult друид           170
+ClassMult егерь           110
+ClassMult вампир          0
+ClassMult алхимик         0
+ClassMult оборотень       0
+Size      large
+Recall    9605
+Map       3167
+Align     neutral good~
+End
+* charset=cp1251

@@ -1,0 +1,19 @@
+Filename  hum_ghost.race~
+Name      humanoid ghost~
+MName     призрак гуманоида~
+FName     призрак гуманоида~
+PC        false
+Act       undead mage~
+Aff       flying pass_door~
+Off       dodge fast assist_race~
+Resist    poison 100
+Resist    holy -50
+Resist    disease 100
+Resist    light -50
+Resist    silver -50
+Resist    magic 33
+Resist    weapon 33
+Form      undead mist biped~
+Parts     head arms legs hands feet fingers ear eye~
+End
+* charset=cp1251

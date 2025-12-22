@@ -1,0 +1,39 @@
+Filename  troll.race~
+Name      troll~
+MName     тролль~
+FName     троллиха~
+PC        true
+Act       ~
+Aff       detect_hidden infrared regeneration~
+Off       berserk~
+Resist    bash 40
+Resist    fire -50
+Resist    acid -50
+Resist    charm 33
+Form      edible poison sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers eye~
+WName     Тролль~
+Points    3
+Skills    'bash' 'berserk' '' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     19  12  15  12  16 
+MStats    26  15  17  15  22 
+ClassMult маг             0
+ClassMult жрец            0
+ClassMult вор             150
+ClassMult воин            100
+ClassMult некромант       170
+ClassMult паладин         0
+ClassMult назгул          180
+ClassMult друид           0
+ClassMult егерь           0
+ClassMult вампир          0
+ClassMult алхимик         0
+ClassMult оборотень       0
+Size      large
+Recall    4550
+Map       4579
+Align     evil neutral~
+End
+* charset=cp1251

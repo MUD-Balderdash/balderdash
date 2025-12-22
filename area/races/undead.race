@@ -1,0 +1,16 @@
+Filename  undead.race~
+Name      undead~
+MName     живой мертвец~
+FName     живой мертвец~
+PC        false
+Act       undead~
+Aff       ~
+Off       parry~
+Resist    poison 100
+Resist    disease 100
+Resist    holy   -50
+Resist    silver -10
+Form      undead cold_blood~
+Parts     ~
+End
+* charset=cp1251

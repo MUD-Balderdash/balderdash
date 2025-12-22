@@ -1,0 +1,15 @@
+Filename  elemental_water.race~
+Name      water elemental~
+MName     элементал воды~
+FName     элементаль воды~
+PC        false
+Act       ~
+Aff       haste~
+Off       dodge fast assist_race~
+Resist    fire -10
+Resist    cold 20
+Resist    weapon 10
+Form      sentient intangible biped~
+Parts     ~
+End
+* charset=cp1251

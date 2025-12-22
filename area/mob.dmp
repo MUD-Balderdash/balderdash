@@ -1,0 +1,3932 @@
+
+Mobile Analysis
+---------------
+#1      0 active   0 killed     зомби %s
+#2      0 active   0 killed     скакун
+#3      0 active   0 killed     дерево
+#4      0 active   0 killed     большой волк
+#5      0 active   0 killed     большой лев
+#6      0 active   0 killed     большой медведь
+#7      0 active   0 killed     большой дракон
+#8      0 active   0 killed     {&костяной {&щит
+#9      0 active   0 killed     голем
+#10     0 active   0 killed     серый волк
+#11     0 active   0 killed     бурый медведь
+#12     0 active   0 killed     {rБарсук {Dинкцизиции{x
+#20     0 active   0 killed     призрак Кайзера Фродо
+#30     0 active   0 killed     Тревожный кабанчик
+#100    1 active   0 killed     серый волк
+#101    8 active   0 killed     хоббит
+#102    4 active   0 killed     хоббитенок
+#103    1 active   0 killed     ученый хоббит
+#104    1 active   0 killed     работящий хоббит
+#105    0 active   0 killed     вор
+#106    1 active   0 killed     здоровяк
+#107    1 active   0 killed     пижон
+#108    1 active   0 killed     дурачок
+#109    1 active   0 killed     чистюля
+#110    1 active   0 killed     старейшина
+#111    0 active   0 killed     алкаш
+#112    1 active   0 killed     Травник
+#113    1 active   0 killed     пожилой хоббит
+#114    0 active   0 killed     хоббитка
+#115    1 active   0 killed     жрец
+#116    2 active   0 killed     пьяный хоббит
+#117    0 active   0 killed     бешеный хоббит
+#118    1 active   0 killed     путешественник
+#119    1 active   0 killed     фокусник
+#120    3 active   0 killed     лиса
+#121    3 active   0 killed     кабанчик
+#122    3 active   0 killed     косуля
+#123    1 active   0 killed     нетрезвый хоббит
+#124    1 active   0 killed     крестьянин
+#125    1 active   0 killed     воспитательница
+#200    1 active   0 killed     лекарь клана алхинмики
+#201    1 active   0 killed     {rХ{wим{mера{а
+#202    0 active   0 killed     лекарь клана марах-син
+#203    1 active   0 killed     лухтук
+#300    1 active   0 killed     Друид Арункус
+#301    1 active   0 killed     отшельник Сорбус
+#303    0 active   0 killed     сельчанин
+#304    0 active   0 killed     селянка
+#305    1 active   0 killed     Шуде-Мелл
+#306    0 active   0 killed     Луксан
+#308    0 active   0 killed     Иннкипер
+#309    5 active   0 killed     Умный кролик
+#400    1 active   0 killed     амеба
+#401    1 active   0 killed     горилла
+#402    1 active   0 killed     гигантская вошь
+#403    1 active   0 killed     хозяин магазинчика
+#404    1 active   0 killed     акула
+#405    1 active   0 killed     медуза
+#406    1 active   0 killed     ребенок
+#407    1 active   0 killed     учитель
+#408    1 active   0 killed     горилла
+#409    1 active   0 killed     уборщик
+#410    1 active   0 killed     страус
+#600    1 active   0 killed     пятнистая стрекоза
+#601    5 active   0 killed     большой лесной таракан
+#602    1 active   0 killed     мастер
+#603    1 active   0 killed     пожилой энтомолог
+#604    5 active   0 killed     бабочка "махаон"
+#605    3 active   0 killed     гусеница махаона
+#606    4 active   0 killed     полевой жук
+#607    1 active   0 killed     огромный жук
+#608    1 active   0 killed     жужелица
+#609    5 active   0 killed     страж
+#610    7 active   0 killed     жук
+#611    5 active   0 killed     носорог
+#612    7 active   0 killed     страж
+#613    7 active   0 killed     рабочий
+#614    1 active   0 killed     королева
+#615   16 active   0 killed     личинка
+#616   20 active   0 killed     ярко-зеленый кузнечик
+#617    1 active   0 killed     древесный богомол
+#618   12 active   0 killed     мохнатый шмель
+#619    0 active   0 killed     красная сороконожка
+#700    1 active   0 killed     ишак
+#701    1 active   0 killed     крестьянин
+#702    1 active   0 killed     купец
+#703    1 active   0 killed     слуга
+#704    1 active   0 killed     воин
+#705    1 active   0 killed     йог
+#706    1 active   0 killed     слон
+#707    1 active   0 killed     йог
+#708    1 active   0 killed     йог
+#709    1 active   0 killed     йог
+#710    1 active   0 killed     йог
+#750    1 active   0 killed     демон
+#751    6 active   0 killed     викинг
+#752    1 active   0 killed     Кулаг
+#753    5 active   0 killed     женщина
+#754    1 active   0 killed     жрец
+#755    5 active   0 killed     валькирия
+#756    1 active   0 killed     ведьма
+#757    1 active   0 killed     пьяньчуга
+#758    1 active   0 killed     воин
+#759    1 active   0 killed     Толпа воинов
+#760    2 active   0 killed     Дуотт
+#761    1 active   0 killed     Райна
+#762    1 active   0 killed     Глан
+#763    1 active   0 killed     многоног
+#764    1 active   0 killed     друид
+#765    1 active   0 killed     кузнец
+#766    1 active   0 killed     Сатана
+#767    7 active   0 killed     черт
+#768    7 active   0 killed     грешник
+#769    1 active   0 killed     ифрит
+#770    1 active   0 killed     фантом
+#771    1 active   0 killed     сова
+#772    1 active   0 killed     вор
+#773    0 active   0 killed     великий воин
+#901    1 active   0 killed     Безумный фокусник
+#902    1 active   0 killed     Злобный гений
+#903    1 active   0 killed     второй среди третьих
+#904    1 active   0 killed     третий среди третьих
+#905    1 active   0 killed     Безликий
+#906    1 active   0 killed     Пожиратель плоти
+#907    1 active   0 killed     Спящая во тьме
+#908    1 active   0 killed     Выпивающий тепло
+#909    2 active   0 killed     Растворящий металлы
+#910    2 active   0 killed     Лярва
+#911    2 active   0 killed     Алчущий плоти
+#912    2 active   0 killed     Чувствующий жизнь
+#913    3 active   0 killed     Пес войны
+#914    1 active   0 killed     Один
+#915    1 active   0 killed     Сумрачный торговец
+#916    1 active   0 killed     Алхимик
+#917    1 active   0 killed     Клайв
+#918    1 active   0 killed     Самуэль
+#919    1 active   0 killed     Бог {/Солнца Ра
+#920    2 active   0 killed     Химера
+#921    1 active   0 killed     Первый среди трёх
+#922    2 active   0 killed     Падальщик
+#923    7 active   0 killed     Забытый
+#924    2 active   0 killed     Тень Арвака
+#925    2 active   0 killed     Повар
+#926    1 active   0 killed     Тюремщик
+#1000   3 active   0 killed     прозрачный дракон
+#1001   1 active   0 killed     белоголовый гриф
+#1100   1 active   0 killed     эльф
+#1101   1 active   0 killed     Хранитель
+#1102   1 active   0 killed     фермер
+#1103   6 active   0 killed     малыш
+#1104   2 active   0 killed     няня
+#1105   3 active   0 killed     корова
+#1106   5 active   0 killed     толстая свинка
+#1107   6 active   0 killed     курица
+#1108   1 active   0 killed     бык
+#1109   4 active   0 killed     лошадь
+#1110   6 active   0 killed     Шериф
+#1111   8 active   0 killed     Шериф
+#1112   1 active   0 killed     Зейн
+#1113   1 active   0 killed     трактирщик
+#1114   1 active   0 killed     мельник
+#1115   6 active   0 killed     мельник
+#1116   1 active   0 killed     воин
+#1117   1 active   0 killed     принц
+#1118   1 active   0 killed     лавочник
+#1119   1 active   0 killed     бакалейщик
+#1120   1 active   0 killed     кузнец
+#1121   1 active   0 killed     тренер
+#1122   9 active   0 killed     юный хоббит
+#1123   5 active   0 killed     искатель
+#1124   2 active   0 killed     сплетница
+#1125   1 active   0 killed     красавица
+#1126   3 active   0 killed     стажёр
+#1127   7 active   0 killed     горожанин
+#1128   4 active   0 killed     мужик
+#1129   1 active   0 killed     лекарь
+#1130   1 active   0 killed     трактирщик
+#1131   1 active   0 killed     служащий
+#1132   0 active   0 killed     шериф
+#1133   1 active   0 killed     маг
+#1134   1 active   0 killed     торговец животными
+#1135   4 active   0 killed     Страж гильдии
+#1136   1 active   0 killed     Страж храма
+#1137   1 active   0 killed     глава гильдии
+#1138   1 active   0 killed     глава гильдии
+#1139   1 active   0 killed     глава гильдии
+#1140   1 active   0 killed     глава гильдии
+#1141   1 active   0 killed     кошка
+#1142   1 active   0 killed     щенок
+#1143   1 active   0 killed     гончая
+#1144   1 active   0 killed     ротвейлер
+#1145   1 active   0 killed     волк
+#1146   1 active   0 killed     секретарь
+#1147   1 active   0 killed     Банкир
+#1148   1 active   0 killed     меняла
+#1149   2 active   0 killed     Шериф
+#1150   1 active   0 killed     Караванщик Хобс
+#1200   1 active   0 killed     Хеймдаль
+#1201   0 active   0 killed     каратель
+#1202   0 active   0 killed     новогодняя ёлка
+#1203   0 active   0 killed     большой лохматый пес
+#1204   0 active   0 killed     дух {/Кавейна
+#1205   0 active   0 killed     дух {/Кавейна
+#1206   0 active   0 killed     дух {/Кавейна
+#1207   0 active   0 killed     гигантский Кротокрыс
+#1208   0 active   0 killed     Надутый гигант
+#1209   1 active   0 killed     {Dпатрульный демон{x
+#1210   1 active   0 killed     телохранитель
+#1211   1 active   0 killed     {rкровавый демон{x
+#1212   1 active   0 killed     воин тьмы
+#1227   0 active   0 killed     птица {/Феникс
+#1230   0 active   0 killed     цербер
+#1231   0 active   0 killed     {Gпивная кега{x
+#1240   0 active   0 killed     {wбело{Wснежный леб{wедь{x
+#1241   0 active   0 killed     темный папа
+#1242   0 active   0 killed     Угрюмая оркиня
+#1243   0 active   0 killed     Светлая жрица
+#1244   0 active   0 killed     Доверчивая гномелла
+#1245   0 active   0 killed     Утончённая дроу
+#1246   0 active   0 killed     Прекрасная колдунья
+#1247   0 active   0 killed     Разъярённый некромант
+#1248   0 active   0 killed     Кровожадный вампир
+#1249   0 active   0 killed     призрак хомячка
+#1250   0 active   0 killed     Химера
+#1251   0 active   0 killed     хилый эльф
+#1252   0 active   0 killed     (no short description)
+#1260   0 active   0 killed     суслик
+#1261   0 active   0 killed     фея
+#1262   0 active   0 killed     Прихвостень {/Килары
+#1268   0 active   0 killed     пушистый котенок
+#1280   0 active   0 killed     вампир
+#1284   0 active   0 killed     чей-то дух
+#1290   0 active   0 killed     s
+#1299   0 active   0 killed     страж закона
+#1300   5 active   0 killed     Страж
+#1301   1 active   0 killed     Авантюрист
+#1302   1 active   0 killed     Эдгар
+#1303   1 active   0 killed     Голем
+#1304   6 active   0 killed     Маг
+#1305   1 active   0 killed     Стрик
+#1306   1 active   0 killed     Таторис
+#1307   1 active   0 killed     Эзмеральда
+#1308   1 active   0 killed     Поваренок
+#1309   1 active   0 killed     Заключенный
+#1310   1 active   0 killed     Джайлор
+#1311   2 active   0 killed     Метла
+#1312   7 active   0 killed     рука
+#1313   5 active   0 killed     пара {/глаз
+#1314   1 active   0 killed     Маг
+#1315   2 active   0 killed     Ученица
+#1316   2 active   0 killed     Ученик
+#1317   2 active   0 killed     Ученик
+#1318   3 active   0 killed     Ученик
+#1319   1 active   0 killed     Котенок
+#1320   4 active   0 killed     Студент
+#1321   1 active   0 killed     преподаватель волшебства
+#1322   4 active   0 killed     Студент
+#1323   1 active   0 killed     преподаватель волшебства
+#1324   3 active   0 killed     Студентка
+#1325   1 active   0 killed     Волшебник
+#1326   3 active   0 killed     Маг
+#1327   1 active   0 killed     Учительница
+#1328   1 active   0 killed     Инструктор
+#1329   1 active   0 killed     Волшебник
+#1330   1 active   0 killed     писарь
+#1331   2 active   0 killed     писарь
+#1332   1 active   0 killed     Главный писарь
+#1333   1 active   0 killed     Помощник
+#1334   1 active   0 killed     Энчантер
+#1335   1 active   0 killed     Танцующий Меч
+#1336   1 active   0 killed     Безумный Алхимик
+#1337   1 active   0 killed     Мастер призыва
+#1338   1 active   0 killed     Мастер очарования
+#1339   5 active   0 killed     Деревянный Голем
+#1340   1 active   0 killed     Мастер слепоты
+#1341   1 active   0 killed     Создатель големов
+#1342   1 active   0 killed     Гранитный Голем
+#1343   1 active   0 killed     Бронзовый Голем
+#1344   1 active   0 killed     тело голема
+#1345   1 active   0 killed     Голем-одежда
+#1346   1 active   0 killed     Адамантиновый Голем
+#1347   1 active   0 killed     Глиняный Голем
+#1348   1 active   0 killed     Мастер иллюзий
+#1349   1 active   0 killed     Некро
+#1350   2 active   0 killed     Скелет
+#1351   1 active   0 killed     Гигант
+#1352   3 active   0 killed     Уродливая Ведьма
+#1353   1 active   0 killed     Библиотекарь
+#1354   1 active   0 killed     Ученик волшебника
+#1355   1 active   0 killed     Серый Кот
+#1356   1 active   0 killed     Мастер нейтралитета
+#1357   1 active   0 killed     Черный Ученик
+#1358   1 active   0 killed     Черный Кот
+#1359   1 active   0 killed     Черный Учитель
+#1360   1 active   0 killed     Белый Ученик
+#1361   1 active   0 killed     Белый Кот
+#1362   1 active   0 killed     Мастер совершенства
+#1363   1 active   0 killed     Миткальский Кот
+#1364   1 active   0 killed     Великая Королева
+#1365   0 active   0 killed     Волшебник
+#1500   3 active   0 killed     гномик
+#1501   3 active   0 killed     гномиха
+#1502   3 active   0 killed     гном
+#1503   3 active   0 killed     ученый гном
+#1504   5 active   0 killed     стражник
+#1505   1 active   0 killed     мэр
+#1507   1 active   0 killed     маленький тролль
+#1508   2 active   0 killed     полевая мышка
+#1509   1 active   0 killed     крыса
+#1510   1 active   0 killed     большая крыса
+#1511   1 active   0 killed     гигантская крыса
+#1512   1 active   0 killed     гигантский тролль
+#1513   5 active   0 killed     черная мышь
+#1514   5 active   0 killed     зомби
+#1515   1 active   0 killed     огненная мышь
+#1516   0 active   0 killed     хобгоблин
+#1517  12 active   0 killed     солдат
+#1518   5 active   0 killed     телохранитель
+#1519   1 active   0 killed     король хобгоблинов
+#1520   3 active   0 killed     шахтер
+#1521   1 active   0 killed     казначей
+#1522   3 active   0 killed     пленный гном
+#1523   2 active   0 killed     пленный человек
+#1524   1 active   0 killed     отшельник
+#1526   1 active   0 killed     повар
+#1600   1 active   0 killed     летучая мышь
+#1601   8 active   0 killed     житель подземелья
+#1602   1 active   0 killed     телохранитель
+#1603   1 active   0 killed     телохранитель
+#1604   1 active   0 killed     старший телохранитель
+#1605   2 active   0 killed     заседатель форума
+#1606   1 active   0 killed     глава форума
+#1607   1 active   0 killed     мертвый тролль
+#1608   1 active   0 killed     урод
+#1609   1 active   0 killed     седой маг
+#1610   1 active   0 killed     предводитель {/Камариллы
+#1611   1 active   0 killed     отшельник
+#1612   1 active   0 killed     король Оскольд
+#1613   1 active   0 killed     золотой дракон
+#1614   1 active   0 killed     мухоловка
+#1615   1 active   0 killed     тарантул
+#1616   1 active   0 killed     живодер
+#1617   3 active   0 killed     косуля
+#1618   3 active   0 killed     дракон
+#1619   1 active   0 killed     дракон
+#1620   1 active   0 killed     гвардеец
+#1621   1 active   0 killed     король Рандор
+#1622   1 active   0 killed     элитный гвардеец
+#1623   1 active   0 killed     королевский гвардеец
+#1624   1 active   0 killed     король Вермис
+#1625   0 active   0 killed     душа мученика
+#1800   1 active   0 killed     призрак библиотекаря
+#1801   1 active   0 killed     рыжий демон
+#1802   3 active   0 killed     саламандра
+#1803   5 active   0 killed     призрак воина
+#1804   2 active   0 killed     призрак жреца
+#1805   1 active   0 killed     призрак мага
+#1806   3 active   0 killed     летучая мышь
+#1890   0 active   0 killed     привратник замка Маклауд
+#1896   0 active   0 killed     хмурый лекарь
+#1897   0 active   0 killed     слуга пустоты
+#1898   0 active   0 killed     призрак кота
+#1899   0 active   0 killed     Эльхервейт
+#2001   3 active   0 killed     летучая мышь
+#2002   8 active   0 killed     служка
+#2003   2 active   0 killed     спелеолог
+#2004   4 active   0 killed     гробокопатель
+#2005   9 active   0 killed     туман
+#2006   7 active   0 killed     гробовщик
+#2007   4 active   0 killed     скелет
+#2008  12 active   0 killed     тамплиер
+#2009   2 active   0 killed     привидение
+#2010   5 active   0 killed     храмовник
+#2011   4 active   0 killed     зомби
+#2012   1 active   0 killed     тень
+#2013   1 active   0 killed     мышь-вампир
+#2014   1 active   0 killed     некромансер
+#2015   1 active   0 killed     магистр
+#2016   1 active   0 killed     кристаллический дракон
+#2017   1 active   0 killed     темная тварь
+#2070   0 active   0 killed     страж
+#2101  11 active   0 killed     мальчишка
+#2102  10 active   0 killed     девчонка
+#2103   1 active   0 killed     Серый Старейшина
+#2104   9 active   0 killed     житель деревни
+#2105  13 active   0 killed     жительница деревни
+#2106  15 active   0 killed     горец Стражник
+#2107   3 active   0 killed     старик
+#2108  15 active   0 killed     горная овчарка
+#2109   9 active   0 killed     юноша
+#2110   1 active   0 killed     Белый Старейшина
+#2111   7 active   0 killed     пьяный горец
+#2112   1 active   0 killed     горный кузнец
+#2200  12 active   0 killed     маленький дракон
+#2201   5 active   0 killed     суровый дракон
+#2202   1 active   0 killed     дракон склепа
+#2203   1 active   0 killed     Могущественный маг
+#2204   1 active   0 killed     лечащий дракон
+#2205   1 active   0 killed     Королевский дракон
+#2206   4 active   0 killed     любовница дракона
+#2207   6 active   0 killed     телохранитель дракона
+#2220   1 active   0 killed     Тиамат
+#2221   1 active   0 killed     Красный Дракон
+#2222   1 active   0 killed     Черный Дракон
+#2223   1 active   0 killed     Белый Дракон
+#2225   1 active   0 killed     Зеленый Дракон
+#2226   1 active   0 killed     Большая Гидра
+#2227   3 active   0 killed     раб
+#2240   8 active   0 killed     Дракон Зомби
+#2241   1 active   0 killed     подростковый дракон
+#2242   3 active   0 killed     дурашливый дракон
+#2243   1 active   0 killed     Королева {/Драконов
+#2300   1 active   0 killed     Темная душа рыцаря
+#2301   1 active   0 killed     Старый Треант
+#2302   1 active   0 killed     Обитатель пещеры
+#2303   4 active   0 killed     Скальная Жаба
+#2304   1 active   0 killed     Ива
+#2305   3 active   0 killed     Дымчатая Фигура
+#2306   1 active   0 killed     Болотный Хмырь
+#2307   5 active   0 killed     Селянин Людоед
+#2308   4 active   0 killed     Воин Людоед
+#2309   4 active   0 killed     Страж Людоед
+#2310   1 active   0 killed     Шаман людоедов
+#2311   1 active   0 killed     Вождь людоедов
+#2312   3 active   0 killed     Варвар равнин
+#2313   3 active   0 killed     Белый йети
+#2314   3 active   0 killed     Ледяной Червь
+#2315   5 active   0 killed     Минотавр
+#2316   3 active   0 killed     Охранник Минотавр
+#2317   3 active   0 killed     Воин Минотавр
+#2318   1 active   0 killed     Минотавр Хранитель ворот
+#2319   2 active   0 killed     Охранник
+#2320   2 active   0 killed     Королевский Охранник
+#2321   2 active   0 killed     Элитный Охранник
+#2322   5 active   0 killed     Девушка из гарема
+#2323   1 active   0 killed     Минотавр-дворецкий
+#2324   1 active   0 killed     Хранитель кольца
+#2325   1 active   0 killed     Горак
+#2326   1 active   0 killed     Даркот
+#2327   1 active   0 killed     Тиргот
+#2328   1 active   0 killed     Амирок
+#2329   1 active   0 killed     Сумарон
+#2330   1 active   0 killed     Настурн
+#2331   1 active   0 killed     Белрак
+#2332   1 active   0 killed     Ранд
+#2333   1 active   0 killed     Махнтор
+#2400   1 active   0 killed     привратник
+#2401   1 active   0 killed     темный священник
+#2402   1 active   0 killed     монах
+#2403   1 active   0 killed     ужасная тварь
+#2404   1 active   0 killed     старый алхимик
+#2405   1 active   0 killed     звонарь
+#2406   1 active   0 killed     старый колдун
+#2407   1 active   0 killed     Архолт
+#2408   1 active   0 killed     кузнец
+#2409   1 active   0 killed     монах
+#2410   1 active   0 killed     огромный паук
+#2500   1 active   0 killed     задумчивый торговец
+#2501   1 active   0 killed     ездовой баклан
+#2502   1 active   0 killed     темный дракон
+#2503   3 active   0 killed     одинокое привидение
+#2504   1 active   0 killed     алмазный голем
+#2505   1 active   0 killed     огненный скелет
+#2506   1 active   0 killed     ледяной скелет
+#2507   3 active   0 killed     боевой маг
+#2508   1 active   0 killed     хранитель
+#2509   1 active   0 killed     Великий Парадокс
+#2510   1 active   0 killed     страж сокровищницы
+#2511   4 active   0 killed     страж башни
+#2512   2 active   0 killed     призрачный гоблин
+#2597   0 active   0 killed     призрак старого монаха
+#2598   0 active   0 killed     младшой монах
+#2599   0 active   0 killed     молодой монах
+#2601   1 active   0 killed     швейцар
+#2602   1 active   0 killed     меняла
+#2603   4 active   0 killed     однорукий бандит
+#2604   2 active   0 killed     однорукий бандит
+#2605   1 active   0 killed     устроитель игры
+#2606   1 active   0 killed     орк-арбалетчик
+#2607   0 active   0 killed     Невидимый моб арены
+#2650   1 active   0 killed     волчонок
+#2651   1 active   0 killed     волчица
+#2652   6 active   0 killed     серый заяц
+#2653   5 active   0 killed     олень
+#2654   3 active   0 killed     злой кабан
+#2655   1 active   0 killed     хранительница
+#2656   0 active   0 killed     волк
+#2657   2 active   0 killed     крот
+#2658   3 active   0 killed     веселый волчонок
+#2701   1 active   0 killed     земляной голем
+#2702   1 active   0 killed     водяной голем
+#2703   1 active   0 killed     страж куба
+#2704   1 active   0 killed     демон куба
+#2705   1 active   0 killed     паучиха
+#2706   1 active   0 killed     яблочный энт
+#2707   1 active   0 killed     огненный голем
+#2708   1 active   0 killed     воздушный голем
+#2709   1 active   0 killed     Ёжик
+#2710   1 active   0 killed     некромант
+#2711   0 active   0 killed     Невидимка
+#2712   0 active   0 killed     одночасовой моб
+#2713   0 active   0 killed     двухчасовой моб
+#2714   0 active   0 killed     пятичасовой моб
+#2715   0 active   0 killed     десятичасовой моб
+#2716   0 active   0 killed     одночасовой моб
+#2717   0 active   0 killed     двухчасовой моб
+#2718   0 active   0 killed     пятичасовой моб
+#2719   0 active   0 killed     десятичасовой моб
+#2720   0 active   0 killed     Первый правильный
+#2721   0 active   0 killed     второй правильный
+#2722   1 active   0 killed     наливайщик
+#2723   1 active   0 killed     отражение
+#2724   1 active   0 killed     Веселое эхо
+#2725   1 active   0 killed     Призрак героя
+#2726   0 active   0 killed     Каменный голем
+#2800   2 active   0 killed     охранник
+#2801   2 active   0 killed     молодой тролль
+#2802   1 active   0 killed     тролль
+#2803   4 active   0 killed     малыш троллей
+#2804   1 active   0 killed     гигантский тролль
+#2805   1 active   0 killed     большая трольша
+#2806   5 active   0 killed     жирный червь
+#2807   1 active   0 killed     чудовище
+#2808   1 active   0 killed     обычный тролль
+#2900   2 active   0 killed     страж ворот
+#2901   7 active   0 killed     стражник
+#2902   1 active   0 killed     торговец железом
+#2903   1 active   0 killed     продавщица Хавка
+#2904   1 active   0 killed     конченый алкаш
+#2905   1 active   0 killed     доспешник
+#2906   1 active   0 killed     Управляющий отделением банка
+#2907   1 active   0 killed     старый ювелир
+#2908   1 active   0 killed     хранитель палат
+#2909   1 active   0 killed     глава палаты
+#2910   1 active   0 killed     Статлер
+#2911   3 active   0 killed     огненный странник
+#2912   3 active   0 killed     снежный странник
+#2913   1 active   0 killed     Абсолютный Демон
+#2914   3 active   0 killed     стражник
+#2915   1 active   0 killed     неповоротливый горбач
+#2916   1 active   0 killed     шатун
+#2917   1 active   0 killed     скальный дракон
+#2918   1 active   0 killed     Денник
+#3000   1 active   0 killed     волшебник
+#3001   1 active   0 killed     пекарь
+#3002   1 active   0 killed     бакалейщик
+#3003   1 active   0 killed     кузнец
+#3004   1 active   0 killed     доспешник
+#3005   2 active   0 killed     вор
+#3006   1 active   0 killed     капитан
+#3007   1 active   0 killed     моряк в отставке
+#3008   1 active   0 killed     помощник магазинщика
+#3009   1 active   0 killed     ювелир
+#3010   1 active   0 killed     кожевенница
+#3011   1 active   0 killed     Xасан
+#3012   1 active   0 killed     лекарь
+#3013   1 active   0 killed     каменный голем
+#3014   1 active   0 killed     глава гильдии
+#3015   1 active   0 killed     призрак назгула
+#3016   1 active   0 killed     Дракула
+#3017   1 active   0 killed     продавец
+#3020   1 active   0 killed     глава гильдии
+#3021   1 active   0 killed     глава гильдии
+#3022   1 active   0 killed     глава гильдии
+#3023   1 active   0 killed     глава гильдии
+#3024   1 active   0 killed     колдун
+#3025   1 active   0 killed     рыцарь-храмовник
+#3026   1 active   0 killed     наемный убийца
+#3027   1 active   0 killed     рыцарь
+#3040   1 active   0 killed     бармен
+#3041   0 active   0 killed     официант
+#3042   1 active   0 killed     официант
+#3043   1 active   0 killed     официант
+#3044   1 active   0 killed     официант
+#3045   1 active   0 killed     официант
+#3046   1 active   0 killed     Филти
+#3060  11 active   0 killed     милиция
+#3061   1 active   0 killed     дворник
+#3062   4 active   0 killed     ужасный пес
+#3063   1 active   0 killed     бродяга
+#3064   1 active   0 killed     алкаш
+#3065   2 active   0 killed     попрошайка
+#3066   1 active   0 killed     кот
+#3067   2 active   0 killed     наемник
+#3068   2 active   0 killed     наемник
+#3069   4 active   0 killed     городская стража
+#3070   1 active   0 killed     хозяин магазина
+#3071   2 active   0 killed     наемник
+#3072   1 active   0 killed     городская стража
+#3090   1 active   0 killed     кошка
+#3091   1 active   0 killed     щенок
+#3092   1 active   0 killed     гончая
+#3093   1 active   0 killed     ротвейлер
+#3094   1 active   0 killed     волк
+#3095   0 active   0 killed     орел
+#3096   0 active   0 killed     лев
+#3097   0 active   0 killed     тигр
+#3100   1 active   0 killed     служанка
+#3120   1 active   0 killed     могильщик
+#3121   1 active   0 killed     лебедь
+#3122   1 active   0 killed     утенок
+#3123   1 active   0 killed     воробей
+#3124   2 active   0 killed     утка
+#3140   1 active   0 killed     капитан стражи
+#3141   4 active   0 killed     городской стражник
+#3142   1 active   0 killed     секретарь
+#3143   1 active   0 killed     Мэр
+#3144   1 active   0 killed     городской глашатай
+#3150   1 active   0 killed     Эсма
+#3160   1 active   0 killed     Меланхолик
+#3161   1 active   0 killed     змейка
+#3162   1 active   0 killed     Меняла {/Отто
+#3163   1 active   0 killed     вор
+#3164   1 active   0 killed     Караванщик Кирм
+#3165   1 active   0 killed     черная тень
+#3170   1 active   0 killed     друид
+#3171   2 active   0 killed     Страж храма
+#3172   8 active   0 killed     Страж гильдии
+#3173   0 active   0 killed     маг
+#3174   0 active   0 killed     улитка
+#3175   1 active   0 killed     глава гильдии
+#3176   1 active   0 killed     Страж гильдии
+#3177   1 active   0 killed     банкир
+#3400   4 active   0 killed     скелет
+#3401   7 active   0 killed     зомби
+#3402   5 active   0 killed     вурдалак
+#3403   1 active   0 killed     привидение
+#3404   1 active   0 killed     страж вампиров
+#3405   1 active   0 killed     священник
+#3406   3 active   0 killed     Мига Фуджи
+#3407   4 active   0 killed     мрачник
+#3408   1 active   0 killed     ужас
+#3409   4 active   0 killed     пещерный бурьян
+#3410   1 active   0 killed     Уголовник {/Джо
+#3411   1 active   0 killed     пожиратель тел
+#3412   1 active   0 killed     Дух {/Короля Леорика
+#3413   5 active   0 killed     каменный слизняк
+#3414   1 active   0 killed     безумный гравер
+#3415   1 active   0 killed     призрак жены гравера
+#3416   4 active   0 killed     гниющее тело
+#3500   2 active   0 killed     виверна
+#3501   6 active   0 killed     гоблин
+#3502   1 active   0 killed     маленький мальчик
+#3503   1 active   0 killed     хозяин трактира
+#3504   1 active   0 killed     певец
+#3505   2 active   0 killed     темный всадник
+#3506   2 active   0 killed     лейтенант гоблинов
+#3507   1 active   0 killed     предводитель гоблинов
+#3600   1 active   0 killed     Садовник Генри
+#3601   1 active   0 killed     гниющий зомби
+#3602   1 active   0 killed     ужасный вампир
+#3603   4 active   0 killed     пыльный скелет
+#3604   4 active   0 killed     пыльный скелет
+#3605   3 active   0 killed     гниющий зомби
+#3700   1 active   0 killed     клерик
+#3701   1 active   0 killed     пузырь
+#3702   1 active   0 killed     монстр
+#3703   1 active   0 killed     трусливый монстр
+#3704   1 active   0 killed     агрессивный монстр
+#3705   1 active   0 killed     трусливый монстр
+#3706   1 active   0 killed     чудовище
+#3707   1 active   0 killed     адепт
+#3708   1 active   0 killed     адепт
+#3709   9 active   0 killed     кролик
+#3710   9 active   0 killed     ящерица
+#3711   9 active   0 killed     кабан
+#3712   8 active   0 killed     лиса
+#3713   9 active   0 killed     улитка
+#3714   1 active   0 killed     чудище
+#3715   2 active   0 killed     медведь
+#3716   2 active   0 killed     волк
+#3717   1 active   0 killed     Адепт Селены
+#3718   1 active   0 killed     адепт
+#3719   1 active   0 killed     священник
+#3720   1 active   0 killed     страж диплома
+#3721   1 active   0 killed     Адепт
+#3800   4 active   0 killed     служитель инквизиции
+#3801   5 active   0 killed     инквизиторша
+#3802   1 active   0 killed     инквизитор инкипер
+#3803   1 active   0 killed     привратник
+#3804   5 active   0 killed     служка
+#3805   1 active   0 killed     инквизитор
+#3806   1 active   0 killed     исповедник
+#3807   1 active   0 killed     библиотекарь
+#3808   1 active   0 killed     глава ордена
+#3809   1 active   0 killed     палач
+#3810   3 active   0 killed     узник инквизиции
+#3811   1 active   0 killed     призрак
+#3812   1 active   0 killed     сын палача
+#3813   2 active   0 killed     одинокий инквизитор
+#3814   1 active   0 killed     прекрасный ангел
+#3815   5 active   0 killed     покорная душа
+#3816   1 active   0 killed     первооснова
+#3817   1 active   0 killed     цербер
+#3818   1 active   0 killed     сторожевой пес
+#3819   1 active   0 killed     щенок
+#3820   1 active   0 killed     колдун
+#3821   1 active   0 killed     служка
+#4000   1 active   0 killed     большой питон
+#4001   2 active   0 killed     зеленая змея
+#4002   3 active   0 killed     сороконожка
+#4003   3 active   0 killed     кобольд
+#4004   2 active   0 killed     орк
+#4005   1 active   0 killed     большой орк
+#4050   1 active   0 killed     воин
+#4051   4 active   0 killed     ветеран
+#4052   3 active   0 killed     хобгоблин
+#4053   2 active   0 killed     змея
+#4054   3 active   0 killed     многоножка
+#4055   2 active   0 killed     большой хобгоблин
+#4056   2 active   0 killed     орк
+#4057   1 active   0 killed     горный лев
+#4058   1 active   0 killed     высотный гигант
+#4100   1 active   0 killed     Маг
+#4101   1 active   0 killed     тролль
+#4102   2 active   0 killed     змеиный страж
+#4103   1 active   0 killed     вор
+#4104   1 active   0 killed     орк
+#4105   1 active   0 killed     сороконожка
+#4106   1 active   0 killed     Воин
+#4107   1 active   0 killed     зеленый кобольд
+#4150   2 active   0 killed     синяя летучая мышь
+#4151   2 active   0 killed     красная летучая мышь
+#4152   2 active   0 killed     зеленая летучая мышь
+#4153   2 active   0 killed     белая летучая мышь
+#4154   2 active   0 killed     черная летучая мышь
+#4155   1 active   0 killed     вор
+#4156   1 active   0 killed     тролль
+#4157   2 active   0 killed     Волшебник
+#4158   2 active   0 killed     змея
+#4159   2 active   0 killed     маленький тролль
+#4160   2 active   0 killed     орк
+#4200   8 active   0 killed     Пешка черного короля
+#4201   8 active   0 killed     Пешка белого короля
+#4202   2 active   0 killed     Черная ладья
+#4203   2 active   0 killed     Белая ладья
+#4204   2 active   0 killed     Черный рыцарь
+#4205   2 active   0 killed     Белый Рыцарь
+#4206   2 active   0 killed     Черный Священник
+#4207   2 active   0 killed     Белый Священник
+#4208   1 active   0 killed     Черная королева
+#4209   1 active   0 killed     Белая королева
+#4210   1 active   0 killed     Черный король
+#4211   1 active   0 killed     Белый король
+#4212   1 active   0 killed     Призрак халифа Омара
+#4213   1 active   0 killed     Киса Воробьянинов
+#4300   6 active   0 killed     Горожанин
+#4301   1 active   0 killed     Гвардеец короля
+#4302   1 active   0 killed     Сторож
+#4303   1 active   0 killed     Мэр
+#4304   2 active   0 killed     Горожанка
+#4305   1 active   0 killed     Охранник
+#4306   1 active   0 killed     Молодой жрец
+#4307   0 active   0 killed     Торговец
+#4308   1 active   0 killed     Казначей
+#4309   1 active   0 killed     Трактирщик
+#4310   0 active   0 killed     Маг-гвардеец
+#4311   1 active   0 killed     Охранник мэра
+#4312   0 active   0 killed     Богач
+#4313   0 active   0 killed     Охранник ворот
+#4314   1 active   0 killed     Официант
+#4315   0 active   0 killed     Старый вояка
+#4316   0 active   0 killed     Повар
+#4317   1 active   0 killed     Мастер 
+#4318   1 active   0 killed     подмастерье
+#4319   1 active   0 killed     Аранаил
+#4320   1 active   0 killed     Лекарь клана Братство стали
+#4321   1 active   0 killed     Родрим
+#4322   1 active   0 killed     Альдиг
+#4323   1 active   0 killed     Начальник охраны
+#4324   1 active   0 killed     лекарь
+#4325   1 active   0 killed     Страж ворот
+#4326   2 active   0 killed     Бедняк
+#4327   5 active   0 killed     Патрульный
+#4328   1 active   0 killed     Разбойник
+#4329   1 active   0 killed     Эранил
+#4330   1 active   0 killed     Ашанаир
+#4331   1 active   0 killed     Зомби
+#4332   4 active   0 killed     мальчишка
+#4333   4 active   0 killed     девчонка
+#4334   2 active   0 killed     мальчишка
+#4335   1 active   0 killed     Мальчик
+#4336   0 active   0 killed     Жрец
+#4400   0 active   0 killed     глава гильдии
+#4401   0 active   0 killed     глава гильдии
+#4402   1 active   0 killed     старый ворюга
+#4403   1 active   0 killed     старый сотник
+#4404   1 active   0 killed     опытный паладин
+#4405   1 active   0 killed     верховный назгул
+#4406   1 active   0 killed     некромансер
+#4407   1 active   0 killed     черный дракон
+#4408   1 active   0 killed     ведьма
+#4409   1 active   0 killed     молодой колдун
+#4410   1 active   0 killed     оружейник
+#4411   1 active   0 killed     мастер по доспехам
+#4412   1 active   0 killed     бармен
+#4413   1 active   0 killed     бакалейщик
+#4414   1 active   0 killed     ювелир
+#4415   1 active   0 killed     меняла
+#4416   1 active   0 killed     продавец книг
+#4417   1 active   0 killed     продавец выпивки
+#4418   1 active   0 killed     Шана
+#4419   1 active   0 killed     Дегер
+#4420   9 active   0 killed     маленькая ящерка
+#4421  10 active   0 killed     дворник
+#4422   8 active   0 killed     крыса
+#4423   5 active   0 killed     пьяный ящер
+#4424   5 active   0 killed     воин
+#4425   9 active   0 killed     бродяга
+#4426   4 active   0 killed     змееныш
+#4427   2 active   0 killed     злобный человек
+#4428   1 active   0 killed     ручная ящерица
+#4429   1 active   0 killed     варан
+#4430   1 active   0 killed     анаконда
+#4431   1 active   0 killed     дракончик
+#4432   1 active   0 killed     дракон
+#4433   8 active   0 killed     стражник
+#4434   1 active   0 killed     страж
+#4435   1 active   0 killed     капитан стражи
+#4436   5 active   0 killed     воришка
+#4437   1 active   0 killed     ужасный дракон
+#4438   1 active   0 killed     одинокий старец
+#4439   1 active   0 killed     наемный убийца
+#4440   1 active   0 killed     телохранитель капитана
+#4441   1 active   0 killed     сказочник
+#4442   1 active   0 killed     бывший сотник
+#4443   1 active   0 killed     Друид
+#4444   1 active   0 killed     Страж храма
+#4445   8 active   0 killed     Страж гильдии
+#4446   1 active   0 killed     глава гильдии
+#4447   1 active   0 killed     глава гильдии
+#4448   1 active   0 killed     секретарь
+#4449   1 active   0 killed     Банкир
+#4505   1 active   0 killed     Страж гильдии
+#4506   1 active   0 killed     глава гильдии
+#4507   1 active   0 killed     страж
+#4508   1 active   0 killed     Караванщик Хефас
+#4521   1 active   0 killed     инквизиторы
+#4522   1 active   0 killed     смерть
+#4523   1 active   0 killed     ангел смерти
+#4524   1 active   0 killed     страх
+#4525   1 active   0 killed     стая крыс
+#4526   1 active   0 killed     надежда
+#4550   1 active   0 killed     старый воин
+#4551   1 active   0 killed     известный вор
+#4552   1 active   0 killed     старый шаман
+#4553   1 active   0 killed     старейшина троллей
+#4554   1 active   0 killed     тренер троллей
+#4555   1 active   0 killed     кузнец
+#4556   1 active   0 killed     мастер доспехов
+#4557   1 active   0 killed     бармен
+#4558   1 active   0 killed     повар
+#4559   1 active   0 killed     грамотный тролль
+#4560   1 active   0 killed     старый маг
+#4561   1 active   0 killed     колдунья
+#4562   1 active   0 killed     бакалейщик
+#4563   1 active   0 killed     меняла
+#4564   1 active   0 killed     Кларен
+#4565   7 active   0 killed     маленький поросенок
+#4566   4 active   0 killed     дворник
+#4567   7 active   0 killed     бездомная собака
+#4568   9 active   0 killed     стражник
+#4569   6 active   0 killed     местный житель
+#4570   2 active   0 killed     огромный тролль
+#4571   1 active   0 killed     вампир
+#4572   1 active   0 killed     Горлум
+#4573   1 active   0 killed     черная змея
+#4574   1 active   0 killed     последний горец
+#4575   8 active   0 killed     пленный эльф
+#4576   8 active   0 killed     заключенная эльфийка
+#4577   3 active   0 killed     тюремный охранник
+#4578   1 active   0 killed     пленный гном
+#4579   1 active   0 killed     кракозябра
+#4580   1 active   0 killed     начальник охраны
+#4581   1 active   0 killed     охрана начальника
+#4582   1 active   0 killed     ручной кобольд
+#4583   1 active   0 killed     боевой поросенок
+#4584   1 active   0 killed     взрослый кабан
+#4585   1 active   0 killed     волчонок
+#4586   1 active   0 killed     взрослый волк
+#4587   1 active   0 killed     лесная пума
+#4588   1 active   0 killed     глава гильдии магов
+#4589   1 active   0 killed     глава гильдии паладинов
+#4590   1 active   0 killed     верховный жрец
+#4591   1 active   0 killed     слуга тьмы
+#4592   1 active   0 killed     Страж храма
+#4593   7 active   0 killed     Страж гильдии
+#4594   1 active   0 killed     секретарь
+#4595   1 active   0 killed     Банкир
+#4596   1 active   0 killed     Караванщик Хоп
+#4660   1 active   0 killed     мудрый жрец
+#4661   1 active   0 killed     старый маг
+#4662   1 active   0 killed     старый воин
+#4663   1 active   0 killed     умелый вор
+#4664   1 active   0 killed     верховный друид
+#4665   1 active   0 killed     рыцарь света
+#4666   1 active   0 killed     опытный егерь
+#4667   1 active   0 killed     тренер
+#4668   1 active   0 killed     старейшина гномов
+#4669   1 active   0 killed     оружейник
+#4670   1 active   0 killed     доспешник
+#4671   1 active   0 killed     колдун
+#4672   1 active   0 killed     помощник колдуна
+#4673   1 active   0 killed     ювелир
+#4674   0 active   0 killed     бакалейщик
+#4675   1 active   0 killed     продавец карт
+#4676   1 active   0 killed     меняла
+#4677   1 active   0 killed     трактирщик
+#4678   1 active   0 killed     пивовар
+#4679   1 active   0 killed     Арник
+#4680   1 active   0 killed     паучок
+#4681   1 active   0 killed     подземный червь
+#4682   1 active   0 killed     крохотная змейка
+#4683   1 active   0 killed     пещерная рысь
+#4684   1 active   0 killed     пещерный медведь
+#4685   1 active   0 killed     наемник
+#4686   1 active   0 killed     дух
+#4687  15 active   0 killed     каменная ящерка
+#4688   7 active   0 killed     пьяница
+#4689  20 active   0 killed     дворник
+#4690  13 active   0 killed     Тангар
+#4691   6 active   0 killed     камнерез
+#4692   5 active   0 killed     помощник мастера
+#4693   7 active   0 killed     гномиха
+#4694   6 active   0 killed     старый гном
+#4695   9 active   0 killed     рудокоп
+#4696  12 active   0 killed     стражник
+#4697   6 active   0 killed     прислуга
+#4698   9 active   0 killed     замковая стража
+#4699   1 active   0 killed     королева
+#4700   1 active   0 killed     Трор
+#4701   1 active   0 killed     телохранитель
+#4702   1 active   0 killed     военный министр
+#4703   1 active   0 killed     придворный маг
+#4704   1 active   0 killed     черное щупальце
+#4705   5 active   0 killed     огнистый червь
+#4706   1 active   0 killed     Дьёрин
+#4707   1 active   0 killed     хозяин лавки
+#4708   2 active   0 killed     Страж
+#4709   2 active   0 killed     Страж
+#4710   1 active   0 killed     Страж храма
+#4711   7 active   0 killed     Страж гильдии
+#4712   1 active   0 killed     гномский банкир
+#4713   1 active   0 killed     секретарь
+#4808   1 active   0 killed     глава гильдии
+#4809   1 active   0 killed     Страж гильдии
+#4810   1 active   0 killed     Караванщик Магор
+#4850   1 active   0 killed     кузнец
+#4851   1 active   0 killed     мастер
+#4852   1 active   0 killed     начальник стражи
+#4853   1 active   0 killed     Лейзи
+#4854   1 active   0 killed     седой ювелир
+#4855   1 active   0 killed     королева {\Лориэна
+#4856   1 active   0 killed     древний эльф
+#4857   1 active   0 killed     портной
+#4858   1 active   0 killed     хитрый меняла
+#4859   1 active   0 killed     продавец животных
+#4860   1 active   0 killed     Рейми
+#4861   1 active   0 killed     воин-эльф
+#4862   1 active   0 killed     адепт
+#4863   1 active   0 killed     старый паладин
+#4864   0 active   0 killed     Шарх
+#4865   0 active   0 killed     учитель темных дел
+#4866   1 active   0 killed     Райнил
+#4867   2 active   0 killed     эльфийский воин
+#4868   1 active   0 killed     старый корабельщик
+#4869   1 active   0 killed     грязный орк
+#4870   1 active   0 killed     мелкий тролль
+#4871   1 active   0 killed     огромный тролль
+#4872   4 active   0 killed     косуля
+#4873   3 active   0 killed     волк
+#4874   4 active   0 killed     иволга
+#4875   4 active   0 killed     гадюка
+#4876   3 active   0 killed     кабан
+#4877   2 active   0 killed     рысь
+#4878   4 active   0 killed     кролик
+#4879   3 active   0 killed     богатый эльф
+#4880   3 active   0 killed     воришка
+#4881   3 active   0 killed     нищий эльф
+#4882   1 active   0 killed     Глариэль
+#4883   1 active   0 killed     гоблин
+#4884   1 active   0 killed     древний дракон
+#4885   1 active   0 killed     Вэри
+#4886   2 active   0 killed     эльфийский рейнджер
+#4887   1 active   0 killed     Элендил
+#4888   1 active   0 killed     помощник мага
+#4889   1 active   0 killed     официант
+#4890   1 active   0 killed     хранитель леса
+#4891   1 active   0 killed     продавец
+#4892   1 active   0 killed     Страж храма
+#4893   6 active   0 killed     Страж гильдии
+#4894   1 active   0 killed     банкир
+#4895   1 active   0 killed     эльф секретарь
+#4945   1 active   0 killed     глава гильдии
+#4946   1 active   0 killed     Страж гильдии
+#4947   9 active   0 killed     Эльф патрульный
+#4948   1 active   0 killed     Караванщик Миланар
+#4950   1 active   0 killed     тролль
+#4951   2 active   0 killed     уборщик
+#4952   1 active   0 killed     иллитид
+#4953   0 active   0 killed     драйдер
+#4954   1 active   0 killed     демон фомори
+#4955   4 active   0 killed     монстр
+#4956   1 active   0 killed     ктулху
+#4957   2 active   0 killed     душа
+#4958   3 active   0 killed     рыцарь
+#4959   1 active   0 killed     птица
+#4960   4 active   0 killed     подземный демон
+#4961   1 active   0 killed     безумная старуха
+#5000   3 active   0 killed     дервиш
+#5001   1 active   0 killed     дервиш
+#5002   1 active   0 killed     коралловая змея
+#5003   1 active   0 killed     маленький скорпион
+#5004   1 active   0 killed     гигантский червь
+#5005   1 active   0 killed     медный дракон
+#5006   1 active   0 killed     лидер кочевников
+#5007   1 active   0 killed     командир кочевников
+#5008   1 active   0 killed     кочевник
+#5009   1 active   0 killed     молодой раб
+#5010   1 active   0 killed     драколич
+#5011   1 active   0 killed     драйдер
+#5012   1 active   0 killed     темный гном
+#5013   1 active   0 killed     миконоид
+#5014   1 active   0 killed     шаман
+#5015   4 active   0 killed     землерой
+#5017   1 active   0 killed     бешеный верблюд
+#5100   1 active   0 killed     гоблин
+#5101   2 active   0 killed     страж
+#5102   4 active   0 killed     воин дроу
+#5103   4 active   0 killed     маг дроу
+#5104   4 active   0 killed     волшебница дроу
+#5105   3 active   0 killed     мастер Дроу
+#5106   2 active   0 killed     мастер оружия
+#5107   3 active   0 killed     матрона Дроу
+#5108   1 active   0 killed     хозяйка Дроу
+#5109   1 active   0 killed     йочол
+#5110   2 active   0 killed     стражник дроу
+#5111   2 active   0 killed     разведчик дроу
+#5175   0 active   0 killed     Скульптура Умфарга
+#5176   0 active   0 killed     Джинн
+#5200   1 active   0 killed     Статуя валькирии
+#5201  12 active   0 killed     ламия
+#5202   1 active   0 killed     мимик
+#5203   1 active   0 killed     мимик
+#5204   1 active   0 killed     мимик
+#5205   1 active   0 killed     мимик
+#5206   1 active   0 killed     мимик
+#5207   4 active   0 killed     рогатая ящерица
+#5208   4 active   0 killed     каменный голем
+#5209   1 active   0 killed     каменная горгулья
+#5300   1 active   0 killed     король Сигрит
+#5301  10 active   0 killed     вир
+#5302  19 active   0 killed     слит
+#5303   1 active   0 killed     Ганон
+#5304   3 active   0 killed     осетр
+#5305   1 active   0 killed     продавец рыбы
+#5306   6 active   0 killed     рыбина
+#5307   1 active   0 killed     речное чудовище
+#5308   2 active   0 killed     пиявка
+#5309   1 active   0 killed     ранах
+#5310   1 active   0 killed     житель деревни
+#5311   1 active   0 killed     старейшина
+#5312   1 active   0 killed     Альбрехт
+#5313   1 active   0 killed     полуволк {/Эро
+#5314   1 active   0 killed     Гомон
+#5315   1 active   0 killed     леди Кирена
+#5316   1 active   0 killed     Гюнтер Кирлинг
+#5317   1 active   0 killed     барон Голт
+#5318   1 active   0 killed     капитан Линднер
+#5319   1 active   0 killed     король Барт
+#5320   1 active   0 killed     Тайна
+#5321   3 active   0 killed     городской стражник
+#5322   2 active   0 killed     стража ворот
+#5323   1 active   0 killed     дворцовая стража
+#5324   0 active   0 killed     полковник Штурм
+#5325   1 active   0 killed     капитан Насс
+#5326   1 active   0 killed     жеребец
+#5327   1 active   0 killed     генерал Вальдхер
+#5328   3 active   0 killed     лесной человек
+#5329   1 active   0 killed     капитан {/Винчи
+#5330   5 active   0 killed     изможденный человек
+#5331   2 active   0 killed     человек в кандалах
+#5332   3 active   0 killed     варвар
+#5333   1 active   0 killed     слит
+#5500   6 active   0 killed     шустрая ящерица
+#5501   7 active   0 killed     зеленый кузнечик
+#5502   5 active   0 killed     майский жук
+#5503   5 active   0 killed     луговая лягушка
+#5504   1 active   0 killed     рослый страж
+#5505   1 active   0 killed     жрец рыси
+#5506   1 active   0 killed     жрец медведя
+#5507   1 active   0 killed     жрец волка
+#5508   1 active   0 killed     жрец пса
+#5509   1 active   0 killed     жрец орла
+#5510   1 active   0 killed     жрец сокола
+#5511   5 active   0 killed     барсук
+#5512   5 active   0 killed     бойкая иволга
+#5513   5 active   0 killed     болотная лягушка
+#5514   9 active   0 killed     пожилой человек
+#5515   0 active   0 killed     рычащий медведь
+#5516   5 active   0 killed     веселый юнец
+#5517   0 active   0 killed     разъяренный волк
+#5518   5 active   0 killed     милая девушка
+#5519   0 active   0 killed     хитрая лиса
+#5520   1 active   0 killed     князь
+#5521   5 active   0 killed     маленький паучок
+#5522   1 active   0 killed     большая паучиха
+#5523   1 active   0 killed     дух зверя
+#5524   2 active   0 killed     охрана князя
+#5525   3 active   0 killed     слуга князя
+#5526   1 active   0 killed     страж храма
+#5527   1 active   0 killed     страж гильдии
+#5528   1 active   0 killed     старый оборотень
+#5529   1 active   0 killed     мудрый оборотень
+#5530   0 active   0 killed     проба
+#5531   1 active   0 killed     маленькая ящерица
+#5532   1 active   0 killed     подгорный кузнец
+#5533   1 active   0 killed     седой барыга
+#5534   0 active   0 killed     лохматый щенок
+#5535   1 active   0 killed     мельник
+#5536   2 active   0 killed     небольшая крыса
+#5537   1 active   0 killed     большая крыса
+#5538   1 active   0 killed     болотник
+#5539   0 active   0 killed     демон тирла
+#5540   0 active   0 killed     демон Гроланда
+#5541   0 active   0 killed     древний жрец
+#5542   1 active   0 killed     отшельник
+#5543   1 active   0 killed     секретарь
+#5544   1 active   0 killed     Банкир
+#5545   1 active   0 killed     Караванщик Хирсин
+#5701   1 active   0 killed     наемник
+#5702   3 active   0 killed     орк
+#5703   1 active   0 killed     неповоротливый тролль
+#5704   3 active   0 killed     бородатый гном
+#5705   3 active   0 killed     молчаливый змей
+#5706   5 active   0 killed     юркий хоббит
+#5707   5 active   0 killed     высокий эльф
+#5708   2 active   0 killed     одноглазый мужик
+#5709   8 active   0 killed     страшный гоблин
+#5710   7 active   0 killed     огромный пес
+#5711   5 active   0 killed     Человек наемник
+#5712   1 active   0 killed     мечник
+#5713   1 active   0 killed     отряд мечников
+#5714   1 active   0 killed     старый копейщик
+#5715   1 active   0 killed     отряд копьеносцев
+#5716   1 active   0 killed     строй {/бойцов
+#5717   1 active   0 killed     стена бойцов
+#5718   1 active   0 killed     гномий {&хирд
+#5719   1 active   0 killed     отряд пращников
+#5720   1 active   0 killed     строй гигантов
+#5721   1 active   0 killed     метательница ножей
+#5722   1 active   0 killed     глава наемников
+#5723   1 active   0 killed     хранитель сокровищ
+#5724   1 active   0 killed     седой маг
+#5725   1 active   0 killed     старый оружейник
+#5726   1 active   0 killed     старый доспешник
+#5727   3 active   0 killed     призрак вора
+#5728   1 active   0 killed     хозяин кабака
+#5729   1 active   0 killed     толпа наемников
+#5730   0 active   0 killed     молоденькая эльфийка
+#5731   0 active   0 killed     дракон
+#5732   0 active   0 killed     орк
+#5800   4 active   0 killed     кентавр
+#5801   6 active   0 killed     кентавр
+#5802   5 active   0 killed     нага
+#5803   2 active   0 killed     гигантский волк
+#5804   2 active   0 killed     гигантский волк
+#5805   3 active   0 killed     медведь
+#5806   3 active   0 killed     летучая мышь
+#5807   0 active   0 killed     кентавр
+#5808   1 active   0 killed     нага
+#5809   1 active   0 killed     Птица Гаруда
+#5810   4 active   0 killed     сторожевой пес
+#5811   1 active   0 killed     Анаргома
+#5812   3 active   0 killed     призрак друида
+#5900   1 active   0 killed     русалочка
+#5901   1 active   0 killed     Дядюшка Сом
+#5902   1 active   0 killed     древний дракон
+#5903   1 active   0 killed     Дух {/Огня
+#5904   1 active   0 killed     юный маг
+#5905   1 active   0 killed     Дух Земли
+#5906   1 active   0 killed     начинающий друид
+#5907   1 active   0 killed     молодой воин
+#5908   1 active   0 killed     неопытный егерь
+#5909   1 active   0 killed     {Yсаламандра{x
+#5910   0 active   0 killed     тестер
+#5911   1 active   0 killed     неопытная воровка
+#5912   1 active   0 killed     Дух {/ветра
+#5913   1 active   0 killed     мастер воровства
+#5914   1 active   0 killed     Дух Жизни
+#5915   1 active   0 killed     Дух Смерти
+#5916   1 active   0 killed     фанатик
+#5917   1 active   0 killed     некромант
+#5918   1 active   0 killed     назгул
+#5919   1 active   0 killed     жрец
+#5920   1 active   0 killed     вампир
+#5921   3 active   0 killed     новорожденное пламя
+#5922   1 active   0 killed     белочка
+#5923   1 active   0 killed     змеюка
+#5924   2 active   0 killed     {&маленькое {&облачко
+#5925   4 active   0 killed     сгусток энергии
+#5926   1 active   0 killed     грабитель
+#5927   1 active   0 killed     неупокоенный зомби
+#5928   1 active   0 killed     оживший скелет
+#5929   1 active   0 killed     суслик
+#6000   1 active   0 killed     Дровосек Джон
+#6002   1 active   0 killed     бурый медведь
+#6003   0 active   0 killed     свирепый кролик
+#6004   1 active   0 killed     олениха
+#6005   1 active   0 killed     рыжая лиса
+#6100   2 active   0 killed     свирепый волк
+#6101   2 active   0 killed     свирепый волк
+#6102   4 active   0 killed     серый волк
+#6103   4 active   0 killed     черный волк
+#6112   1 active   0 killed     зеленый дракон
+#6115   1 active   0 killed     Лесник
+#6116   1 active   0 killed     верховный друид
+#6117   2 active   0 killed     Иерофант
+#6118   2 active   0 killed     Страж гильдии
+#6301   4 active   0 killed     молодой паучок
+#6302   1 active   0 killed     дракон Гангур
+#6303   1 active   0 killed     волчий паук
+#6304   1 active   0 killed     орк
+#6305   1 active   0 killed     Королевская Оса
+#6306   3 active   0 killed     трутень
+#6307   2 active   0 killed     неземной паук
+#6308   5 active   0 killed     паучий раб
+#6309   1 active   0 killed     квазит
+#6310   1 active   0 killed     птица - паук
+#6311   1 active   0 killed     отшельник
+#6312   1 active   0 killed     Хранитель
+#6313   1 active   0 killed     охранник
+#6314   1 active   0 killed     Императрица пауков
+#6315   1 active   0 killed     Карина
+#6316   1 active   0 killed     молодой дракончик
+#6317   1 active   0 killed     дракоша
+#6318   3 active   0 killed     ядовитый паук
+#6319   1 active   0 killed     Королева {/Пауков
+#6320   0 active   0 killed     Скромная девушка
+#6400   1 active   0 killed     адмирал Родригес
+#6401   1 active   0 killed     горбатый Бунч
+#6402   1 active   0 killed     одноногий Билли
+#6403   1 active   0 killed     одноглазый Джо
+#6404   9 active   0 killed     чайка
+#6405   1 active   0 killed     старый моряк
+#6406   1 active   0 killed     офицер
+#6407   1 active   0 killed     вороной жеребец
+#6408   1 active   0 killed     старый конюх
+#6409   1 active   0 killed     бродячий торговец
+#6410   1 active   0 killed     пастушка
+#6411   1 active   0 killed     белая овечка
+#6412   1 active   0 killed     орк канонир
+#6413   1 active   0 killed     змей канонир
+#6414   1 active   0 killed     шулер
+#6415   1 active   0 killed     бедный пират
+#6416   1 active   0 killed     заядлый игрок
+#6417   1 active   0 killed     призрак короля эльфов
+#6418   0 active   0 killed     лесник
+#6419   3 active   0 killed     наглый пират
+#6420   0 active   0 killed     земляной голем
+#6421   1 active   0 killed     безумный моряк
+#6422   3 active   0 killed     корабельная крыса
+#6423   0 active   0 killed     призрачный дракон
+#6424   0 active   0 killed     грозный энт
+#6425   0 active   0 killed     снежный человек
+#6426   1 active   0 killed     страж артефактов
+#6427   1 active   0 killed     хранитель артефактов
+#6428   4 active   0 killed     пьяный пират
+#6500  10 active   0 killed     страж гномов
+#6501   3 active   0 killed     шахтер
+#6502   2 active   0 killed     дух
+#6503   1 active   0 killed     магазинщик
+#6504   1 active   0 killed     пекарь
+#6505   2 active   0 killed     гигантская ящерица
+#6506   1 active   0 killed     гигант
+#6507   3 active   0 killed     шахтер
+#6508   1 active   0 killed     надсмотрщик
+#6509   1 active   0 killed     доктор гномов
+#6510   2 active   0 killed     слуга гномов
+#6511   6 active   0 killed     гном
+#6512   2 active   0 killed     внебрачный сын
+#6513   2 active   0 killed     внебрачная дочь
+#6514   2 active   0 killed     охранник
+#6515   2 active   0 killed     посетитель
+#6516   1 active   0 killed     конюх
+#6517   2 active   0 killed     гигантская змея
+#6600   7 active   0 killed     маленький гномик
+#6601   2 active   0 killed     игрушечный медведь
+#6602   2 active   0 killed     кукла Анна
+#6603   4 active   0 killed     игрушечный солдатик
+#6604   2 active   0 killed     уродливый медведь
+#6605   3 active   0 killed     старая кукла
+#6606   2 active   0 killed     нянечка
+#6607   1 active   0 killed     стражник
+#6608   1 active   0 killed     грубиян
+#6700   2 active   0 killed     стражник
+#6701   1 active   0 killed     разводящий
+#6702   1 active   0 killed     приземистый кузнец
+#6703   1 active   0 killed     подмастерье
+#6704   0 active   0 killed     подмастерье
+#6705   1 active   0 killed     Тунка
+#6706   1 active   0 killed     Совет {/Топора
+#6707   5 active   0 killed     рассыльный
+#6708   5 active   0 killed     патрульный
+#6709   1 active   0 killed     Тонукор
+#6710   1 active   0 killed     подземный варан
+#6711   1 active   0 killed     виверна
+#6712   1 active   0 killed     пещерный волк
+#6713   1 active   0 killed     пещерный кабан
+#6714   1 active   0 killed     огненный вихрь
+#6851   1 active   0 killed     жрец древних Богов
+#6852   0 active   0 killed     деньги
+#6853   1 active   0 killed     торговец оружием
+#6854   1 active   0 killed     торговец доспехами
+#6855   1 active   0 killed     торговец магическими товарами
+#6856   1 active   0 killed     работник ломбарда
+#6857   6 active   0 killed     заключенный хоббит
+#6858   6 active   0 killed     заключенный орк
+#6859   6 active   0 killed     заключенный гном
+#6860   6 active   0 killed     заключенный вампир
+#6861   6 active   0 killed     заключенный эльф
+#6862   6 active   0 killed     заключенный змей
+#6863   1 active   0 killed     дьявол
+#6864   5 active   0 killed     помощник торговца
+#6865   0 active   0 killed     страж башни
+#6866   1 active   0 killed     Жрец древнего культа
+#6867   1 active   0 killed     Страж клана
+#7000   6 active   0 killed     ужасный монстр
+#7001   4 active   0 killed     летучая мышь
+#7002   4 active   0 killed     канализационная крыса
+#7003   6 active   0 killed     маленький паук
+#7004   1 active   0 killed     гигантский таракан
+#7005   3 active   0 killed     личинка
+#7006   3 active   0 killed     змея
+#7007   1 active   0 killed     дьявольский странник
+#7008   1 active   0 killed     гомункул
+#7010   1 active   0 killed     дьявольский слизняк
+#7011   1 active   0 killed     мрачный моркот
+#7013   3 active   0 killed     ужасный монстр
+#7040   1 active   0 killed     красный дракон
+#7041   1 active   0 killed     морская ведьма
+#7042   1 active   0 killed     нага страж
+#7043   1 active   0 killed     василиск
+#7044   1 active   0 killed     сопля
+#7045   1 active   0 killed     Джон
+#7046   1 active   0 killed     Геральд
+#7200   1 active   0 killed     мастер разума
+#7201   1 active   0 killed     старейшина разума
+#7202   2 active   0 killed     послушник разума
+#7203   9 active   0 killed     уродливый крысюк
+#7204   1 active   0 killed     гигантская крыса
+#7205   1 active   0 killed     Мозговой слизень
+#7500   1 active   0 killed     тетушка Хавка
+#7501   1 active   0 killed     Скуперфильд
+#7502   1 active   0 killed     Илия
+#7503   1 active   0 killed     вышибала
+#7504   1 active   0 killed     фокусник
+#7505   1 active   0 killed     старый вор
+#7506   1 active   0 killed     старый аббат
+#7507   1 active   0 killed     парящий череп
+#7508   1 active   0 killed     Колун
+#7509   1 active   0 killed     человечек в сутане
+#7510   7 active   0 killed     молодой стражник
+#7511   3 active   0 killed     стражник
+#7512   2 active   0 killed     пожилой стражник
+#7513   4 active   0 killed     окунь
+#7514   3 active   0 killed     елец
+#7515   1 active   0 killed     лекарь
+#7516   2 active   0 killed     страж ворот
+#7517   2 active   0 killed     страж ворот
+#7518   2 active   0 killed     страж ворот
+#7519  12 active   0 killed     бродячий пес
+#7520   5 active   0 killed     бродяжка
+#7521   5 active   0 killed     дворник
+#7522   4 active   0 killed     воробей
+#7523   3 active   0 killed     горожанка
+#7524   3 active   0 killed     горожанин
+#7525   1 active   0 killed     торговец животными
+#7526   1 active   0 killed     егерь
+#7527   1 active   0 killed     торговец
+#7528   1 active   0 killed     черепашка
+#7529   1 active   0 killed     щенок
+#7530   1 active   0 killed     бойцовский кот
+#7531   1 active   0 killed     рысь
+#7532   1 active   0 killed     орел
+#7533   1 active   0 killed     Страж храма
+#7534   6 active   0 killed     Страж гильдии
+#7594   1 active   0 killed     секретарь
+#7595   1 active   0 killed     Банкир
+#7596   1 active   0 killed     меняла
+#7597   1 active   0 killed     Караванщик Мэгард
+#7601   1 active   0 killed     Темпос
+#7602   1 active   0 killed     Паша Пок
+#7603   4 active   0 killed     кобра
+#7604   4 active   0 killed     скорпион
+#7605   5 active   0 killed     варан
+#7606   1 active   0 killed     хрустальный орк
+#7607   1 active   0 killed     хрустальный гоблин
+#7608   1 active   0 killed     Хеафстаг
+#7609   1 active   0 killed     лич
+#7610   1 active   0 killed     лич
+#7611   1 active   0 killed     лич
+#7612   2 active   0 killed     лич
+#7613   1 active   0 killed     лич
+#7614   1 active   0 killed     лич
+#7615   1 active   0 killed     Демон Телшаз
+#7616   1 active   0 killed     Лорд Эррту
+#7700   1 active   0 killed     Звездный страж
+#7701   2 active   0 killed     Кошмар
+#7702   1 active   0 killed     Звездная ведьма
+#7703   4 active   0 killed     Живая туманность
+#7704  10 active   0 killed     бестелесное существо
+#7705   4 active   0 killed     Млечный охотник
+#7706   2 active   0 killed     звездный воин
+#7707   4 active   0 killed     Охранник
+#7708   2 active   0 killed     Звездный рыцарь
+#7709   2 active   0 killed     Звездный защитник
+#7710   2 active   0 killed     Звездный житель
+#7711   6 active   0 killed     Звездный житель
+#7712   4 active   0 killed     Звездный колдун
+#7713   1 active   0 killed     Королева звезд
+#7714   1 active   0 killed     Вождь звездного народа
+#7715   3 active   0 killed     Бестелесное привидение
+#7716   1 active   0 killed     узник
+#7717   1 active   0 killed     Страдающий гигант
+#7718   1 active   0 killed     Порабощенный дракон
+#7719   6 active   0 killed     Огромное пламя
+#7720   1 active   0 killed     небесный кузнец
+#7800   6 active   0 killed     псина
+#7801   6 active   0 killed     Долинный Эльф
+#7802   6 active   0 killed     Долинная Эльфийка
+#7803   3 active   0 killed     Долинный Страж
+#7804   4 active   0 killed     Долинная Стражница
+#7805   5 active   0 killed     Долинный Разведчик
+#7806   5 active   0 killed     Долинная Эльфийка
+#7807   1 active   0 killed     Старейшина долины
+#7808   1 active   0 killed     Провидица долины
+#7809   1 active   0 killed     пирогидра
+#7810   1 active   0 killed     старый отшельник
+#7811   1 active   0 killed     Талемон
+#7812   1 active   0 killed     Проклятый Охранник
+#7813   3 active   0 killed     волк
+#7814   3 active   0 killed     антилопа
+#7900   1 active   0 killed     Великий Рыцарь
+#7901   5 active   0 killed     облако-барашек
+#7902   6 active   0 killed     облако-барашек
+#7903   1 active   0 killed     облачный пастух
+#7904   1 active   0 killed     заключенный
+#7905   8 active   0 killed     заключенный
+#7906   1 active   0 killed     грозный заключенный
+#7907   1 active   0 killed     придворный повар
+#7908   1 active   0 killed     поваренок
+#7909   1 active   0 killed     поваренок
+#7910   1 active   0 killed     поваренок
+#7911   1 active   0 killed     поваренок
+#7912   1 active   0 killed     плотник
+#7913   1 active   0 killed     сын красного отца
+#7914   1 active   0 killed     придворный маг
+#7915   2 active   0 killed     прислуга
+#7916   2 active   0 killed     прислуга
+#7917   1 active   0 killed     красный отец
+#8000   2 active   0 killed     воинственный орк
+#8001   1 active   0 killed     группа пьяных орков
+#8002   1 active   0 killed     Боевой патруль
+#8003   1 active   0 killed     начальник охраны
+#8004   1 active   0 killed     старый колдун
+#8005   1 active   0 killed     старый кузнец
+#8006   1 active   0 killed     доспешник
+#8007   1 active   0 killed     мясник
+#8008   1 active   0 killed     смотритель кладбища
+#8009   1 active   0 killed     вор
+#8010   1 active   0 killed     жрец
+#8011   1 active   0 killed     назгул
+#8012   1 active   0 killed     маг
+#8013   1 active   0 killed     егерь
+#8014   1 active   0 killed     некромант
+#8015   1 active   0 killed     воин
+#8016   1 active   0 killed     хранитель ключа
+#8017   8 active   0 killed     кладбищенский дух
+#8018   0 active   0 killed     Страж {/Райнака
+#8019   4 active   0 killed     огромная крыса
+#8020   5 active   0 killed     грязный гоблин
+#8021   0 active   0 killed     свирепый урукхай
+#8022   2 active   0 killed     подметальщик
+#8023   3 active   0 killed     маленький орчонок
+#8024   2 active   0 killed     пьяница
+#8025   1 active   0 killed     шатающийся орк
+#8026   1 active   0 killed     наливайщик
+#8027   6 active   0 killed     стервятник
+#8028   1 active   0 killed     обменщик
+#8029   1 active   0 killed     Погонщик рабов
+#8030   1 active   0 killed     чахлый гоблин
+#8031   1 active   0 killed     забитый эльф
+#8032   1 active   0 killed     молодой гном
+#8033   1 active   0 killed     толстый хоббит
+#8034   1 active   0 killed     угрюмый гигант
+#8035   1 active   0 killed     Страж храма
+#8036   7 active   0 killed     Страж гильдии
+#8037   1 active   0 killed     секретарь
+#8084   1 active   0 killed     Страж гильдии
+#8085   1 active   0 killed     глава гильдии
+#8086   1 active   0 killed     Банкир
+#8087   1 active   0 killed     Караванщик Гулд
+#8100   1 active   0 killed     огромный Паук
+#8101   0 active   0 killed     {Dчёрная {wПаучиха{x
+#8151   3 active   0 killed     шахтер
+#8152   0 active   0 killed     элементал
+#8153   1 active   0 killed     алхимик
+#8154   5 active   0 killed     воровка
+#8155   1 active   0 killed     воровка
+#8156   1 active   0 killed     волшебник
+#8157   0 active   0 killed     ужасное чудовище
+#8158   0 active   0 killed     волшебник
+#8159   1 active   0 killed     ученик алхимика
+#8160   1 active   0 killed     кузнец
+#8161   1 active   0 killed     помощник кузнеца
+#8162   1 active   0 killed     девушка
+#8163   1 active   0 killed     путник
+#8164   1 active   0 killed     хозяин кабака
+#8165   3 active   0 killed     подвыпивший мужчина
+#8166   2 active   0 killed     напившийся юноша
+#8167   1 active   0 killed     священник
+#8168   3 active   0 killed     юноша
+#8169   4 active   0 killed     женщина
+#8170   4 active   0 killed     мужчина
+#8171   4 active   0 killed     стражник
+#8200   1 active   0 killed     жиль
+#8201   1 active   0 killed     сторож
+#8202   1 active   0 killed     гигантская пиявка
+#8203   1 active   0 killed     тигр
+#8204   1 active   0 killed     дельфин
+#8205   1 active   0 killed     единорог
+#8206   1 active   0 killed     крокодил
+#8207   1 active   0 killed     медведь
+#8208   1 active   0 killed     детеныш дракона
+#8209   1 active   0 killed     слон
+#8210   1 active   0 killed     горилла
+#8211   1 active   0 killed     ассистент
+#8230   1 active   0 killed     свинья
+#8231   2 active   0 killed     маленькая птичка
+#8232   1 active   0 killed     козленок
+#8233   1 active   0 killed     коза
+#8234   1 active   0 killed     козел
+#8235   1 active   0 killed     ослик
+#8236   1 active   0 killed     старая лошадь
+#8237   1 active   0 killed     попугай харви
+#8301   2 active   0 killed     болотный тролль
+#8302   3 active   0 killed     зеленый тролль
+#8303   3 active   0 killed     людоед
+#8304   1 active   0 killed     болотная тварь
+#8305   1 active   0 killed     гнолль
+#8306   2 active   0 killed     волосатое чудовище
+#8307   1 active   1 killed     маленькое животное
+#8308   1 active   0 killed     Вилокрыс
+#8309   2 active   0 killed     анаконда
+#8310   1 active   1 killed     большой питон
+#8312   2 active   0 killed     Болотная Ведьма
+#8313   1 active   0 killed     Призрак смерти
+#8314   5 active   1 killed     болотный волк
+#8318   2 active   0 killed     куча мусора
+#8319   0 active   0 killed     шаман орков
+#8320   5 active   0 killed     болотный гигант
+#8321   2 active   0 killed     горгулья
+#8400   1 active   0 killed     Зресс Ксукут
+#8401   1 active   0 killed     Дорлан
+#8402   1 active   0 killed     гном
+#8403   1 active   0 killed     Закай
+#8404   1 active   0 killed     Жмот
+#8405   1 active   0 killed     молоденькая жрица
+#8406   1 active   0 killed     юный маг
+#8407   1 active   0 killed     друид
+#8408   1 active   0 killed     Слин
+#8409   1 active   0 killed     Кирот
+#8410   1 active   0 killed     гоблин
+#8411   1 active   0 killed     Лилу
+#8412   1 active   0 killed     Бо
+#8413   1 active   0 killed     С'лурп
+#8414   1 active   0 killed     Вельве
+#8415   1 active   0 killed     Ратх'елг
+#8416   1 active   0 killed     Саргх
+#8417   1 active   0 killed     Среен{x{x
+#8418   1 active   0 killed     Фаерн
+#8419   1 active   0 killed     Эльг'каресс{x{x
+#8420   1 active   0 killed     Элг'кал
+#8421   1 active   0 killed     З'ресс{x{x
+#8422   1 active   0 killed     Белдро
+#8423   1 active   0 killed     Хардра
+#8424   1 active   0 killed     Тхалак
+#8425   1 active   0 killed     Венориш{x{x
+#8426   1 active   0 killed     Вельг'ларн
+#8427   1 active   0 killed     Иньч{x{x
+#8428   1 active   0 killed     Тагни
+#8429   1 active   0 killed     Тренер дроу
+#8430   7 active   0 killed     страж порядка
+#8431   7 active   0 killed     минотавр
+#8432   7 active   0 killed     страж порядка
+#8433   1 active   0 killed     йокол{x{x
+#8434   2 active   0 killed     сторожевой паук
+#8435   6 active   0 killed     кобольд дворник
+#8436   1 active   0 killed     иллитид
+#8437   0 active   0 killed     избитый эльф
+#8438   3 active   0 killed     маленький паучок
+#8439   3 active   0 killed     большой паук
+#8440   3 active   0 killed     мохнатый паук
+#8441   1 active   0 killed     Эльгинн
+#8442   1 active   0 killed     бард
+#8443   2 active   0 killed     надсмотрщик
+#8444   1 active   0 killed     драйдер
+#8445   1 active   0 killed     огр
+#8446   1 active   0 killed     багбир
+#8447   1 active   0 killed     гоблин
+#8448   1 active   0 killed     кобольд
+#8449   1 active   0 killed     ящер
+#8450   1 active   0 killed     гигантский слизень
+#8451   1 active   0 killed     маленькая ящерка
+#8452   1 active   0 killed     маленький слизень
+#8453   1 active   0 killed     паучок
+#8454   2 active   0 killed     злобный драйдер
+#8455   1 active   0 killed     угорь
+#8456   1 active   0 killed     окунек
+#8457   1 active   0 killed     рыбак
+#8458   4 active   0 killed     маленький миканоид
+#8459   4 active   0 killed     гигантский миканоид
+#8460   4 active   0 killed     нервный миканоид
+#8461   4 active   0 killed     улыбающийся миканоид
+#8462   1 active   0 killed     рофе
+#8463   1 active   0 killed     зомби
+#8464   1 active   0 killed     мать Оусси
+#8465   1 active   0 killed     страж
+#8466   1 active   0 killed     мать{/{/ Кетари
+#8467   1 active   0 killed     дроу
+#8468   1 active   0 killed     дроу
+#8469   1 active   0 killed     огр
+#8470   1 active   0 killed     мать{/{/ Алевал
+#8471   1 active   0 killed     дроу
+#8472   1 active   0 killed     страж
+#8473   1 active   0 killed     мать {/Тосинн
+#8474   1 active   0 killed     дроу
+#8475   1 active   0 killed     страж
+#8476   4 active   0 killed     глава дома
+#8477   4 active   0 killed     дроу
+#8478   1 active   0 killed     элементал
+#8479   1 active   0 killed     элементал
+#8480   1 active   0 killed     мать{/{/ Чадал
+#8481   2 active   0 killed     дроу
+#8482   1 active   0 killed     архимаг {%Ссин-Верина
+#8483   1 active   0 killed     паук
+#8484   2 active   0 killed     глава дома
+#8485   1 active   0 killed     мать{/{/ Мирет
+#8486   3 active   0 killed     дроу
+#8487   2 active   0 killed     минотавр
+#8488   0 active   0 killed     избитый эльф
+#8489   0 active   0 killed     избитый эльф
+#8490   1 active   0 killed     мать{/{/ Такеду
+#8491   1 active   0 killed     прикованный эльф
+#8492   0 active   0 killed     ожившая змея
+#8493   1 active   0 killed     стражник
+#8494   1 active   0 killed     паук
+#8495   1 active   0 killed     паук
+#8496   1 active   0 killed     страж
+#8497   1 active   0 killed     страж
+#8498   1 active   0 killed     страж
+#8499   0 active   0 killed     эльф
+#8500  17 active   0 killed     элитный страж
+#8501   1 active   0 killed     официант
+#8570   1 active   0 killed     глава гильдии
+#8571   1 active   0 killed     Страж гильдии
+#8572   1 active   0 killed     секретарь
+#8573   1 active   0 killed     Банкир
+#8574   1 active   0 killed     Караванщик Милл
+#8700   4 active   0 killed     ужасная змея
+#8701   2 active   0 killed     кобра
+#8702   3 active   0 killed     маленький мангуст
+#8703   6 active   0 killed     смотритель пирамиды
+#8704   6 active   0 killed     вор
+#8705   1 active   0 killed     Али-Баба
+#8706   1 active   0 killed     летающий ковер
+#8707   4 active   0 killed     мумия
+#8708   4 active   0 killed     песочник
+#8709   1 active   0 killed     ифрит
+#8710   1 active   0 killed     кариатида
+#8711   1 active   0 killed     джинн
+#8712   3 active   0 killed     гиеросфинкс
+#8713   2 active   0 killed     гиносфинкс
+#8714   2 active   0 killed     криосфинкс
+#8715   1 active   0 killed     андросфинкс
+#8716   1 active   0 killed     могучий сфинкс
+#8717   1 active   0 killed     проклятый Рамзес
+#8718   1 active   0 killed     старый человек
+#8800   2 active   0 killed     разведчик
+#8801   1 active   0 killed     воин
+#8802   1 active   0 killed     шпион орков
+#8803   1 active   0 killed     орк
+#8804   2 active   0 killed     эльфийский страж
+#8805   1 active   0 killed     Начальник стражи
+#8806   1 active   0 killed     Галион
+#8807   1 active   0 killed     Король Трандуил
+#8808   1 active   0 killed     лесной эльф
+#8809   1 active   0 killed     лесная эльфийка
+#8810   1 active   0 killed     тюремщик
+#8811   1 active   0 killed     Торин Дубощит
+#8900   1 active   0 killed     Иерофант
+#8901   1 active   0 killed     Иерофанта
+#8902   1 active   0 killed     Старший друид
+#8903   1 active   0 killed     Старшая друидка
+#8904   1 active   0 killed     олененок
+#8905   1 active   0 killed     Олень
+#8906   1 active   0 killed     Олень
+#8907   2 active   0 killed     Маленький кролик
+#8908   1 active   0 killed     Безобидная змейка
+#8909   2 active   0 killed     Друид
+#8910   2 active   0 killed     Друидка
+#9000   4 active   0 killed     крокодил
+#9001   2 active   0 killed     каменная горгулья
+#9002   1 active   0 killed     мясник
+#9003   1 active   0 killed     седой кладовщик
+#9004   4 active   0 killed     поваренок
+#9005   1 active   0 killed     старший повар
+#9006   1 active   0 killed     верткий слуга
+#9007   1 active   0 killed     арсенальщик
+#9008   1 active   0 killed     военный советник
+#9009   1 active   0 killed     пострадавший ученик
+#9010   1 active   0 killed     ученик магии
+#9011   1 active   0 killed     ученик магии
+#9012   1 active   0 killed     ледяной голем
+#9013   1 active   0 killed     огненный голем
+#9014   1 active   0 killed     верховный магистр
+#9015   1 active   0 killed     верный слуга
+#9016   1 active   0 killed     седой наставник
+#9017  15 active   0 killed     гвардеец
+#9018   1 active   0 killed     телохранитель
+#9101  35 active   0 killed     грязная гарпия
+#9102   2 active   0 killed     старшая гарпия
+#9103   5 active   0 killed     призрачный Элементал воздуха
+#9104   2 active   0 killed     таинственный ифрит
+#9105   1 active   0 killed     гигантская птица Рух
+#9106   1 active   0 killed     гигантская птица Рух
+#9107   1 active   0 killed     голодная ведьма
+#9201   3 active   0 killed     альпинист
+#9202   0 active   0 killed     циклоп
+#9203   7 active   0 killed     крошечный элементал
+#9204   1 active   0 killed     охраняющий элементал
+#9205   6 active   0 killed     маленький элементал
+#9206   4 active   0 killed     средний элементал
+#9207   5 active   0 killed     большой элементал
+#9208   1 active   0 killed     Элементал земли
+#9209   1 active   0 killed     Элементал огня
+#9210   1 active   0 killed     Элементал воздуха
+#9211   1 active   0 killed     Элементал молнии
+#9212   1 active   0 killed     Элементал воды
+#9214   8 active   0 killed     лужа
+#9215   6 active   0 killed     пламя
+#9216   4 active   0 killed     маленькая снежинка
+#9217   8 active   0 killed     круглый камешек
+#9218   8 active   0 killed     маленькая молния
+#9219   4 active   0 killed     кислотная капля
+#9220   4 active   0 killed     создание из лавы
+#9221   4 active   0 killed     грязный монстр
+#9222   4 active   0 killed     {&туман
+#9223   4 active   0 killed     элементарная частица
+#9224   4 active   0 killed     пыльное облако
+#9225   8 active   0 killed     вихрь
+#9226   1 active   0 killed     Синее Пламя
+#9227   1 active   0 killed     Магнето{x{x
+#9228   1 active   0 killed     Ледяной Бандит
+#9229   1 active   0 killed     Каменный Монстр
+#9230   1 active   0 killed     Ураган
+#9231   2 active   0 killed     элементарный фокусник
+#9232   2 active   0 killed     радужный воин
+#9233   3 active   0 killed     иллюзионист
+#9234   2 active   0 killed     алхимик
+#9235   2 active   0 killed     отпрыск радужного дракона
+#9236   7 active   0 killed     чертенок
+#9237   0 active   0 killed     ОГРОМНЫЙ элементал
+#9238   1 active   0 killed     продавец эликсиров
+#9401   5 active   0 killed     облезлая крыса
+#9402   1 active   0 killed     начальник каменоломен
+#9403   7 active   0 killed     стражник каменоломен
+#9404   2 active   0 killed     катальщик камней
+#9405   7 active   0 killed     дробильщик
+#9406   8 active   0 killed     рабочий
+#9407   3 active   0 killed     работница каменоломен
+#9500   1 active   0 killed     мастер гильдии
+#9501   1 active   0 killed     мастер гильдии
+#9502   1 active   0 killed     мастер гильдии
+#9503   1 active   0 killed     мастер гильдии
+#9504   1 active   0 killed     регистраторша
+#9505   1 active   0 killed     Магли
+#9506   1 active   0 killed     Братец Джон
+#9507   1 active   0 killed     нищий
+#9508   1 active   0 killed     нищий
+#9509   1 active   0 killed     бродяга
+#9510   1 active   0 killed     Йорна
+#9511   1 active   0 killed     Юсуф
+#9512   1 active   0 killed     Эландар
+#9513   1 active   0 killed     Портной Аким
+#9514   1 active   0 killed     Брунгхильда
+#9515   1 active   0 killed     Али
+#9516   1 active   0 killed     {:Рекладорф
+#9517   1 active   0 killed     Илия
+#9518   1 active   0 killed     Кассандра
+#9519   1 active   0 killed     бригадир
+#9520   2 active   0 killed     строитель
+#9521   1 active   0 killed     Джафар
+#9524   1 active   0 killed     Ночная тень
+#9529   1 active   0 killed     Азиз
+#9530   1 active   0 killed     Мустафа
+#9531   1 active   0 killed     Фатима
+#9532   1 active   0 killed     Карим
+#9533   3 active   0 killed     кочующий торгаш
+#9534   0 active   0 killed     телохранитель
+#9535   1 active   0 killed     тощий мальчишка
+#9536   7 active   0 killed     портовый грузчик
+#9537   1 active   0 killed     сборщик налогов
+#9538   1 active   0 killed     Горд
+#9539   1 active   0 killed     Карамон
+#9540   1 active   0 killed     Райстлин
+#9541   1 active   0 killed     Егерь Карли
+#9542   2 active   0 killed     блуждающий пророк
+#9543   5 active   0 killed     кошка
+#9544   8 active   0 killed     Гриф
+#9545   1 active   0 killed     старик
+#9546   0 active   0 killed     Конан Лайбрариан
+#9547   1 active   0 killed     нечистый демон
+#9548   1 active   0 killed     ламия
+#9549   1 active   0 killed     оборванный дервиш
+#9550   1 active   0 killed     Султан
+#9551   8 active   0 killed     наложница
+#9552   1 active   0 killed     тюремщик
+#9553   4 active   0 killed     евнух
+#9554   1 active   0 killed     Любимица султана Николь
+#9556   1 active   0 killed     охранник гильдии
+#9557   1 active   0 killed     охранник гильдии
+#9558   1 active   0 killed     охранник гильдии
+#9559   1 active   0 killed     охранник гильдии
+#9560   1 active   0 killed     прислужник
+#9561   5 active   0 killed     охрана султана
+#9562   8 active   0 killed     стража султана
+#9563   1 active   0 killed     Хусейн
+#9564   1 active   0 killed     наемник
+#9565   1 active   0 killed     капитан
+#9566   1 active   0 killed     кузнец
+#9567   6 active   0 killed     конь
+#9568   2 active   0 killed     турист
+#9569   1 active   0 killed     Караванщик Хьярл
+#9570   1 active   0 killed     криогидра
+#9571   1 active   0 killed     гигантская ящерица
+#9572   5 active   0 killed     мертвая собака
+#9573   1 active   0 killed     пятнистый лев
+#9574   1 active   0 killed     гигантская сороконожка
+#9575   1 active   0 killed     химера
+#9576   1 active   0 killed     коатл
+#9577   1 active   0 killed     гигантский шершень
+#9578   1 active   0 killed     пегас
+#9579   1 active   0 killed     Эльвира
+#9580   1 active   0 killed     Брагем
+#9581   1 active   0 killed     верховный священник
+#9582  12 active   0 killed     Королевская охрана
+#9583   1 active   0 killed     Горнак
+#9584   1 active   0 killed     Минс
+#9585   1 active   0 killed     садовник
+#9586   1 active   0 killed     ночной кошмар
+#9587   1 active   0 killed     {:Злобная Росомаха
+#9588   0 active   0 killed     мимик
+#9589   1 active   0 killed     Мэр
+#9590   1 active   0 killed     главный повар
+#9591   5 active   0 killed     Большая крыса
+#9592   6 active   0 killed     телохранитель
+#9593   1 active   0 killed     Спенсер
+#9594   1 active   0 killed     библиотекарь
+#9595   1 active   0 killed     старый кузнец
+#9596   5 active   0 killed     Страж гильдии
+#9597   2 active   0 killed     Страж храма
+#9598   1 active   0 killed     лекарь
+#9599   1 active   0 killed     {:Тигр
+#9600   1 active   0 killed     {:Пантера
+#9601   1 active   0 killed     {:Орел
+#9602   1 active   0 killed     меняла
+#9603   1 active   0 killed     секретарь
+#9604   1 active   0 killed     Мастер гильдии
+#9801   1 active   0 killed     Паук
+#9802   1 active   0 killed     Небольшая ящерица
+#9803   3 active   0 killed     Птенец грифона
+#9804   2 active   0 killed     Самка грифона
+#9805   0 active   0 killed     Самец грифон
+#9806   0 active   0 killed     Новорожденый птенец грифона
+#9807   0 active   0 killed     Страж склепа
+#9808   1 active   0 killed     Драколиск
+#9809   0 active   0 killed     Предводитель мертвых
+#9810   0 active   0 killed     Призрачный скелет
+#9811   1 active   0 killed     Старый охотник
+#9812   1 active   0 killed     Дородная баба
+#9813   2 active   0 killed     Черная змея
+#9814   1 active   0 killed     Пожиратель падали
+#9815   6 active   0 killed     Жирный червь
+#9816   1 active   0 killed     Друид
+#9817   1 active   0 killed     Черный дрозд
+#9818   5 active   0 killed     Белая личинка
+#9819   1 active   0 killed     крестьянская девочка
+#9820   0 active   0 killed     зомби варга
+#9821   0 active   0 killed     Лич
+#9822   0 active   0 killed     Скелет варга
+#9823   2 active   0 killed     Рыжая белка
+#9824   1 active   0 killed     ламия
+#9825   2 active   0 killed     Полевая мышь
+#10000   1 active   0 killed     Сонный паук
+#10001   8 active   0 killed     Большой паук
+#10002  11 active   0 killed     Резвый паук
+#10003   4 active   0 killed     Взрослый паук
+#10004   1 active   0 killed     королева пауков
+#10005   2 active   0 killed     стражник паук
+#10006   6 active   0 killed     Молодая сороконожка
+#10007   4 active   0 killed     Рыжая сороконожка
+#10008   5 active   0 killed     Серая сороконожка
+#10009   1 active   0 killed     Королева сороконожек
+#10010   1 active   0 killed     сороконожка
+#10011   4 active   0 killed     воинственная сороконожка
+#10100  10 active   0 killed     Ужасный нетопырь
+#10101  11 active   0 killed     клочок тумана
+#10102   9 active   0 killed     молодой вампир
+#10103   5 active   0 killed     старый диггер
+#10104   6 active   0 killed     вшивый крысеныш
+#10105   5 active   0 killed     старый вампир
+#10106   4 active   0 killed     молодая вампирша
+#10107   8 active   0 killed     крупная ворона
+#10108   1 active   0 killed     Князь Камариллы
+#10109   1 active   0 killed     вампир матузел
+#10110   1 active   0 killed     опытный охотник
+#10111   1 active   0 killed     старый рыбак
+#10112   1 active   0 killed     скупщик оружия
+#10113   1 active   0 killed     скупщик доспехов
+#10114   1 active   0 killed     старый бармен
+#10115   1 active   0 killed     дряхлый вампир
+#10116   1 active   0 killed     вампир тореадор
+#10117   1 active   0 killed     вампир бруха
+#10118   1 active   0 killed     вампир вентру
+#10119   1 active   0 killed     вампир гангрел
+#10120   1 active   0 killed     вампир носферату
+#10121   1 active   0 killed     вампир тремер
+#10122   1 active   0 killed     вампир малкавиан
+#10123   1 active   0 killed     Граф Дракула
+#10124   1 active   0 killed     Страж храма
+#10125   1 active   0 killed     Страж гильдии
+#10126   1 active   0 killed     глава банка
+#10127   1 active   0 killed     секретарь
+#10128   1 active   0 killed     колдун
+#10129   1 active   0 killed     Караванщик Бэрт
+#10300   1 active   0 killed     дерево {%Эйвы
+#10301   2 active   0 killed     Аватар хранителя
+#10302   1 active   0 killed     зверолов
+#10303   1 active   0 killed     Аватар наставника
+#10304   1 active   0 killed     птенец эклектуса
+#10305   1 active   0 killed     пурпурный броненосец
+#10306   1 active   0 killed     канийский саблезуб
+#10307   1 active   0 killed     тропический птицекрыл
+#10308   1 active   0 killed     птенец гиппогрифа
+#10309   1 active   0 killed     верховой дракондор
+#10310   1 active   0 killed     огненный феникс
+#10311   1 active   0 killed     мастер полетов
+#10312   6 active   0 killed     кровопийка
+#10313   6 active   0 killed     мохноножка
+#10314   6 active   0 killed     троллье лыко
+#10315   6 active   0 killed     остроухий хвощ
+#10316   6 active   0 killed     разгвоздец
+#10317   6 active   0 killed     мертвокорень
+#10318   6 active   0 killed     оборотный клопогонник
+#10319   6 active   0 killed     эльфяч{%ья мята
+#10320   6 active   0 killed     змееголовник
+#10321   6 active   0 killed     гномский хмель
+#10322   6 active   0 killed     гигантский ползун
+#10323   6 active   0 killed     адамов корень
+#10324   1 active   0 killed     кашевар
+#10325   1 active   0 killed     секретарь
+#10326   1 active   0 killed     шаман
+#10327   1 active   0 killed     ювелир
+#10328   1 active   0 killed     банкир
+#10329   1 active   0 killed     меняла
+#10330   1 active   0 killed     рейнджер
+#10331   1 active   0 killed     кузнец
+#10332   2 active   0 killed     страж поселения
+#10333   4 active   0 killed     патрульный
+#10334   1 active   0 killed     Аватар учителя
+#10335   7 active   0 killed     Страж гильдии
+#10336   1 active   0 killed     Аватар учителя
+#10337   1 active   0 killed     Аватар учителя
+#10338   1 active   0 killed     Аватар учителя
+#10339   1 active   0 killed     Аватар учителя
+#10340   1 active   0 killed     Аватар учителя
+#10341   1 active   0 killed     Аватар учителя
+#10342   1 active   0 killed     Аватар воителя
+#10343   5 active   0 killed     проекция дроу
+#10344   5 active   0 killed     проекция эльфа
+#10345   5 active   0 killed     проекция орка
+#10346   5 active   0 killed     проекция гнома
+#10347   5 active   0 killed     проекция тролля
+#10348   5 active   0 killed     проекция хоббита
+#10349   5 active   0 killed     проекция вампира
+#10350   5 active   0 killed     проекция человека
+#10351   5 active   0 killed     проекция оборотня
+#10352   5 active   0 killed     проекция гиганта
+#10353   5 active   0 killed     проекция зомби
+#10354   5 active   0 killed     проекция змея
+#10355   3 active   0 killed     стая бабочек
+#10356   1 active   0 killed     Караванщик Хенси
+#10401   2 active   0 killed     страж ада
+#10402   1 active   0 killed     кучка золотых монет
+#10403   1 active   0 killed     Демон
+#10404   1 active   0 killed     Демон
+#10405   1 active   0 killed     золотой слиток
+#10406   1 active   0 killed     пирог с курицей
+#10407   1 active   0 killed     пирог с говядиной
+#10408   1 active   0 killed     пирог с овощами
+#10409   3 active   0 killed     проклятая душа
+#10410   1 active   0 killed     замученная душа
+#10411   1 active   0 killed     полусъеденный человек
+#10412   2 active   0 killed     живая стена
+#10413   2 active   0 killed     Воин Скелет
+#10414   1 active   0 killed     отрубленная рука
+#10415   1 active   0 killed     отрубленая нога
+#10416   1 active   0 killed     отрубленный нос
+#10417   1 active   0 killed     кровавый фонтан
+#10418   2 active   0 killed     потерянная душа
+#10419   1 active   0 killed     обугленный человек
+#10420   1 active   0 killed     куча костей
+#10421   2 active   0 killed     лохматый суб-демон
+#10422   1 active   0 killed     пленник Рэйден
+#10423   1 active   0 killed     заключенная {$ада
+#10424   1 active   0 killed     заключенный {$ада
+#10425   3 active   0 killed     Демон
+#10426   2 active   0 killed     горящий шут
+#10427   3 active   0 killed     мужчина
+#10428   3 active   0 killed     женщина
+#10430   1 active   0 killed     огненный черт
+#10431   1 active   0 killed     огненная стена
+#10432   1 active   0 killed     адская гончая
+#10433   1 active   0 killed     замороженное тело
+#10434   1 active   0 killed     ледяной дьявол
+#10435   1 active   0 killed     замороженная душа
+#10436   2 active   0 killed     полузамороженное тело
+#10437   4 active   0 killed     пингвин
+#10438   2 active   0 killed     демон мороза
+#10439   1 active   0 killed     ледяной крикун
+#10440   1 active   0 killed     демонский бригадир
+#10441   1 active   0 killed     адская секретарша
+#10442   2 active   0 killed     адский служащий
+#10443   3 active   0 killed     адский статист
+#10444   1 active   0 killed     дед Мороз
+#10445   1 active   0 killed     верховный служитель
+#10446   1 active   0 killed     чаша крови
+#10447   1 active   0 killed     присяжный заседатель
+#10448   1 active   0 killed     Судья Воппер
+#10449   1 active   0 killed     Адвокат
+#10450   1 active   0 killed     женщина
+#10451   1 active   0 killed     Хирамото
+#10452   3 active   0 killed     черт Охранник
+#10453   4 active   0 killed     бурьян
+#10454   1 active   0 killed     Стэнли
+#10455   1 active   0 killed     полусъеденная лошадь
+#10456   1 active   0 killed     желудочный дракон
+#10457   1 active   0 killed     протухшая нога
+#10458   1 active   0 killed     черт Котельник
+#10459   1 active   0 killed     черт
+#10460   1 active   0 killed     Начальник охраны
+#10461   1 active   0 killed     {&дьявольский {&пирог
+#10462   1 active   0 killed     бешеный повар
+#10463   3 active   0 killed     жуткая дама
+#10464   1 active   0 killed     черт Истопник
+#10465   1 active   0 killed     чертенок
+#10466   2 active   0 killed     маленький чертенок
+#10467   1 active   0 killed     главный черт
+#10468   1 active   0 killed     огненный демон
+#10469   2 active   0 killed     замороженная говядина
+#10470   1 active   0 killed     сторожевая собака
+#10471   1 active   0 killed     Бифштекс с кровью
+#10600   4 active   0 killed     воин солнца
+#10601   1 active   0 killed     полоумный старичок
+#10602   1 active   0 killed     кровожадное божество
+#10603   0 active   0 killed     бронзовый воин
+#10604   2 active   0 killed     воин луны
+#10605   1 active   0 killed     бродяга
+#10606   3 active   0 killed     большая тень
+#10607   1 active   0 killed     одноглазый разбойник
+#10608   1 active   0 killed     тролль-страж
+#10609   1 active   0 killed     белый медведь
+#10610   1 active   0 killed     гигантский червь
+#10611   1 active   0 killed     хранитель первого этажа
+#10612   1 active   0 killed     варан
+#10613   1 active   0 killed     элементал земли
+#10614   1 active   0 killed     страж пирамид
+#10615   2 active   0 killed     бешеный волк
+#10616   1 active   0 killed     скелет
+#10617   3 active   0 killed     гладиатор
+#10618   1 active   0 killed     хранитель второго этажа
+#10619   1 active   0 killed     {:эльф-ассасин
+#10620   1 active   0 killed     тарантул
+#10621   1 active   0 killed     огнедышащий демон
+#10622   5 active   0 killed     летучая мышь
+#10623   1 active   0 killed     страж пирамид
+#10624   1 active   0 killed     страж пирамид
+#10625   1 active   0 killed     мифический зеленый дракон
+#10626   1 active   0 killed     мифический красный дракон
+#10627   1 active   0 killed     мифический черный дракон
+#10628   1 active   0 killed     прекрасная богиня
+#10629   4 active   0 killed     мумия
+#10630   1 active   0 killed     слуга назгулов
+#10631   1 active   0 killed     локран
+#10632   1 active   0 killed     призрак смотрителя
+#10633   0 active   0 killed     (no short description)
+#10634   1 active   0 killed     бешеный волк
+#10635   1 active   0 killed     летучая мышь
+#10750   7 active   0 killed     cелянин
+#10751   7 active   0 killed     cелянка
+#10752   1 active   0 killed     домовой 
+#10753   1 active   0 killed     сельский старшина
+#10754   1 active   0 killed     Селина
+#10755   1 active   0 killed     отшельник 
+#10756   1 active   0 killed     Ведунья
+#10757   4 active   0 killed     бродячий пес
+#10758   1 active   0 killed     цепной пес
+#10759   1 active   0 killed     котенок {/Кнесинки 
+#10760   1 active   0 killed     бер Шатун
+#10761   4 active   0 killed     рысь
+#10762   1 active   0 killed     стадо оленей
+#10763  10 active   0 killed     берегиня
+#10764  12 active   0 killed     навья
+#10765   1 active   0 killed     стая волков
+#10766   1 active   0 killed     мертвое дерево 
+#10767   8 active   0 killed     болотный упырь
+#10768   1 active   0 killed     нетопырь
+#10769   7 active   0 killed     отрок
+#10770   5 active   0 killed     дружинный витязь
+#10771   1 active   0 killed     отряд витязей
+#10772   2 active   0 killed     ополчение
+#10773   1 active   0 killed     Конь {/Кнеса 
+#10774   1 active   0 killed     конюший
+#10775   1 active   0 killed     патрульная лошадка
+#10776   1 active   0 killed     кузнец
+#10777   1 active   0 killed     ловчий Кнесa
+#10778   1 active   0 killed     Кнес
+#10779   1 active   0 killed     Левый
+#10780   1 active   0 killed     книгочей
+#10781   1 active   0 killed     Кнесинка
+#10782   1 active   0 killed     Старая служанка
+#10783   0 active   0 killed     подвальный Крот
+#10784   0 active   0 killed     подвальная Крыса  
+#10785   1 active   0 killed     гигантский Кротокрыс
+#10786   1 active   0 killed     кашевар {/Кнеса
+#10787   0 active   0 killed     новый Кнес
+#10788   0 active   0 killed     гигантская змеещука
+#10789   7 active   0 killed     Кромоприслужник
+#11000   1 active   0 killed     верховный бог
+#11001   1 active   0 killed     Серафим
+#11002   1 active   0 killed     херувим
+#11003   1 active   0 killed     ангел престолы
+#11004   1 active   0 killed     ангел силы
+#11005   1 active   0 killed     ангел господства
+#11006   1 active   0 killed     ангел власти
+#11007   2 active   0 killed     ангел начала
+#11008   2 active   0 killed     святой архангел
+#11009  10 active   0 killed     святой ангел
+#11010  10 active   0 killed     душа праведника
+#11011  10 active   0 killed     блаженная душа
+#11012   0 active   0 killed     чистая душа
+#11013   4 active   0 killed     райская птица
+#11014   4 active   0 killed     золотая рыбка
+#11015   1 active   0 killed     Метатрон
+#11016   1 active   0 killed     Карающий Ангел
+#11017   1 active   0 killed     Ангел Камаил
+#11018   1 active   0 killed     Архангел Сариил
+#11019   1 active   0 killed     Ангел Израэль
+#11020   7 active   0 killed     Ангелочек
+#11100   1 active   0 killed     хоббитка
+#11101   1 active   0 killed     женщина
+#11102   1 active   0 killed     раненый хоббит
+#11103   4 active   0 killed     медбрат
+#11104   1 active   0 killed     уборщица
+#11105   2 active   0 killed     врач
+#11106   0 active   0 killed     медсестра
+#11107   1 active   0 killed     ночной охранник
+#11108   1 active   0 killed     окулист
+#11109   1 active   0 killed     одноглазый
+#11110   1 active   0 killed     старшая медсестра
+#11111   1 active   0 killed     главврач
+#11112   1 active   0 killed     пират
+#11113   1 active   0 killed     стоматолог
+#11114   1 active   0 killed     студент
+#11115   1 active   0 killed     хирург
+#11116   1 active   0 killed     ассистентка
+#11117   0 active   0 killed     зомби эльфа
+#11118   1 active   0 killed     врач
+#11119   1 active   0 killed     невропатолог
+#11120   1 active   0 killed     уролог
+#11121   1 active   0 killed     хирург
+#11122   1 active   0 killed     медсестра
+#11123   1 active   0 killed     терапевт
+#11124   1 active   0 killed     мама
+#11125   1 active   0 killed     змееныш
+#11126   1 active   0 killed     детский стоматолог
+#11127   1 active   0 killed     мальчик
+#11128   1 active   0 killed     детский терапевт
+#11129   1 active   0 killed     логопед
+#11130   1 active   0 killed     детский окулист
+#11131   2 active   0 killed     пациент
+#11132   3 active   0 killed     крестьянин
+#11133   1 active   0 killed     больной
+#11134   1 active   0 killed     крепкий медбрат
+#11135   1 active   0 killed     убийца
+#11136   1 active   0 killed     шизофреник
+#11137   1 active   0 killed     хохотун
+#11138   1 active   0 killed     Билл
+#11139   1 active   0 killed     Шариков
+#11140   1 active   0 killed     Каплур
+#11141   1 active   0 killed     Здоровый ребенок
+#11200   4 active   0 killed     воин
+#11201   1 active   0 killed     огненный кузнец
+#11202   4 active   0 killed     стрелок
+#11203   1 active   0 killed     шпион
+#11204   1 active   0 killed     начальник караула
+#11205   0 active   0 killed     страж начальника
+#11206   1 active   0 killed     повар
+#11207   0 active   0 killed     крыса
+#11208   1 active   0 killed     еж
+#11209   1 active   0 killed     птица
+#11210   1 active   0 killed     извозчик
+#11211   1 active   0 killed     мечник
+#11212   1 active   0 killed     копейщик
+#11213   1 active   0 killed     Томтон
+#11214   6 active   0 killed     патрульный
+#11215   1 active   0 killed     главнокомандующий
+#11216   1 active   0 killed     охранник командира
+#11217   1 active   0 killed     рыцарь
+#11218   1 active   0 killed     Алхазред
+#11219   1 active   0 killed     вождь племени огня
+#11220   1 active   0 killed     вождь племени льда
+#11221   1 active   0 killed     вождь племени солнца
+#11222   1 active   0 killed     ледяной кузнец
+#11223   1 active   0 killed     солнечный кузнец
+#11224   1 active   0 killed     воин
+#11225   1 active   0 killed     банщик
+#11226   0 active   0 killed     эпидемия
+#11500   1 active   0 killed     молодой олень
+#11501   0 active   0 killed     белоснежный лебедь
+#11502   1 active   0 killed     дух
+#11503   2 active   0 killed     стражник
+#11504   1 active   0 killed     снежная королева
+#11505   1 active   0 killed     снеговик
+#11506   1 active   0 killed     кухарка
+#11507   1 active   0 killed     настоятель
+#11508   1 active   0 killed     звонарь
+#11509   5 active   0 killed     ледяной элементал
+#11510   4 active   0 killed     монах
+#11511   4 active   0 killed     монахиня
+#11512   4 active   0 killed     белочка
+#11513   3 active   0 killed     зайчик
+#11514   1 active   0 killed     зверь
+#11580   1 active   0 killed     адепт стихий
+#11581   1 active   0 killed     адепт посвящений
+#11582   1 active   0 killed     адепт храма стихий
+#11583   1 active   0 killed     прозрачный силуэт
+#11584   1 active   0 killed     верховный служитель
+#11585   1 active   0 killed     11585
+#11586   1 active   0 killed     11586
+#11587   1 active   0 killed     11587
+#11588   1 active   0 killed     11588
+#12000   4 active   0 killed     Старый шахтер
+#12001   2 active   0 killed     Лесной эльф
+#12002   2 active   0 killed     Воришка
+#12003   1 active   0 killed     Молодой дракончик
+#12004   0 active   0 killed     Каменная элементаль
+#12005   0 active   0 killed     Многочисленная банда гоблинов
+#12022   0 active   0 killed     маленький дракончик
+#12025   1 active   0 killed     Король гор
+#12026   1 active   0 killed     Морской дракон
+#12050   1 active   0 killed     знахарь
+#12051   1 active   0 killed     старшина
+#12052   1 active   0 killed     кузнец
+#12053   1 active   0 killed     воевода
+#12054   1 active   0 killed     ведьма
+#12055   1 active   0 killed     охотник
+#12056   1 active   0 killed     некромант
+#12057   0 active   0 killed     гидра
+#12058   1 active   0 killed     деревенский торговец
+#12059   1 active   0 killed     священник
+#12060   2 active   0 killed     дозорный
+#12061   8 active   0 killed     большой жук
+#12062   0 active   0 killed     водная крыса
+#12063   1 active   0 killed     болотный тролль
+#12064   1 active   0 killed     зомби старшины
+#12065   0 active   0 killed     послушник
+#12066   1 active   0 killed     опытный оружейник
+#12067  14 active   0 killed     деревенский житель
+#12068   1 active   0 killed     питекантроп
+#12069   1 active   0 killed     Каменный страж
+#12070   1 active   0 killed     сатир
+#12071   1 active   0 killed     печальная дриада
+#12072   0 active   0 killed     Шкодливый призрак
+#12073   0 active   0 killed     Старейшина вампиров
+#12200   2 active   0 killed     злобный суслик
+#12201   2 active   0 killed     здоровенный кабан
+#12202   1 active   0 killed     древний старец
+#12203   0 active   0 killed     молодой медведь
+#12204   1 active   0 killed     Огромный медведь
+#12205   4 active   0 killed     молодой эльф
+#12206   3 active   0 killed     Веселая сорока
+#12207   1 active   0 killed     Пьяный разбойник
+#12208   3 active   0 killed     добрый хоббит
+#12301   5 active   1 killed     одинокий путник 
+#12302   5 active   0 killed     дождевой червь
+#12303   6 active   0 killed     мох
+#12304   1 active   0 killed     рыба
+#12305   1 active   0 killed     болотный тролль
+#12306   3 active   0 killed     волк
+#12307   4 active   0 killed     волчонок
+#12308   1 active   0 killed     хобгоблин
+#12309   8 active   0 killed     отряд гномов
+#12310   4 active   0 killed     ватага орков
+#12311   3 active   0 killed     молодой орк
+#12312   2 active   0 killed     юный гном
+#12313   3 active   0 killed     коренастая гномиха
+#12314   4 active   0 killed     ремесленник
+#12315   1 active   0 killed     {&Cовет старейшин
+#12316   5 active   0 killed     охотник
+#12317   3 active   0 killed     орчиха
+#12318   2 active   0 killed     орочий колдун
+#12319   1 active   0 killed     вождь {/Ррыгша
+#12320   2 active   0 killed     {:орки-наездники
+#12321   2 active   0 killed     хирд гномов
+#12322   1 active   0 killed     одинокий горец
+#12323   1 active   0 killed     вампир Низарг
+#12324   8 active   0 killed     маленький паук
+#12325   6 active   0 killed     большой паук
+#12326   1 active   0 killed     огромный паук
+#12327  15 active   0 killed     фермерский рабочий
+#12328   6 active   0 killed     пыль
+#12329   2 active   0 killed     домовой
+#12330   1 active   0 killed     дочь
+#12331   1 active   0 killed     Фалкон
+#12332   1 active   0 killed     хозяин фермы
+#12333   5 active   0 killed     дракончик
+#12334   4 active   0 killed     белый дракончик
+#12335   2 active   0 killed     синий дракончик
+#12336   2 active   0 killed     золотой дракончик
+#12337   4 active   0 killed     черный дракончик
+#12338  10 active   0 killed     рыбина
+#12339   3 active   0 killed     нарвал
+#12340   1 active   0 killed     кракен
+#12341   5 active   0 killed     синяя дракониха
+#12342   6 active   0 killed     синий дракон
+#12343   3 active   0 killed     бурый медведь
+#12344   3 active   0 killed     личинка
+#12345   4 active   0 killed     летучий рогач
+#12346   5 active   0 killed     дикий эльф
+#12347   5 active   0 killed     золотая дракониха
+#12348   9 active   0 killed     золотой дракон
+#12349   5 active   0 killed     побирушка
+#12350   1 active   0 killed     многорукий бог
+#12351   0 active   0 killed     Умертвие
+#12352   2 active   0 killed     призрак дайкана
+#12353   2 active   0 killed     огромный скелет
+#12354   3 active   0 killed     бесплотный дух
+#12355   2 active   0 killed     тень прошлого
+#12356   4 active   0 killed     уклейка
+#12357   6 active   0 killed     черная дракониха
+#12358   6 active   0 killed     черный дракон
+#12359   1 active   0 killed     лекарь
+#12360   1 active   0 killed     смотритель заповедника
+#12361   1 active   0 killed     помощник смотрителя
+#12362   1 active   0 killed     феерический дракон
+#12363   1 active   0 killed     кузнец
+#12364   1 active   0 killed     животновод Берк
+#12365   1 active   0 killed     маленький дракончик
+#12366   1 active   0 killed     молодой дракон
+#12367   1 active   0 killed     {Yвзрослый дракон{x
+#12368   1 active   0 killed     боевой дракон
+#12369   6 active   0 killed     белая дракониха
+#12370   6 active   0 killed     белый дракон
+#12371   4 active   0 killed     варан
+#12372   3 active   0 killed     сороконожка
+#12373   5 active   0 killed     пустынный орел
+#12600   1 active   0 killed     Криотис
+#12601   1 active   0 killed     Шепелявый зазывала
+#12602   3 active   0 killed     страж улицы
+#12603   1 active   0 killed     Император
+#12604   1 active   0 killed     {&Марк {&Антоний
+#12605   1 active   0 killed     Квадрантария
+#12606   0 active   0 killed     маленький кабан
+#12607   0 active   0 killed     злой пес
+#12608   0 active   0 killed     большой боров
+#12609   0 active   0 killed     громадный волкодав
+#12610   0 active   0 killed     горный медведь
+#12611   0 active   0 killed     Лев
+#12612   0 active   0 killed     гигант Уродец
+#12613   1 active   0 killed     центурион
+#12614   0 active   0 killed     санитар Гениус
+#12615   3 active   0 killed     Огромный волк
+#12616   1 active   0 killed     Тыгыдымский конь
+#12617   1 active   0 killed     Паломник
+#12618   1 active   0 killed     оратор
+#12619   0 active   0 killed     Сатурн
+#12620   2 active   0 killed     Слипоморий
+#12621   1 active   0 killed     хоббит-некромант
+#12622   1 active   0 killed     {gперсиковое дерево{x
+#12623   1 active   0 killed     {gоливковый {gкуст{x
+#12624   1 active   0 killed     гусыня
+#12625   2 active   0 killed     Старый друид
+#12626   1 active   0 killed     лапчатый гусь
+#12627   8 active   0 killed     маленький гусенок
+#12628   1 active   0 killed     тьма
+#12629  18 active   0 killed     сенатор
+#12630  22 active   0 killed     Зритель
+#12631   1 active   0 killed     Парильщик
+#12900   6 active   0 killed     берсеркер
+#12901   6 active   0 killed     бомбардир
+#12902   4 active   0 killed     волшебница
+#12903   4 active   0 killed     {&орочий {&патруль
+#12904   2 active   0 killed     страж
+#12905   1 active   0 killed     командир орков
+#12906   4 active   0 killed     эльф
+#12907   4 active   0 killed     рыцарь
+#12908   6 active   0 killed     земляной голем
+#12909   1 active   0 killed     гном
+#12910   1 active   0 killed     страж
+#12911   2 active   0 killed     охранник {/Совета
+#12912   1 active   0 killed     Санри
+#12913   1 active   0 killed     Энтил
+#12914   1 active   0 killed     Ченкан
+#12915   1 active   0 killed     часовой
+#13000   1 active   0 killed     Король Мидвар
+#13001   1 active   0 killed     Королева Танжа
+#13002   1 active   0 killed     Черная тень
+#13003   1 active   0 killed     Бард Эльгил
+#13004   1 active   0 killed     Князь Некрад
+#13005   1 active   0 killed     Княгиня Мэнил
+#13006   1 active   0 killed     Палач
+#13007   0 active   0 killed     Лысый мудрец
+#13009   2 active   0 killed     Благородная воительница
+#13011   2 active   0 killed     Воин Латник
+#13018   2 active   0 killed     Стражник
+#13019   2 active   0 killed     стражник
+#13022   0 active   0 killed     Ворюга
+#13023  11 active   0 killed     Пьяный лешак
+#13024   4 active   0 killed     Маленький лешак
+#13025  10 active   0 killed     Лешак
+#13026   7 active   0 killed     Большой лешак
+#13027   1 active   0 killed     Баргиб
+#13028   1 active   0 killed     угольшик
+#13029   4 active   0 killed     Выхухоль
+#13030   1 active   0 killed     Трясогузка
+#13031   1 active   0 killed     Трактирщик
+#13032   1 active   0 killed     Шаман
+#13033   4 active   0 killed     Комар
+#13034   2 active   0 killed     Лягушка
+#13035   3 active   0 killed     Болотная жаба
+#13036   1 active   0 killed     Пикси
+#13037   0 active   0 killed     Дух утреннего ветра
+#13038   0 active   0 killed     Дух ночи
+#13039   1 active   0 killed     Нимфа
+#13040   1 active   0 killed     Дриада
+#13041   1 active   0 killed     Русалка
+#13042  12 active   0 killed     Водяник
+#13043   1 active   0 killed     Кертас
+#13044   1 active   0 killed     Кикимора
+#13045   1 active   0 killed     Лысый мудрец
+#13046   0 active   0 killed     Лысый мудрец
+#13047   0 active   0 killed     Лысый мудрец
+#13048   0 active   0 killed     Бард Эльгил
+#13049   0 active   0 killed     Лысый мудрец
+#13200   1 active   0 killed     Швард
+#13201   1 active   0 killed     Гоги
+#13202   1 active   0 killed     рулевой
+#13203   1 active   0 killed     боцман
+#13204   1 active   0 killed     наблюдатель
+#13205   2 active   0 killed     пират
+#13206   7 active   0 killed     пьяный пират
+#13207   1 active   0 killed     кок
+#13208   1 active   0 killed     пьяный
+#13209   1 active   0 killed     осьминог
+#13210   1 active   0 killed     капитан
+#13211   2 active   0 killed     юнга
+#13300   1 active   0 killed     Молодой друид
+#13301   1 active   0 killed     старый волк
+#13302   1 active   0 killed     Неудачливый друид
+#13303   1 active   0 killed     Ожившее дерево
+#13304   6 active   0 killed     древесная змея
+#13305   1 active   0 killed     Одноногий гном
+#13306   1 active   0 killed     огненный дракон
+#13307   1 active   0 killed     Молодая эльфийка
+#13308   2 active   0 killed     певчая птичка
+#13309   1 active   0 killed     живое дерево
+#13310   1 active   0 killed     волчонок
+#13400   1 active   0 killed     страж смерти
+#13401   0 active   0 killed     помощник вампира
+#13402   1 active   0 killed     ночной кошмар
+#13403   4 active   0 killed     Извращенное существо
+#13404   1 active   0 killed     Студенистое существо
+#13405   0 active   0 killed     гигантский автоматон
+#13406   1 active   0 killed     страж бессмертия
+#13407   2 active   0 killed     Черный паук
+#13408   0 active   0 killed     вампир
+#13409   1 active   0 killed     автоматон
+#13410   1 active   0 killed     Баньши
+#13411   1 active   0 killed     Темный охотник
+#13412   2 active   0 killed     Кровавый голем
+#13413   1 active   0 killed     черный палач
+#13414   1 active   0 killed     бессмертный дракон
+#13415   1 active   0 killed     Чикуала
+#13416   1 active   0 killed     Призванный лич
+#13417   2 active   0 killed     вампир
+#13418   1 active   0 killed     помощник вампира
+#13419   1 active   0 killed     священная ворона
+#13420   1 active   0 killed     Кашалот
+#13421   0 active   0 killed     летучая мышь
+#13422   1 active   0 killed     {/Пресноводный спрут
+#13423   1 active   0 killed     Водяной змей
+#13424   1 active   0 killed     Мертвый альбатрос
+#13500   1 active   0 killed     старый жрец
+#13501   1 active   0 killed     белка
+#13502   5 active   0 killed     усталый паломник
+#13503   1 active   0 killed     испуганная девочка
+#13504   1 active   0 killed     тяговая лошадь
+#13505   2 active   0 killed     охрана обоза
+#13506   1 active   0 killed     толстый хоббит
+#13507   1 active   0 killed     летописец
+#13508   1 active   0 killed     худой хоббит
+#13509   2 active   0 killed     каратель
+#13510   1 active   0 killed     дрожащий змей
+#13511   1 active   0 killed     хитрый жрец
+#13512   1 active   0 killed     глава карателей
+#13513   1 active   0 killed     пасечник
+#13514   1 active   0 killed     повариха
+#13515   1 active   0 killed     гном Строитель
+#13516   1 active   0 killed     верховный жрец
+#13517   1 active   0 killed     зажиточный жрец
+#13518   2 active   0 killed     бедный жрец
+#13519   2 active   0 killed     безумный фанатик
+#13520   5 active   0 killed     послушница
+#13521   8 active   0 killed     юный отрок
+#13522   1 active   0 killed     паломница
+#13651   2 active   0 killed     Полевая мышка
+#13652   1 active   0 killed     Маленькая птичка
+#13653   1 active   0 killed     Жена рыбака
+#13654   2 active   0 killed     Камышовый кот
+#13655  14 active   0 killed     Небольшой комар
+#13656   1 active   0 killed     Полевой дух
+#13657   2 active   0 killed     Зеленый кузнечик
+#13658   1 active   0 killed     Полосатый котенок
+#13659   4 active   0 killed     Мелкий комар
+#13660   1 active   0 killed     Выдра
+#13661   1 active   0 killed     Детеныш выдры
+#13662   9 active   0 killed     Белая чайка
+#13663   0 active   0 killed     Большой сом
+#13664   0 active   0 killed     Нрхом
+#13665   1 active   0 killed     Рыбак
+#13669   1 active   0 killed     Нрхом
+#13670   1 active   0 killed     Нрхом
+#13671   1 active   0 killed     Нрхом
+#13672   1 active   0 killed     Молодой рыбак
+#13673   1 active   0 killed     Хитрый покупатель
+#13674   1 active   0 killed     Опытный рыбак
+#13675   1 active   0 killed     Покупательница
+#13676   1 active   0 killed     Маленький отрок
+#13851  10 active   0 killed     гоблин
+#13852   1 active   0 killed     гном
+#13853   1 active   0 killed     хозяйка
+#13854   1 active   0 killed     продавец
+#13855   1 active   0 killed     глава данрора
+#13856   1 active   0 killed     лекарь
+#13857   4 active   0 killed     светляк
+#13858   1 active   0 killed     эльф
+#13859   4 active   0 killed     курица
+#13860   1 active   0 killed     гоблин
+#13861   1 active   0 killed     гном
+#13862   1 active   0 killed     друид
+#13863   1 active   0 killed     гном
+#13864   1 active   0 killed     мэр
+#13951   6 active   0 killed     притаившийся егерь
+#13952   1 active   0 killed     верховный жрец
+#13953   1 active   0 killed     страж лиммасу
+#13954   1 active   0 killed     князь Нимлар
+#13955   5 active   0 killed     плащевик
+#13956   4 active   0 killed     прислужник лиммасу
+#13957   1 active   0 killed     жрец лиммасу
+#13958   1 active   0 killed     кирри
+#13959   1 active   0 killed     огненная виверна
+#13960   1 active   0 killed     перепуганный заяц
+#13961   4 active   0 killed     красная гусеница
+#13962   5 active   0 killed     божья коровка
+#13963   1 active   0 killed     Слуга вампира
+#13964   1 active   0 killed     верховный вампир
+#13965   1 active   0 killed     огромный вампир
+#13966   1 active   0 killed     крестьянин
+#13967   1 active   0 killed     дровосек
+#13968   3 active   0 killed     окровавленный орк
+#13969   6 active   0 killed     благородный эльф
+#13970   1 active   0 killed     леший
+#13971   1 active   0 killed     седой волшебник
+#13972   4 active   0 killed     мощный гигант
+#13973   4 active   0 killed     эльфийский воин
+#13974   4 active   0 killed     эльф
+#13975   3 active   0 killed     сильный орк
+#13976   2 active   0 killed     эльфийский лучник
+#13977   2 active   0 killed     эльфийский воин
+#13978   2 active   0 killed     эльфийский лучник
+#13979   2 active   0 killed     эльфийский лучник
+#13980   2 active   0 killed     эльфийский воин
+#13981   1 active   0 killed     эльфийский охранник
+#13982   2 active   0 killed     толпа орков
+#13983   4 active   0 killed     тролль
+#13984   1 active   0 killed     телохранитель
+#13985   1 active   0 killed     назгул
+#13986   1 active   0 killed     Торриан
+#13987   1 active   0 killed     страж двери
+#13988   1 active   0 killed     торговец счастьем
+#13989   1 active   0 killed     охотник
+#13990   0 active   0 killed     седой волшебник
+#13991   0 active   0 killed     седой волшебник
+#13992   1 active   0 killed     Хозяин таверны
+#13993   0 active   0 killed     Официант Дрикс
+#13994   1 active   0 killed     одинокий рейнджер
+#13995   0 active   0 killed     Официант Брикс 
+#14101   1 active   0 killed     Каплан
+#14102   1 active   0 killed     Торговец Сатиран
+#14103   1 active   0 killed     Пыльная комета
+#14104   1 active   0 killed     Крылатый кентавр
+#14105   1 active   0 killed     Сизый туман
+#14106   1 active   0 killed     постовой маг
+#14107   7 active   0 killed     красная комета
+#14108   7 active   0 killed     желтая комета
+#14109   7 active   0 killed     Белая комета
+#14110   5 active   0 killed     Неопытный маг
+#14111   3 active   0 killed     опытный маг
+#14112   3 active   0 killed     Астральная пантера
+#14113   3 active   0 killed     Астральный олень
+#14114   1 active   0 killed     астероид
+#14115   1 active   0 killed     туманность
+#15000   4 active   0 killed     страж ворот
+#15001   1 active   0 killed     гидра
+#15002   1 active   0 killed     принц Ранвар
+#15003   1 active   0 killed     ужасная мумия
+#15004   1 active   0 killed     трактирщик
+#15005   5 active   0 killed     ледяной страж
+#15006   0 active   0 killed     ледяной рыцарь
+#15007   1 active   0 killed     магистр
+#15008   1 active   0 killed     повар
+#15009   1 active   0 killed     военный министр
+#15010   4 active   0 killed     призрак
+#15011   1 active   0 killed     огнедышащий дракон
+#15012   1 active   0 killed     библиотекарь
+#15013   1 active   0 killed     алхимик
+#15014   4 active   0 killed     слуга
+#15015   1 active   0 killed     ведьма
+#15016   1 active   0 killed     хранитель подземелья
+#15017   1 active   0 killed     начальник стражи
+#15018   3 active   0 killed     тюремный охранник
+#15019   1 active   0 killed     огромный паук
+#15020   1 active   0 killed     дух боброглаза
+#15021   1 active   0 killed     принцесса
+#15022   1 active   0 killed     палач
+#15023   6 active   0 killed     городской житель
+#15024   1 active   0 killed     безумный астроном
+#15025   1 active   0 killed     шаман
+#15026   1 active   0 killed     хранитель снов
+#15027   1 active   0 killed     крылатый демон
+#15028   0 active   0 killed     мумия
+#15029   0 active   0 killed     голем
+#15030   1 active   0 killed     оружейник
+#15031   1 active   0 killed     дочь хранителя
+#15032   1 active   0 killed     сонный слуга
+#15033   4 active   0 killed     страж
+#15050   0 active   0 killed     хасаненок
+#15100   1 active   0 killed     Жук-навозник
+#15101   1 active   0 killed     адский судья
+#15102   0 active   0 killed     Мудак
+#15201   1 active   0 killed     страж ворот
+#15202   8 active   0 killed     мирный заключенный
+#15203   4 active   0 killed     надзиратель
+#15204   1 active   0 killed     дворник
+#15205   2 active   0 killed     дозорный
+#15206   5 active   0 killed     тюремный охранник
+#15207   1 active   0 killed     начальник тюрьмы
+#15208   1 active   0 killed     секретарша
+#15209   4 active   0 killed     пахан
+#15210   4 active   0 killed     воришка
+#15211   5 active   0 killed     небритый бандит
+#15212   1 active   0 killed     начальник охраны
+#15213   1 active   0 killed     работник
+#15214   1 active   0 killed     повар
+#15215   1 active   0 killed     заключенный
+#15216   1 active   0 killed     сатана
+#15217   2 active   0 killed     маньяк
+#15218   1 active   0 killed     бандюк
+#15301   1 active   0 killed     дежурный
+#15302   1 active   0 killed     гардеробщик
+#15303   8 active   0 killed     прогульщик
+#15304   1 active   0 killed     управляющий
+#15305   1 active   0 killed     старый ключник
+#15306   1 active   0 killed     хулиган
+#15307   1 active   0 killed     врач
+#15308   1 active   0 killed     практикантка
+#15309   1 active   0 killed     секретарша
+#15310   1 active   0 killed     продавщица
+#15311   1 active   0 killed     тренер
+#15312   4 active   0 killed     воспитательница
+#15313   4 active   0 killed     первоклассник
+#15314   2 active   0 killed     учительница
+#15315   1 active   0 killed     учительница
+#15316   1 active   0 killed     первоклассник
+#15317   4 active   0 killed     первоклассник
+#15318   2 active   0 killed     мальчик
+#15319   1 active   0 killed     девчонка
+#15320   6 active   0 killed     ученик
+#15321   1 active   0 killed     биологичка
+#15322  16 active   0 killed     отличник
+#15323  14 active   0 killed     двоечник
+#15324   1 active   0 killed     физик
+#15325   1 active   0 killed     учительница литературы
+#15326   1 active   0 killed     Учительница алхимии
+#15327   1 active   0 killed     географ
+#15328   1 active   0 killed     историк
+#15329   1 active   0 killed     музыкантша
+#15330   1 active   0 killed     растерянный ученик
+#15331   1 active   0 killed     библиотекарь
+#15332   1 active   0 killed     скелет
+#15333   1 active   0 killed     директор
+#15334   1 active   0 killed     математичка
+#15335   3 active   0 killed     девочка
+#15336   3 active   0 killed     пляшущий мальчик
+#15337   5 active   0 killed     крепыш
+#15338   4 active   0 killed     доходяга
+#15339   1 active   0 killed     истлевший труп
+#15401   1 active   0 killed     убийца
+#15402   4 active   0 killed     пеший ратник
+#15403   1 active   0 killed     полк ратников
+#15404   2 active   0 killed     витязь
+#15405   1 active   0 killed     подлый дезертир
+#15406   1 active   0 killed     воевода Буслай
+#15407   1 active   0 killed     Фархад
+#15408   1 active   0 killed     князь Ротголд 
+#15409   1 active   0 killed     Доран
+#15410   2 active   0 killed     ордынский воин
+#15411   1 active   0 killed     ордынский всадник
+#15412   1 active   0 killed     гнедой конь
+#15413   1 active   0 killed     Магдуг
+#15414   1 active   0 killed     хан Курукаш
+#15415   1 active   0 killed     фидаин
+#15416   1 active   0 killed     князь Ротголд
+#15417   1 active   0 killed     Полк рыцарей
+#15418   1 active   0 killed     {&Кавалерийский {&полк
+#15419   0 active   0 killed     наложница
+#15420   1 active   0 killed     злой комар
+#15421   1 active   0 killed     скользкая лягушка
+#15422   2 active   0 killed     Ордынский разведчик
+#15423   2 active   0 killed     Яроборец
+#15500   1 active   0 killed     страж ворот
+#15501   9 active   0 killed     червяк
+#15502   1 active   0 killed     сержант Хэнк
+#15503   1 active   0 killed     сержант {/Хилли
+#15504   1 active   0 killed     ветеран
+#15505   1 active   0 killed     Дролин
+#15506   1 active   0 killed     лекарь
+#15507   1 active   0 killed     капрал Краггс
+#15508   1 active   0 killed     Разнак
+#15509   1 active   0 killed     Тофур
+#15510   1 active   0 killed     слизень
+#15511   9 active   0 killed     лесной кот
+#15512   9 active   0 killed     полевая мышь
+#15513   9 active   0 killed     стервятник
+#15514   1 active   0 killed     плотоядный ящер
+#15515   1 active   0 killed     капитан Тибор
+#15516   1 active   0 killed     алхимик
+#15517   1 active   0 killed     Айранод
+#15518   1 active   0 killed     бурундук
+#15519   1 active   0 killed     белка
+#15520   1 active   0 killed     койот
+#15521   1 active   0 killed     шакал
+#15522   1 active   0 killed     сокол
+#15523   1 active   0 killed     командир эльфов
+#15524   1 active   0 killed     командир орков
+#15525   1 active   0 killed     командир людей
+#15526  12 active   0 killed     орк
+#15527   6 active   0 killed     минотавр
+#15528   6 active   0 killed     тролль
+#15529   6 active   0 killed     хоббит
+#15530   6 active   0 killed     эльфийский воин
+#15531   6 active   0 killed     единорог
+#15532   9 active   0 killed     охотник
+#15533   6 active   0 killed     кентавр
+#15534   3 active   0 killed     гигант
+#15535   0 active   0 killed     демон ужаса
+#15536  15 active   0 killed     воинственный гном
+#15537  15 active   0 killed     пронырливый змей
+#15538  15 active   0 killed     голодный вампир
+#15539   1 active   0 killed     меняла
+#15540   1 active   0 killed     Банкир
+#15541  12 active   0 killed     неприкаянный зомби
+#15542   0 active   0 killed     вёрткий тиггуан
+#15543  12 active   0 killed     вёрткий тиггуан 
+#17001  17 active   0 killed     заяц
+#17002   9 active   0 killed     лиса
+#17003   9 active   0 killed     хитрый лисовин
+#17004   6 active   0 killed     большой глухарь
+#17005   5 active   0 killed     тетерев
+#17006   9 active   0 killed     лесной ястреб
+#17007   7 active   0 killed     большой волк
+#17008   6 active   0 killed     громадный медведь
+#17009   3 active   0 killed     забавный медвежонок
+#17010   5 active   0 killed     росомаха
+#17011   4 active   0 killed     деловитый барсук
+#17012   3 active   0 killed     пятнистая рысь
+#17013   6 active   0 killed     ласка
+#17014   8 active   0 killed     лесной олень
+#17015   3 active   0 killed     маленький олененок
+#17016   3 active   0 killed     косуля
+#17017   3 active   0 killed     большой лось
+#17018   3 active   0 killed     {:кабан-секач
+#17019   2 active   0 killed     полосатый поросенок
+#17021  10 active   0 killed     ворон
+#17022   5 active   0 killed     вонючий хорек
+#17023   2 active   0 killed     лось
+#17024  10 active   0 killed     чайка
+#17025   4 active   0 killed     речная чайка
+#17026   4 active   0 killed     лосось
+#17027   7 active   0 killed     сазан
+#17028   3 active   0 killed     цапля
+#17300   0 active   0 killed     рыцарь охраны
+#17301   6 active   0 killed     рыцарь познания
+#17302   7 active   0 killed     оруженосец
+#17303   7 active   0 killed     рыцарь совершенства
+#17304   1 active   0 killed     Король Артур
+#17305   1 active   0 killed     сэр Бенлад
+#17306   1 active   0 killed     сэр Галахад
+#17307   1 active   0 killed     черный рыцарь
+#17308   1 active   0 killed     сэр Гарэт
+#17309   1 active   0 killed     Сэр Гарлон
+#17310   1 active   0 killed     сэр Гавэйн
+#17311   1 active   0 killed     сэр Ламорак
+#17312   1 active   0 killed     сэр Ланселот
+#17313   1 active   0 killed     Мерлин
+#17314   1 active   0 killed     фея Моргана
+#17315   1 active   0 killed     король Пелинор
+#17316   1 active   0 killed     легендарное чудовище
+#17317   1 active   0 killed     сэр Тристрам
+#17318   1 active   0 killed     Мордред
+#17319   5 active   0 killed     рыцарь познания
+#17320   3 active   0 killed     заколдованный рыцарь
+#17321   5 active   0 killed     дама в ожидании
+#17322   1 active   0 killed     Королева Гвинивера
+#17323   7 active   0 killed     завороженный оруженосец
+#17324   1 active   0 killed     Барант Лес-Апрес
+#17325   1 active   0 killed     Дагонет
+#17326   1 active   0 killed     Таркуин
+#17327   1 active   0 killed     Перимон
+#17328   1 active   0 killed     девица в беде
+#17329   1 active   0 killed     Дворянин
+#17330   4 active   0 killed     невольник
+#17331   2 active   0 killed     Торговец
+#17332   2 active   0 killed     Монах
+#17333   1 active   0 killed     Трубадур
+#17334   1 active   0 killed     Бард
+#17335   1 active   0 killed     Клоун
+#17336   6 active   0 killed     Слуга
+#17337   1 active   0 killed     демон
+#17338   1 active   0 killed     Железный Джек
+#17339   1 active   0 killed     стрем
+#17340   1 active   0 killed     Беговая лошадь
+#17341   1 active   0 killed     боевая лошадь
+#17342   1 active   0 killed     лошадь
+#17343   1 active   0 killed     саксонский налетчик
+#17344   1 active   0 killed     Рабыня
+#17345   1 active   0 killed     Главарь
+#17346   1 active   0 killed     охрана северных границ
+#17347   1 active   0 killed     командир северной заставы
+#17348   1 active   0 killed     Шотландец
+#17349   1 active   0 killed     Главарь шотландцев
+#17350   4 active   0 killed     Работающий крестьянин
+#17351   1 active   0 killed     Энгл
+#17352   1 active   0 killed     Главарь {/Энгла
+#17353   1 active   0 killed     отряд кавалерии
+#17354   1 active   0 killed     отряд пехоты
+#17355   1 active   0 killed     отряд пиктов
+#17356   1 active   0 killed     Лидер пиктов
+#17357   1 active   0 killed     Персант Индии
+#17358   1 active   0 killed     Додинас
+#17359   1 active   0 killed     Лайонел
+#17360   1 active   0 killed     Гахерис
+#17361   1 active   0 killed     командир южной заставы
+#17362   1 active   0 killed     Охрана южных границ
+#17363   1 active   0 killed     Раба
+#17364   2 active   0 killed     отвергнутый рыцарь
+#17389   0 active   0 killed     черный рыцарь
+#17501   5 active   0 killed     Молодой гвардеец
+#17502   1 active   0 killed     дворцовый палач
+#17503   3 active   0 killed     придворная служанка
+#17504   1 active   0 killed     старый гвардеец
+#17505   3 active   0 killed     придворный слуга
+#17506   1 active   0 killed     Охранник ворот
+#17507   1 active   0 killed     садовник
+#17508   3 active   0 killed     городской охранник
+#17509   1 active   0 killed     комендант
+#17510   2 active   0 killed     Охотничий пес
+#17511   1 active   0 killed     Старообрядец
+#17512   3 active   0 killed     белый лебедь
+#17513   3 active   0 killed     черный лебедь
+#17514   1 active   0 killed     кузнец
+#17515   1 active   0 killed     кузнец
+#17516   1 active   0 killed     главный механик
+#17517   1 active   0 killed     сборщик налогов
+#17518   1 active   0 killed     начальник стражи
+#17519   1 active   0 killed     аптекарь
+#17520   1 active   0 killed     шеф-повар
+#17521   1 active   0 killed     хозяин шашлычной
+#17522   1 active   0 killed     конюх
+#17523   1 active   0 killed     дроу-ювелир
+#17524   1 active   0 killed     орк-бармен
+#17525   1 active   0 killed     столяр
+#17526   1 active   0 killed     тролль-продавец
+#17527   1 active   0 killed     волшебник
+#17528  15 active   0 killed     житель {/Нелласа
+#17529  15 active   0 killed     жительница {/Нелласа
+#17530   1 active   0 killed     хозяин гостиницы
+#17531   1 active   0 killed     эльфийский посол
+#17532   1 active   0 killed     караванщик Омар
+#17533   1 active   0 killed     странный путешественник
+#17534   1 active   0 killed     главный советник
+#17535   1 active   0 killed     дворцовый библиотекарь
+#17536   1 active   0 killed     астроном
+#17537   0 active   0 killed     звездный лев
+#17538   2 active   0 killed     дозорный
+#17539   2 active   0 killed     тюремщик
+#17540   8 active   0 killed     неллаский заключенный
+#17541   1 active   0 killed     кладбищенский надсмотрщик
+#17542   1 active   0 killed     бестелесный дух
+#17543   1 active   0 killed     сыщик
+#17544   1 active   0 killed     неллаский охотник
+#17545   1 active   0 killed     неллаская ведьма
+#17546   1 active   0 killed     правитель {/Нелласа
+#17547   1 active   0 killed     телохранитель
+#17548   1 active   0 killed     могучий жеребец
+#17549   1 active   0 killed     смирный мерин
+#17550   1 active   0 killed     небольшая кобылка
+#17900   1 active   0 killed     медведь
+#17901   2 active   0 killed     ласточка
+#17902   2 active   0 killed     кролик
+#17903   2 active   0 killed     сорока
+#17904   2 active   0 killed     дерево добра
+#17905   2 active   0 killed     дерево зла
+#17906   1 active   0 killed     жаба
+#17907   1 active   0 killed     егерь
+#17908   1 active   0 killed     волчонок
+#17909   1 active   0 killed     помощник егеря
+#17910   1 active   0 killed     водяное чудовище
+#17911   1 active   0 killed     тролль
+#17912   1 active   0 killed     Белый кролик
+#17941   1 active   0 killed     Адепт
+#17942   4 active   0 killed     одержимый демонами
+#17943   1 active   0 killed     адепт
+#17944   4 active   0 killed     грязный человек
+#17945   0 active   0 killed     оборотень
+#17946   1 active   0 killed     адепт
+#17947   4 active   0 killed     обычный человек
+#17948   0 active   0 killed     вампир
+#17949   1 active   0 killed     Адепт
+#17950   1 active   0 killed     дух испытания
+#17951   4 active   0 killed     странный человек
+#17952   0 active   0 killed     паук
+#17953   1 active   0 killed     Адепт
+#17954   1 active   0 killed     соловей
+#17955   1 active   0 killed     кенар
+#17956   1 active   0 killed     Королёк
+#17957   1 active   0 killed     жаворонок
+#17958   1 active   0 killed     Посвященный
+#17959   4 active   0 killed     боевой маг
+#17960   1 active   0 killed     верховный служитель
+#17961   1 active   0 killed     ничтo
+#17962   0 active   0 killed     Сакер
+#18000   1 active   0 killed     Слепой орк
+#18001   2 active   0 killed     Страж ворот
+#18002   5 active   0 killed     Городской стражник
+#18003   1 active   0 killed     дозорный эльф
+#18004   1 active   0 killed     Продавец
+#18005   1 active   0 killed     Продавец
+#18006   1 active   0 killed     Пони
+#18007   1 active   0 killed     Тупой мул
+#18008   1 active   0 killed     Бармен
+#18009   1 active   0 killed     Пьяный орк
+#18010   1 active   0 killed     Вышибала
+#18011   1 active   0 killed     Королевский страж
+#18020   1 active   0 killed     Верховный маг
+#18044   1 active   0 killed     король Норберт
+#18061   1 active   0 killed     Отряд орков
+#18073   1 active   0 killed     Отряд орков
+#18074   1 active   0 killed     Лидер орков
+#18076   1 active   0 killed     Начинающий маг
+#18081   1 active   0 killed     Начинающий маг
+#18088   0 active   0 killed     уничтожитель
+#18089   1 active   0 killed     Юная волшебница
+#18090   1 active   0 killed     Вор
+#18091   1 active   0 killed     Маг
+#18092   1 active   0 killed     Маг
+#18201   1 active   0 killed     хилый гоблин
+#18202   2 active   0 killed     гоблин
+#18203   2 active   0 killed     шурин гоблина
+#18204   2 active   0 killed     мамаша
+#18205   4 active   0 killed     гоблин
+#18206   4 active   0 killed     эльф
+#18207   1 active   0 killed     стражник нарна
+#18208   1 active   0 killed     стражник нарна
+#18209   1 active   0 killed     старый ант
+#18400   4 active   0 killed     крупный скат
+#18401   5 active   0 killed     морская черепаха
+#18402   5 active   0 killed     мурена
+#18403   5 active   0 killed     морской конек
+#18404   1 active   0 killed     мидия
+#18405   1 active   0 killed     кулан
+#18406  10 active   0 killed     суслик
+#18407  10 active   0 killed     степная гадюка
+#18408   7 active   0 killed     сайгак
+#18409   5 active   0 killed     степной шакал
+#18410   5 active   0 killed     трепетная лань
+#18411   4 active   0 killed     горный лев
+#18412   1 active   0 killed     страж края мира
+#18413   1 active   0 killed     окаменевший гигант
+#18500   1 active   0 killed     бармен
+#18501   4 active   0 killed     помощник мастера
+#18502   4 active   0 killed     помощник мастера
+#18503   3 active   0 killed     член семьи Джакомбо
+#18504   3 active   0 killed     член семьи Тиманчи
+#18505   1 active   0 killed     Мастер семьи Тиманчи
+#18506   1 active   0 killed     Мастер семьи Джакомбо
+#18507   1 active   0 killed     стражник ворот
+#18508   1 active   0 killed     Старейшина {/Джакомбо
+#18509   1 active   0 killed     оружейник
+#18510   1 active   0 killed     библиотекарь
+#18511   1 active   0 killed     Секретарь семьи Джакомбо
+#18512   1 active   0 killed     старый дракон
+#18513   1 active   0 killed     Мастер Ли
+#18514   0 active   0 killed     крестьянин
+#18515   1 active   0 killed     Чародей Альбазар
+#18516   1 active   0 killed     {$Джуно
+#18517   1 active   0 killed     Гражданин Смити
+#18518   1 active   0 killed     щеголь
+#18519   3 active   0 killed     неопытный вор
+#18520   2 active   0 killed     профессиональный вор
+#18521   0 active   0 killed     Гитарный мастер
+#18600   3 active   0 killed     Визжащий орк
+#18601   1 active   0 killed     Огромная Хуорна
+#18602   1 active   0 killed     Красивая русалка
+#18603   1 active   0 killed     Старый вампир
+#18604   1 active   0 killed     Злой водяной
+#18605   1 active   0 killed     Капитон
+#18606   1 active   0 killed     Леший 
+#18607   1 active   0 killed     Эльфийский страж
+#18608   1 active   0 killed     Старейшина деревни
+#18609   1 active   0 killed     Несчастная вдова
+#18610   1 active   0 killed     Иоган 
+#18611   1 active   0 killed     Королева пауков 
+#18612   5 active   0 killed     Здоровенный паук 
+#18613   1 active   0 killed     Великий орел
+#18614   1 active   0 killed     Наяда
+#18615   1 active   0 killed     Тролль охранник
+#18616   1 active   0 killed     Азог 
+#18617   1 active   0 killed     Охранник 
+#18618   1 active   0 killed     Гоблин 
+#18619   1 active   0 killed     Призрак хозяина
+#18620   3 active   0 killed     Гоблин
+#18621   1 active   0 killed     Пещерный тролль 
+#18622   6 active   0 killed     Житель деревни
+#18623   5 active   0 killed     Жительница деревни
+#18624   1 active   0 killed     Эльфийская стражница
+#18625   1 active   0 killed     Капитан стражи
+#18626   4 active   0 killed     Гоблин 
+#18627   1 active   0 killed     Вожак стаи
+#18628   4 active   0 killed     Варг
+#18629   1 active   0 killed     Фангорн
+#18630   1 active   0 killed     Долинный страж
+#18631   1 active   0 killed     Беорн
+#18632   1 active   0 killed     Капитан стражи
+#18633   1 active   0 killed     охранник
+#18634   0 active   0 killed     Эльфийский страж
+#18635   0 active   0 killed     Шаман Сихарт
+#18636   1 active   0 killed     Ассассин
+#18750   4 active   0 killed     маленький паучок
+#18751  22 active   0 killed     крыса
+#18752   7 active   0 killed     огненный жук
+#18753   1 active   0 killed     одинокий исследователь
+#18754   0 active   0 killed     cкелет павшего воина
+#18755  25 active   0 killed     дух раба
+#18756  25 active   0 killed     дух воина
+#18757   1 active   0 killed     грозный некромант
+#18758   0 active   0 killed     алмазный голем
+#18759   0 active   0 killed     тень
+#18760   2 active   0 killed     грязный тролль
+#18761   1 active   0 killed     зомби лорда Гайлонтона
+#18762   1 active   0 killed     черный скелет
+#18763   1 active   0 killed     зомби ульвера
+#18764   1 active   0 killed     зомби хайвера
+#18765   1 active   0 killed     черный археолог
+#18766  10 active   0 killed     маленький червячок
+#18767  10 active   0 killed     проклятый рейнджер
+#18768   1 active   0 killed     скелет жреца
+#18769   1 active   0 killed     темный призрак
+#18900  16 active   0 killed     песчаный червь
+#18901   2 active   0 killed     горный сайгак
+#18902   7 active   0 killed     пустынный орел
+#18903   1 active   0 killed     песочный голем
+#18904   2 active   0 killed     страж ворот
+#18905   3 active   0 killed     высокомерный житель
+#18906   4 active   0 killed     прекрасная дама
+#18907   4 active   0 killed     шкодливый подросток
+#18908   1 active   0 killed     торговец шашлыками
+#18909   1 active   0 killed     Мирлайна
+#18910   1 active   0 killed     Гердан
+#18911   1 active   0 killed     Дырмелла
+#18912   1 active   0 killed     Гончарщик
+#18913   1 active   0 killed     торговец безделушками
+#18914   1 active   0 killed     торговец цветами
+#18915   1 active   0 killed     торговец ювелир
+#18916   5 active   0 killed     наглый покупатель
+#18917   5 active   0 killed     сварливая дама
+#18918   4 active   0 killed     вор
+#18919   4 active   0 killed     гном
+#18920   3 active   0 killed     гигант
+#18921   1 active   0 killed     молодая девушка
+#18922   8 active   0 killed     покупатель
+#18923   1 active   0 killed     Министр
+#18924   1 active   0 killed     Министр
+#18925   1 active   0 killed     Министр
+#18926   1 active   0 killed     Министр
+#18927   1 active   0 killed     Министр
+#18928   1 active   0 killed     Министр
+#18929   1 active   0 killed     консул
+#18930   1 active   0 killed     начальник тюрьмы
+#18931   1 active   0 killed     завхоз
+#18932   1 active   0 killed     зомби бригадира
+#18933   0 active   0 killed     Старый Друид
+#18934   8 active   0 killed     белочка
+#18935   5 active   0 killed     заяц
+#18936   7 active   0 killed     крупный олень
+#18937   5 active   0 killed     сизая птица
+#18938   6 active   0 killed     жук
+#18939   8 active   0 killed     волшебная птица
+#18940   6 active   0 killed     певчая птичка
+#18941   1 active   0 killed     Керратвин
+#18942   2 active   0 killed     сокол
+#18943   4 active   0 killed     Дриада
+#18944   1 active   0 killed     Дух леса
+#18945   1 active   0 killed     страж
+#18946   1 active   0 killed     птица грома
+#18947   1 active   0 killed     птенец грома
+#18948   1 active   0 killed     птица грома
+#18949   1 active   0 killed     феникс
+#18950   1 active   0 killed     феникс
+#18951   2 active   0 killed     гипогриф
+#18952   2 active   0 killed     гипогриф
+#18953   2 active   0 killed     куролиск
+#18954   2 active   0 killed     куролиск
+#18955   2 active   0 killed     молодой куролиск
+#18956   2 active   0 killed     Анкхег
+#18957   2 active   0 killed     Анкхег
+#18958   1 active   0 killed     детеныш анкхег
+#18959   1 active   0 killed     детеныш анкхег
+#18960   2 active   0 killed     Василиск
+#18961   2 active   0 killed     Василиск
+#18962   1 active   0 killed     Драколиск
+#18963   2 active   0 killed     Булетт
+#18964   2 active   0 killed     Булетт
+#18965   2 active   0 killed     Гидра
+#18966   2 active   0 killed     Криогидра
+#18967   2 active   0 killed     лирийская гидра
+#18968   2 active   0 killed     пирогидра
+#18969   3 active   0 killed     горгона
+#18970   3 active   0 killed     горгона
+#18971   2 active   0 killed     Тигр
+#18972   2 active   0 killed     белый тигр
+#18973   3 active   0 killed     мантикора
+#18974   3 active   0 killed     мантикора
+#18975   2 active   0 killed     три-крин
+#18976   2 active   0 killed     три-крин
+#18977   1 active   0 killed     златоед
+#18978   3 active   0 killed     златоед
+#18979   4 active   0 killed     зебра
+#18980   4 active   0 killed     антилопа
+#18981   4 active   0 killed     маленькая обезьянка
+#18982   4 active   0 killed     травяная змея
+#18983   1 active   0 killed     маг
+#18984   1 active   0 killed     дух короля
+#18985   3 active   0 killed     сова
+#18986   7 active   0 killed     браск
+#18987   1 active   0 killed     Страж {/Дроу
+#18988   1 active   0 killed     Страж {/Дроу
+#18989   1 active   0 killed     Лиренан
+#18990   1 active   0 killed     горный гоблин
+#18991   1 active   0 killed     диверсант
+#18992   1 active   0 killed     диверсант
+#18993   1 active   0 killed     Жрица
+#18994   1 active   0 killed     адская тварь
+#18995   1 active   0 killed     адская тварь
+#18996   1 active   0 killed     охранник
+#18997   1 active   0 killed     охранник
+#18998  10 active   0 killed     рабочий
+#18999   9 active   0 killed     рабочий
+#19000   6 active   0 killed     спящий гном
+#19001   1 active   0 killed     скалогрыз
+#19002   0 active   0 killed     жуткий паук
+#19003   1 active   0 killed     молодой друид
+#19400   1 active   0 killed     никто
+#19401   1 active   0 killed     медиум
+#19402   1 active   0 killed     ученик медиума
+#19403   1 active   0 killed     Ахерон
+#19404   1 active   0 killed     горная старуха
+#19405   1 active   0 killed     Клуракан
+#19406   4 active   0 killed     кранд
+#19407   1 active   0 killed     лепрекон
+#19408   1 active   0 killed     Банши
+#19409   1 active   0 killed     Никто-2
+#19410   1 active   0 killed     Брауни
+#19411   1 active   0 killed     Ласточка
+#19412   1 active   0 killed     Норны
+#19413   5 active   0 killed     мшанка
+#19414   1 active   0 killed     бабушка
+#19415   0 active   0 killed     хромой пикси
+#19416   0 active   0 killed     задумчивый ёжик
+#19417   1 active   0 killed     Киллмулис
+#19418   1 active   0 killed     нимфа {/Корриган
+#19419   0 active   0 killed     Келпи
+#19420   0 active   0 killed     Марул
+#19421   1 active   0 killed     Зелигена
+#19422   1 active   0 killed     {:эльф-продавец
+#19423   1 active   0 killed     Анку
+#19424   3 active   0 killed     призрак {/Слуа
+#19425   0 active   0 killed     белая дама
+#19426   1 active   0 killed     Никто-3
+#19427   1 active   0 killed     Никто-4
+#19428   1 active   0 killed     Эллиллдан
+#19429   4 active   0 killed     стуканец
+#19430   4 active   0 killed     бекке
+#19431   1 active   0 killed     хромой пикси
+#19432   3 active   0 killed     Гиллиду
+#19433   3 active   0 killed     ночная бабочка
+#19700   1 active   0 killed     красный бесенок
+#19701   1 active   0 killed     граф Эланкрус
+#19702  13 active   0 killed     призрак гостя
+#19703  13 active   0 killed     призрак гостьи
+#19704   1 active   0 killed     дух дворецкого
+#19705   1 active   0 killed     мумия горничной
+#19706   1 active   0 killed     дух отца
+#19707   1 active   0 killed     дух маленькой девочки
+#19708   1 active   0 killed     дух матери
+#19709   1 active   0 killed     дух отца
+#19710   1 active   0 killed     дух матери
+#19711   1 active   0 killed     дух сына
+#19712   1 active   0 killed     графиня
+#20001   1 active   0 killed     сарацин
+#20002   1 active   0 killed     веселый гоблин
+#20003   1 active   0 killed     кухарка
+#20004   1 active   0 killed     толстый бармен
+#20005   1 active   0 killed     бродяга
+#20006   1 active   0 killed     вор
+#20007   1 active   0 killed     вор
+#20008   1 active   0 killed     начальник городской стражи
+#20009   3 active   0 killed     городской стражник
+#20010   1 active   0 killed     продавец оружия
+#20011   1 active   0 killed     мистический торговец
+#20012   1 active   0 killed     продавец припасов
+#20013   1 active   0 killed     официант
+#20014   1 active   0 killed     капитан стражи
+#20015   1 active   0 killed     колдун Белшатла
+#20016   1 active   0 killed     король
+#20017   1 active   0 killed     капитан пиратов
+#20018   1 active   0 killed     брилтус
+#20019   1 active   0 killed     дайна
+#20020   1 active   0 killed     смотритель маяка
+#20021   1 active   0 killed     палач
+#20022   1 active   0 killed     святой инквизитор
+#20023   1 active   0 killed     монах
+#20024   1 active   0 killed     аббат
+#20025   0 active   0 killed     черная тень
+#20026   1 active   0 killed     лярт
+#20027   1 active   0 killed     Администратор гостиницы
+#20201   1 active   0 killed     барменша Соня
+#20202   1 active   0 killed     печальный продавец
+#20203   1 active   0 killed     вор
+#20204   1 active   0 killed     вор
+#20205   1 active   0 killed     скелет медведя
+#20206   1 active   0 killed     зомби стражника
+#20207   1 active   0 killed     скелет рыцаря
+#20208   1 active   0 killed     шут
+#20209   1 active   0 killed     разгневанный граф
+#20210   1 active   0 killed     стражник
+#20211   1 active   0 killed     вампирша
+#20212   1 active   0 killed     злодей
+#20213   1 active   0 killed     мертвец
+#20214   1 active   0 killed     лесник
+#20215   0 active   0 killed     огромный волк
+#20216   1 active   0 killed     кузнец
+#20217   1 active   0 killed     преданный слуга
+#20218   0 active   0 killed     старый мастер
+#20219   1 active   0 killed     служанка
+#20220   1 active   0 killed     страшный зверь
+#20221   8 active   0 killed     призрак воина
+#20222   1 active   0 killed     призрак короля
+#20300   1 active   0 killed     маленький торговец
+#20401   1 active   0 killed     Турнок
+#20402   1 active   0 killed     Кэрдан
+#20403   1 active   0 killed     Сурбус
+#20404   2 active   0 killed     страж ворот
+#20405   1 active   0 killed     чиновник
+#20406   6 active   0 killed     горожанин
+#20408   1 active   0 killed     Санделло{/{/
+#20409   1 active   0 killed     Олмер
+#20410   1 active   0 killed     вельможа
+#20411   2 active   0 killed     орк
+#20412   1 active   0 killed     начальник стражи
+#20413   5 active   0 killed     умертвие
+#20414   1 active   0 killed     хронист
+#20415   1 active   0 killed     наместник
+#20416   4 active   0 killed     страж
+#20417   5 active   0 killed     горожанка
+#20418   9 active   0 killed     оборотень
+#20419   1 active   0 killed     оборотниха
+#20420   2 active   0 killed     назгул
+#20421   7 active   0 killed     волкун
+#20422   1 active   0 killed     жрец
+#20423   1 active   0 killed     менестрель
+#20424   1 active   0 killed     Илинестра
+#20425   1 active   0 killed     Хверлу
+#20426   1 active   0 killed     Фийя
+#20427   1 active   0 killed     Гар
+#20428   1 active   0 killed     Руаг
+#20429   1 active   0 killed     оракул
+#20430   1 active   0 killed     Растрепанная ведьма
+#20431   1 active   0 killed     Рой
+#20432   1 active   0 killed     энт
+#20433   5 active   0 killed     кюлькас
+#20434   1 active   0 killed     банда
+#20435   3 active   0 killed     наблюдатель
+#20436   0 active   0 killed     страж
+#20437   5 active   0 killed     обоз
+#20438   5 active   0 killed     путник
+#20439   1 active   0 killed     куча змей
+#20440   0 active   0 killed     Огромный золотой дракон отдыхает здесь.
+#20441   1 active   0 killed     кит
+#20501  15 active   0 killed     тень игривого эльфа
+#20502  16 active   0 killed     тень дроу
+#20503  17 active   0 killed     тень гнома
+#20504  16 active   0 killed     тень вампира
+#20505   1 active   0 killed     маленький мальчик
+#20506   1 active   0 killed     напуганный эльф
+#20507   1 active   0 killed     повелитель теней
+#23400   1 active   0 killed     призрак князя
+#23401   1 active   0 killed     повешенный труп
+#23402   1 active   0 killed     призрак княгини
+#23403   1 active   0 killed     призрак служанки
+#23404   1 active   0 killed     призрак узника
+#23405   1 active   0 killed     призрак утопленника
+#23406   1 active   0 killed     призрак волка
+#23407   3 active   0 killed     каменная змея
+#23408   1 active   0 killed     призрак кладовщика
+#23409   3 active   0 killed     горный медведь
+#23410   1 active   0 killed     призрак лесоруба
+#23411   1 active   0 killed     призрак стражника
+#23412   1 active   0 killed     призрачная рыба
+#23413   1 active   0 killed     призрак повара
+#23414   1 active   0 killed     огромная жаба
+#23415   0 active   0 killed     маленький головастик
+#23416   1 active   0 killed     дружелюбное привидение
+#23417   1 active   0 killed     враждебное привидение
+#23418   0 active   0 killed     грязный чертенок
+#23419   1 active   0 killed     опытный вор
+#23420   1 active   0 killed     опытный убийца
+#23421   0 active   0 killed     светлый ангел
+#23422   1 active   0 killed     старый черт
+#23423   1 active   0 killed     закопченый чертенок
+#23424   0 active   0 killed     грязный черт
+#23425   0 active   0 killed     бестелесный фантом
+#23426   1 active   0 killed     призрак хранителя
+#23427   0 active   0 killed     ходячее западло
+#24500  15 active   0 killed     мотылек
+#24501  14 active   0 killed     крупный термит
+#24502   3 active   0 killed     ленивая ящерка
+#24503   8 active   0 killed     маленький скорпиончик
+#24504   4 active   0 killed     крупный скорпион
+#24505   1 active   0 killed     черный скорпион
+#24506   4 active   0 killed     каменная черепашка
+#24507   1 active   0 killed     белая черепаха
+#24508  11 active   0 killed     летучая мышь
+#24509   7 active   0 killed     спящая мышь
+#24510   2 active   0 killed     белый вампир
+#24511   1 active   0 killed     покалеченная тысяченожка
+#24512   1 active   0 killed     тысяченожка
+#24513   1 active   0 killed     призрачный часовой
+#24514   4 active   0 killed     огненная пчелка
+#24515   1 active   0 killed     огненный цветок
+#24516   3 active   0 killed     юркая мышка
+#24517   6 active   0 killed     креветка
+#24518   3 active   0 killed     рыба
+#24519   3 active   0 killed     лягушка
+#24520   2 active   0 killed     уж
+#24521   1 active   0 killed     шакал
+#24522   2 active   0 killed     плесень
+#25000   1 active   0 killed     страж лабиринта
+#25501   1 active   0 killed     Целитель
+#25502   1 active   0 killed     Старший Рейнджер
+#25503   1 active   0 killed     Великий Магистр
+#25504   1 active   0 killed     Верховный Друид
+#25505   2 active   0 killed     Страж гильдии
+#25506   1 active   0 killed     продавец брони
+#25507   1 active   0 killed     гемолог
+#25508   1 active   0 killed     лавочник
+#25509   1 active   0 killed     официантка Роззи
+#25510   1 active   0 killed     портной
+#25511   1 active   0 killed     ювелир
+#26000   1 active   0 killed     полумертвый орк
+#26001   2 active   0 killed     разодранный зомби
+#26002   1 active   0 killed     одноглазый тролль
+#26003   1 active   0 killed     испепеленный труп
+#26004   1 active   0 killed     раханар
+#26005  13 active   0 killed     служитель крематория
+#26006   7 active   0 killed     cлужительница крематория
+#26007   1 active   0 killed     жулик
+#26008   3 active   0 killed     обгорелый труп
+#26009   1 active   0 killed     пожилой экзорцист
+#26010   1 active   0 killed     безрукий зомби
+#26011   1 active   0 killed     кусок руки
+#26012   1 active   0 killed     зомби эльфа
+#26013   1 active   0 killed     молодая помощница
+#26014   1 active   0 killed     Арашнах
+#26015   0 active   0 killed     костяная собака
+#26016   2 active   0 killed     зомби служителя крематория
+#26700   1 active   0 killed     добродушный человек
+#26701   1 active   0 killed     кормящая девушка
+#26702   0 active   0 killed     Шуб-{/Ниггурат
+#26703   0 active   0 killed     болотный змей
+#26704   1 active   0 killed     Жрец Т'юог
+#26705   1 active   0 killed     божество {/Гатаноа
+#26706   1 active   0 killed     нищий
+#26707   1 active   0 killed     странный старец
+#26708   0 active   0 killed     кукла ласточки
+#26709   0 active   0 killed     кукла воробья
+#26710   0 active   0 killed     кукла коршуна
+#26711   0 active   0 killed     кукла собаки
+#26712   0 active   0 killed     кукла человека
+#26713   1 active   0 killed     торговец сладостями
+#26714   1 active   0 killed     торговец мясом
+#26715   1 active   0 killed     башмачник
+#26716   1 active   0 killed     драный егерь
+#26717   1 active   0 killed     божественный храмовник
+#26718   1 active   0 killed     божественный храмовник
+#26719   7 active   0 killed     горожанин
+#26720   9 active   0 killed     горожанка
+#26721   2 active   0 killed     шлюха
+#26722   1 active   0 killed     городской дворник
+#26723   3 active   0 killed     культист
+#26724   1 active   0 killed     жрец темного культа
+#26725   4 active   0 killed     дикий пес
+#26726   7 active   0 killed     зеленая многоножка
+#26727   1 active   0 killed     мертвый единорог
+#26728   3 active   0 killed     безымянный мрак
+#26729   7 active   0 killed     древесный паук
+#26730   4 active   0 killed     элементаль смерти
+#26731   5 active   0 killed     гончая смерти
+#26732   1 active   0 killed     рогатый медведь
+#26733   1 active   0 killed     синяя ящерица
+#26734   1 active   0 killed     торговец костями
+#26735   5 active   0 killed     Бойкий Зайцелоп
+#26736   5 active   0 killed     Бесстрашный Козерог
+#26737   6 active   0 killed     Кармическая Коала
+#26738   1 active   0 killed     грифон из золота и снега
+#26739   7 active   0 killed     костяной драколиск
+#26740   1 active   0 killed     правитель {/Тебов
+#26741   1 active   0 killed     жрец Аймас-Му
+#26742   1 active   0 killed     обитающий во мраке
+#26743   1 active   0 killed     хворый старик
+#26744   1 active   0 killed     Отоспавшийся Оцелот
+#26810   7 active   0 killed     охотник за сокровищами
+#26811   4 active   0 killed     желудочный скат
+#26812   8 active   0 killed     стальной стервятник
+#26813   6 active   0 killed     вампир легионер
+#26814   1 active   0 killed     воплощение пламени
+#26815   6 active   0 killed     зубной червь
+#26816   1 active   0 killed     Фархад
+#26817   4 active   0 killed     чистильщик желудка
+#26818   7 active   0 killed     маленький вор
+#26819   1 active   0 killed     кузнец
+#26820   8 active   0 killed     змей легионер
+#26821   1 active   0 killed     рыцарь дракон
+#26822   6 active   0 killed     эльф легионер
+#26823   8 active   0 killed     орк легионер
+#26824   6 active   0 killed     гном легионер
+#26825   1 active   0 killed     воплощение ядовитого элемента
+#26826   1 active   0 killed     плюшевый мишка
+#26827   7 active   0 killed     змей бродяга
+#26828   4 active   0 killed     призрак легионера
+#26829   3 active   0 killed     полип
+#26830   4 active   0 killed     зомби легионера
+#26831   1 active   0 killed     боевой мангуст
+#26832   1 active   0 killed     лекарь поддержки
+#26833   1 active   0 killed     маг белого совета
+#26834   1 active   0 killed     жрец белого совета
+#26835   1 active   0 killed     страж крепости
+#26836   1 active   0 killed     бармен
+#26837   8 active   0 killed     легионер
+#26838   8 active   0 killed     лучник
+#26839   8 active   0 killed     вампир
+#26840   1 active   0 killed     командующий крепостью
+#26841   8 active   0 killed     алебардист
+#26842   8 active   0 killed     копейщик
+#26843   1 active   0 killed     маг
+#26844   1 active   0 killed     маленький дракоша
+#26845   0 active   0 killed     красавица
+#26846   4 active   0 killed     страж бесконечности
+#26847   1 active   0 killed     глава белого совета
+#26849   1 active   0 killed     воплощение холодного элемента
+#26850   1 active   0 killed     Страж святилища
+#27000   1 active   0 killed     Страж ворот
+#27001   0 active   0 killed     Гном стражник
+#27002   1 active   0 killed     Хранитель погреба
+#27003   1 active   0 killed     Ним
+#27004  14 active   0 killed     Ядовитый паук
+#27005  16 active   0 killed     Летучая мышь
+#27006  16 active   0 killed     Мотылек
+#27007   1 active   0 killed     Хук-хуорра
+#27008   1 active   0 killed     Зеленый рыцарь
+#27009   1 active   0 killed     Старец
+#27010   1 active   0 killed     Орк палач
+#27011   6 active   0 killed     Патрульный дроу
+#27012   1 active   0 killed     Феникс
+#27013   1 active   0 killed     Балор
+#27014   0 active   0 killed     Л'лот{x
+#27015   1 active   0 killed     Мастер Дроу
+#27016   1 active   0 killed     Старший ученик
+#27017   1 active   0 killed     Ученик дроу
+#27018   1 active   0 killed     Статуя паука
+#27019   1 active   0 killed     Темный маг
+#27020   1 active   0 killed     Библиотекарь
+#27021   3 active   0 killed     Роф
+#27022   3 active   0 killed     Пещерный ящер
+#27023   1 active   0 killed     Дракон безвременья
+#27024   1 active   0 killed     Кракен
+#27025   1 active   0 killed     Левиафан
+#27026   1 active   0 killed     Туманность
+#27027   1 active   0 killed     Крохотное созвездие
+#27028   1 active   0 killed     {bТуманность{x
+#27029   1 active   0 killed     Воздушная элементаль
+#27030   1 active   0 killed     {DЧастица Хаоса{x
+#29500   1 active   0 killed     Маг
+#29501   1 active   0 killed     Призрак гвардейца
+#29502   1 active   0 killed     Призрачный скакун
+#29503   1 active   0 killed     Кладовщик
+#29504   0 active   0 killed     Принцесса
+#29505   1 active   0 killed     алхимик
+#29506   1 active   0 killed     Призрак принцессы
+#29507   1 active   0 killed     Призрак ключника
+#29508   0 active   0 killed     Мастер магии
+#29509   1 active   0 killed     Птица {/Ррах
+#29510   1 active   0 killed     Птенец
+#29511   1 active   0 killed     Король 
+#29512   1 active   0 killed     Священник
+#29513   1 active   0 killed     Призрак бойца
+#29514   1 active   0 killed     Хранитель
+#29515   1 active   0 killed     Скелет
+#29516   1 active   0 killed     Магический дракон
+#29600   1 active   0 killed     старый моряк
+#29601   1 active   0 killed     страж ворот
+#29602   1 active   0 killed     конюх
+#29603   1 active   0 killed     молодой жеребенок
+#29604   1 active   0 killed     молодой жеребец
+#29605   1 active   0 killed     единорог
+#29606   1 active   0 killed     носорог
+#29607   1 active   0 killed     королевский дракон
+#29608   1 active   0 killed     боевой тигр
+#29609   0 active   0 killed     хитрая ящерка
+#29610   1 active   0 killed     комендант
+#29611   1 active   0 killed     оружейник
+#29612   1 active   0 killed     поварёнок
+#29613   1 active   0 killed     бородатый старикашка
+#29614   1 active   0 killed     старый змей
+#29615   3 active   0 killed     молодой змей
+#29616   1 active   0 killed     облако
+#29617   1 active   0 killed     водяной элементал
+#29618   1 active   0 killed     земляной голем
+#29619   1 active   0 killed     огненный элементал
+#29620   1 active   0 killed     снежный демон
+#29621   1 active   0 killed     жидкий демон
+#29622   1 active   0 killed     огненный демон
+#29623   1 active   0 killed     воздушный демон
+#29624   1 active   0 killed     веселый демон
+#29625   1 active   0 killed     ездовой тролль
+#29626   1 active   0 killed     трактирщик
+#29627   1 active   0 killed     менестрель
+#29628   1 active   0 killed     уборщик
+#29629   1 active   0 killed     палач
+#29630   1 active   0 killed     воин
+#29631   1 active   0 killed     задумчивый орк
+#29632   1 active   0 killed     дроу
+#29633   1 active   0 killed     воришка
+#29634   1 active   0 killed     старая хоббитка
+#29635   1 active   0 killed     ребенок
+#29636   1 active   0 killed     призрак виночерпия
+#29637   1 active   0 killed     цепной пес
+#29638   1 active   0 killed     лекарь
+#29639   1 active   0 killed     тренер
+#29640   1 active   0 killed     призрак хранителя
+#30000   1 active   0 killed     водяной
+#30001   0 active   0 killed     утка
+#30002   1 active   0 killed     седой волхв
+#30003   1 active   0 killed     Змей Горыныч
+#30004   1 active   0 killed     Перун
+#30005   1 active   0 killed     русалка
+#30006   1 active   0 killed     разбойник
+#30007   1 active   0 killed     леший
+#30008   1 active   0 killed     оборотень
+#30009   1 active   0 killed     домовой
+#30010   1 active   0 killed     банник
+#30011   3 active   0 killed     упырь
+#30012   1 active   0 killed     полевик
+#30013   1 active   0 killed     мавка
+#30014   0 active   0 killed     медведь
+#30015   2 active   0 killed     сом
+#30016   0 active   0 killed     лиса
+#30017   0 active   0 killed     зайчик
+#30018   0 active   0 killed     {&древний {&дуб
+#30019   1 active   0 killed     Кащей Бессмертный
+#30100   1 active   0 killed     ифрит
+#30101   5 active   0 killed     адепт
+#30102   5 active   0 killed     молодой неофит
+#30103   1 active   0 killed     хранитель библиотеки
+#30104   4 active   0 killed     стражник обители
+#30105   1 active   0 killed     демон холода
+#30106   2 active   0 killed     дух зимы
+#30107   1 active   0 killed     демон пламени
+#30108   2 active   0 killed     огненный бес
+#30109   1 active   0 killed     плененный ангел
+#30110   1 active   0 killed     темный служитель
+#30111   3 active   0 killed     демон сна
+#30112   4 active   0 killed     вампиресса
+#30113   3 active   0 killed     малефик
+#30114   1 active   0 killed     маэстро Саниил
+#30115   2 active   0 killed     теневой страж
+#30116   2 active   0 killed     каменный пес
+#30117   1 active   0 killed     леди {/Элеонор
+#30118   2 active   0 killed     костяной виверн
+#30119   1 active   0 killed     дух огня
+#30120   2 active   0 killed     страж духа огня
+#30121   2 active   0 killed     кровяной страж
+#30122   1 active   0 killed     дух крови
+#30123   1 active   0 killed     адский конь
+#30124   1 active   0 killed     кровавый червь
+#30125   1 active   0 killed     мертвый конь
+#30126   1 active   0 killed     черный ворон
+#30127   1 active   0 killed     белый ворон
+#30128   1 active   0 killed     василиск
+#30129   1 active   0 killed     кровавый шакал
+#30130   1 active   0 killed     духовный сокол
+#30131   1 active   0 killed     теневой дракон
+#30132   1 active   0 killed     старик
+#30133   1 active   0 killed     темный алхимик
+#30134   1 active   0 killed     Алегретто
+#30135   1 active   0 killed     Фортиссимо
+#30136   0 active   0 killed     хранитель башни
+#30137   9 active   0 killed     призрачная тень
+#30138   1 active   0 killed     страж двери
+#30139   1 active   0 killed     страж двери
+#30140   1 active   0 killed     страж двери
+#30141   1 active   0 killed     страж двери
+#30142   2 active   0 killed     водный элементаль
+#30143   2 active   0 killed     элементаль огня
+#30144   2 active   0 killed     земляной элементал
+#30145   2 active   0 killed     элементал воздуха
+#30146   1 active   0 killed     золотой виверн
+#30147   1 active   0 killed     белый грифон
+#30148   1 active   0 killed     двуглавый минотавр
+#30149   1 active   0 killed     красный скорпион
+#30150   4 active   0 killed     песчаный дракон
+#30151   1 active   0 killed     серый маг
+#30152   1 active   0 killed     тюремный страж
+#30153   1 active   0 killed     призрак заключенного
+#30154   1 active   0 killed     палач
+#30155   0 active   0 killed     маленький ангелочек
+#30156   1 active   0 killed     черный зодчий
+#30157   0 active   0 killed     мифрильный голем
+#30158   1 active   0 killed     хранитель портала
+#30159   1 active   0 killed     нейтралитет Фералин
+#30160   8 active   0 killed     хрустальная горгулья
+#30161   5 active   0 killed     золотая горгулья
+#30162   7 active   0 killed     мраморная горгулья
+#30163   1 active   0 killed     фантазм
+#30164   4 active   0 killed     серебряный тарантул
+#30165   4 active   0 killed     скелет мага
+#30166   4 active   0 killed     кровавая рыба
+#30167   4 active   0 killed     туманный блекал
+#30168   4 active   0 killed     душа страдальца
+#30169   4 active   0 killed     отчаянная душа
+#30170   1 active   0 killed     верный пес
+#30171   5 active   0 killed     демон танца
+#30172   5 active   0 killed     зеленый паук
+#30173   1 active   0 killed     белый кот
+#30174   7 active   0 killed     щенок добермана
+#30175   0 active   0 killed     доберманиха
+#30176   1 active   0 killed     горбатый собачник
+#30177   1 active   0 killed     посудомойщик
+#30178   1 active   0 killed     официант
+#30179   3 active   0 killed     платиновый виверн
+#30180   1 active   0 killed     горничная
+#30181   1 active   0 killed     клерик
+#30182   1 active   0 killed     тренер по фехтованию
+#30183   1 active   0 killed     грифон из серебра и снега
+#30600   1 active   0 killed     Анкалагон
+#30601   1 active   0 killed     принцесса {/Флоримель
+#30602   1 active   0 killed     уродливая ведьма
+#30603   5 active   0 killed     плотоядная черепаха
+#30604   5 active   0 killed     саблезубая белка
+#30605   5 active   0 killed     огромный паук
+#30606   3 active   0 killed     адский кролик
+#30607   5 active   0 killed     оборотень
+#30608   1 active   0 killed     шатун
+#30609   1 active   0 killed     черный кот
+#30610   5 active   0 killed     летучая мышь
+#30611   1 active   0 killed     стражник
+#30612   0 active   0 killed     голем
+#30699   0 active   0 killed     фашистская гидра
+#30700   1 active   0 killed     (no short description)
+#31000   1 active   0 killed     демон Вельзевул
+#31001   1 active   0 killed     демон Велиал
+#31002   1 active   0 killed     демон Асмодей
+#31003   1 active   0 killed     демон Сатана
+#31004   1 active   0 killed     демон Аббадон
+#31005   1 active   0 killed     демон Астарот
+#31006   1 active   0 killed     демон маммон
+#31007   3 active   0 killed     демон Инкуб
+#31008   2 active   0 killed     демон суккуб
+#31009   3 active   0 killed     демон Фурия
+#31010   1 active   0 killed     демон Люцифер
+#31011   9 active   0 killed     старый грешник 
+#31012  13 active   0 killed     небольшой черт
+#31013   1 active   0 killed     пузатый черт
+#31014   1 active   0 killed     отряд воинов ада
+#31015   1 active   0 killed     прелюбодей
+#31100   2 active   0 killed     фейри гремор
+#31101   2 active   0 killed     фейри стобат
+#31102   3 active   0 killed     фейри силлия
+#31103   2 active   0 killed     фейри океана
+#31104   3 active   0 killed     фейри лурия
+#31105   3 active   0 killed     фейри гораэль
+#31106   3 active   0 killed     фейри лигейн
+#31107   3 active   0 killed     фейри акритар
+#31108   3 active   0 killed     фейри манокс
+#31109   3 active   0 killed     фейри тернокс
+#31110   3 active   0 killed     фейри тэйз
+#31200   1 active   0 killed     священник
+#31201   1 active   0 killed     Пьяный воин
+#31202   1 active   0 killed     Жанна
+#31203   1 active   0 killed     Бастард
+#31204   1 active   0 killed     Метц
+#31205   1 active   0 killed     раненый воин
+#31206   1 active   0 killed     Гренуй
+#31207   1 active   0 killed     Тень поэта
+#31208   1 active   0 killed     Химера
+#31209   1 active   0 killed     священнослужитель
+#31210   1 active   0 killed     девушка
+#31211   1 active   0 killed     суслик
+#31212   0 active   0 killed     вампирица
+#31213   1 active   0 killed     воин
+#31214   1 active   0 killed     навозная муха
+#31215   1 active   0 killed     стражник
+#31216   1 active   0 killed     стражник
+#31217   1 active   0 killed     Бальдини
+#31218   1 active   0 killed     воин
+#31219   1 active   0 killed     воин
+#31220   1 active   0 killed     воин
+#31221   1 active   0 killed     продавец
+#31222   3 active   0 killed     нищенка
+#31223   2 active   0 killed     мальчишка
+#31224   1 active   0 killed     ежик
+#31225   2 active   0 killed     местный
+#31500   2 active   0 killed     подкустовый выползень
+#31501   1 active   0 killed     кролик
+#31502   2 active   0 killed     чернопопик
+#31503   2 active   0 killed     волк
+#31504   2 active   0 killed     медведь
+#31505   1 active   0 killed     похмельная сова
+#31506   1 active   0 killed     адская овца
+#31507   1 active   0 killed     шкодливый опоссум
+#31508   1 active   0 killed     чудо-конь
+#31509   1 active   0 killed     нырок
+#31510   1 active   0 killed     смотритель заповедника
+#31700   1 active   0 killed     зомби ангела
+#31701   1 active   0 killed     зомби демона
+#31702   1 active   0 killed     зомби короля
+#31703   1 active   0 killed     сын {/Баракиэля
+#31704   1 active   0 killed     убийца смерти
+#31705   1 active   0 killed     некромант Аозэр
+#31706   1 active   0 killed     хранитель печатей
+#31707   1 active   0 killed     пасынок бога заклятий
+#31708   1 active   0 killed     легион
+#31709   1 active   0 killed     нордический дух
+#31710   0 active   0 killed     призрак драколиска
+#31711   1 active   0 killed     Сати
+#31712   1 active   0 killed     Дэриан
+#31713   1 active   0 killed     Богди
+#31714   1 active   0 killed     картограф Тавлин
+#31715   1 active   0 killed     Мурзэ
+#31716   1 active   0 killed     ювелир Наштих
+#31717   1 active   0 killed     Дитраф
+#31718   1 active   0 killed     Чихча
+#31719   1 active   0 killed     Тао
+#31720   1 active   0 killed     Закария
+#31721   1 active   0 killed     Миделан
+#31722   1 active   0 killed     тренер Бисток
+#31723   1 active   0 killed     серый трупозавр
+#31724   1 active   0 killed     живая кукла
+#31725   1 active   0 killed     хромой призрак
+#31726   1 active   0 killed     черный виверн
+#31727   1 active   0 killed     квадрон
+#31728   1 active   0 killed     плененный ангел
+#31729   1 active   0 killed     великий назгул
+#31730   1 active   0 killed     умелый некромант
+#31731   1 active   0 killed     подчиненный вампир
+#31732   1 active   0 killed     архилич
+#31733   1 active   0 killed     мертвый священник
+#31734   1 active   0 killed     мертвый гладиатор
+#31735   1 active   0 killed     король убийц
+#31736   1 active   0 killed     древний алхимик
+#31737   1 active   0 killed     мертвый лесной дух
+#31738   1 active   0 killed     антипаладин
+#31739   2 active   0 killed     мертвый страж
+#31740   5 active   0 killed     сторожевой лич
+#31741   4 active   0 killed     злой дух
+#31742   4 active   0 killed     призрак заключенного
+#31743   4 active   0 killed     монада страха
+#31744   6 active   0 killed     эльф уборщик
+#31745   4 active   0 killed     мертвый пес
+#31746  10 active   0 killed     неприкаянный зомби
+#31747  10 active   0 killed     вставший
+#31748  10 active   0 killed     лаборант
+#31749   4 active   0 killed     лич оператор
+#31750   9 active   0 killed     плененный рабовладелец
+#31751   9 active   0 killed     плененный хоббит
+#31752   9 active   0 killed     пленный пират
+#31753   9 active   0 killed     ученый эльф
+#31754   9 active   0 killed     подопытный
+#31755   3 active   0 killed     психопат
+#31756   1 active   0 killed     орало
+#31757   1 active   0 killed     Страж храма
+#31758  10 active   0 killed     Страж гильдии
+#31759   1 active   0 killed     секретарь
+#31760   1 active   0 killed     Банкир
+#31761   1 active   0 killed     Караванщик Хикирия
+#31901   1 active   0 killed     Алконост
+#31902   1 active   0 killed     птица Сирин
+#31903   1 active   0 killed     Гамаюн
+#31904   0 active   0 killed     заяц
+#31905   0 active   0 killed     утка
+#31906   8 active   0 killed     сирена
+#31907   8 active   0 killed     гарпия
+#31908   1 active   0 killed     бедный моряк
+#32300   1 active   0 killed     рыжая друидка
+#32301   1 active   0 killed     вампирша
+#32302   1 active   0 killed     Айра
+#32303   1 active   0 killed     варварша
+#32304   0 active   0 killed     Некромантша
+#32305   1 active   0 killed     воровка
+#32306   1 active   0 killed     начальница стражи
+#32307   5 active   0 killed     лесная стражница
+#32308   1 active   0 killed     патрульная
+#32309   1 active   0 killed     воин
+#32310   1 active   0 killed     молодая амазонка
+#32311   1 active   0 killed     кухонный дракончик
+#32312   1 active   0 killed     Лакомка
+#32313   1 active   0 killed     магичка
+#32314   1 active   0 killed     лекарка
+#32315   1 active   0 killed     улыбчивая великанша
+#32316   1 active   0 killed     болтливая троллиха
+#32317   1 active   0 killed     освобожденная рабыня
+#32318   1 active   0 killed     опытная воительница
+#32319   1 active   0 killed     Айда
+#32320   1 active   0 killed     Дикрэ
+#32321   1 active   0 killed     Хаграйда
+#32322   1 active   0 killed     скучающая стражница
+#32323   1 active   0 killed     Клоберетта
+#32324   1 active   0 killed     Дагорнор
+#32325   1 active   0 killed     портниха
+#32326   1 active   0 killed     Пройдоха
+#32327   1 active   0 killed     Ситари
+#32328   1 active   0 killed     философ
+#32329   1 active   0 killed     толстяк
+#32330   1 active   0 killed     военачальник
+#32331   1 active   0 killed     тщедушный юнец
+#32332   1 active   0 killed     лопоухий щенок
+#32333   1 active   0 killed     пес
+#32334   1 active   0 killed     рыжая девчонка
+#32335   1 active   0 killed     травница Далила
+#32336   1 active   0 killed     работорговец
+#32337   1 active   0 killed     амазонка
+#32338   1 active   0 killed     старая лекарка
+#32339   1 active   0 killed     толстая кухарка
+#32340   1 active   0 killed     корчмарь
+#32341   1 active   0 killed     элитная амазонка
+#32342   1 active   0 killed     пленный работорговец
+#32343   1 active   0 killed     пленный работорговец
+#32344   1 active   0 killed     пленник
+#32345   1 active   0 killed     глава магической школы
+#32346   1 active   0 killed     воевода
+#32347   1 active   0 killed     Тэнгел
+#32348   1 active   0 killed     дворцовая стража
+#32349   1 active   0 killed     Дух Войны
+#35000   1 active   0 killed     Тильбо
+#43100   1 active   0 killed     старый колдун
+#43101   1 active   0 killed     деревенский знахарь
+#43102   7 active   0 killed     крестьянин
+#43103   7 active   0 killed     крестьянка
+#43104   7 active   0 killed     грязный мертвец
+#43105   7 active   0 killed     маленький анчутка
+#43106   7 active   0 killed     лихо
+#43107   3 active   0 killed     злыдни
+#43108   3 active   0 killed     кикимора
+#43109   5 active   0 killed     волкодлак
+#43110   2 active   0 killed     банник
+#43111   2 active   0 killed     леший
+#43112  20 active   0 killed     страшный упырь
+#43113  19 active   0 killed     старший упырь
+#43114  20 active   0 killed     хромой упырь
+#43115  20 active   0 killed     мелкий бес
+#43116  20 active   0 killed     знатный бес
+#43117   1 active   0 killed     чернобог
+#43118  20 active   0 killed     див
+#43119   2 active   0 killed     дворовой
+#43120   6 active   0 killed     баргест
+#43121   1 active   0 killed     одержимый властью

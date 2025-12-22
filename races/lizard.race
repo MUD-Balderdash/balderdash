@@ -1,0 +1,14 @@
+Filename  lizard.race~
+Name      lizard~
+MName     ящерица~
+FName     ящерица~
+PC        false
+Act       animal~
+Aff       ~
+Off       ~
+Resist    poison 33
+Resist    cold -50
+Form      edible animal reptile cold_blood~
+Parts     head legs heart brains guts feet eye tail fangs skin~
+End
+* charset=cp1251

@@ -1,0 +1,20 @@
+Filename  modron.race~
+Name      modron~
+MName     модрон~
+FName     модрониха~
+PC        false
+Act       ~
+Aff       infrared~
+Off       assist_align assist_race~
+Resist    fire 33
+Resist    cold 33
+Resist    acid 33
+Resist    negative 100
+Resist    holy 100
+Resist    mental 100
+Resist    disease 100
+Resist    charm 100
+Form      sentient construct~
+Parts     head arms legs hands feet ear eye~
+End
+* charset=cp1251

@@ -1,0 +1,12 @@
+Filename  songbird.race~
+Name      song bird~
+MName     певчая птичка~
+FName     певчая птичка~
+PC        false
+Act       animal~
+Aff       flying~
+Off       dodge fast~
+Form      edible animal biped bird~
+Parts     head legs heart brains guts feet eye wings~
+End
+* charset=cp1251

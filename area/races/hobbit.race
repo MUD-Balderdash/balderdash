@@ -1,0 +1,37 @@
+Filename  hobbit.race~
+Name      hobbit~
+MName     хоббит~
+FName     хоббитка~
+PC        true
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    negative -50
+Resist    disease 33
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Хоббит~
+Points    5
+Skills    'sneak' 'hide' 'haggle' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     13  17  15  18  11 
+MStats    15  21  19  26  14 
+ClassMult маг             100
+ClassMult жрец            125
+ClassMult вор             100
+ClassMult воин            120
+ClassMult некромант       0
+ClassMult паладин         120
+ClassMult назгул          0
+ClassMult друид           100
+ClassMult егерь           110
+ClassMult вампир          0
+ClassMult алхимик         150
+ClassMult оборотень       0
+Size      small
+Recall    1158
+Map       1120
+Align     neutral good~
+End
+* charset=cp1251

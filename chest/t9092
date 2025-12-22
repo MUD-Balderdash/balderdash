@@ -1,0 +1,3874 @@
+#O
+Vnum 24
+Nest 0
+Wear -1
+Cost 0
+Room 28000
+End
+
+#O
+Vnum 30059
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30059
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30059
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10680
+Nest 1
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20
+Nest 1
+Name магический кусок сала еда~
+ShD  магический кусок сала~
+Desc Магический кусок сала парит перед тобой в воздухе.~
+Wear -1
+Cost 0
+Val  15 30 0 0 0
+End
+
+#O
+Vnum 4872
+Nest 1
+Cond 94
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 29512
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 30062
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30062
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 12105
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10680
+Nest 1
+Cond 93
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 30062
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 3389
+Nest 1
+Wear -1
+Cost 1
+Spell 1 'advance skill'
+Spell 2 'advance skill'
+Spell 3 'advance skill'
+End
+
+#O
+Vnum 13955
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2937
+Nest 1
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 30054
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 30051
+Nest 1
+Cond 99
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 29509
+Nest 1
+Cond 98
+Wear -1
+Cost 32000
+End
+
+#O
+Vnum 13215
+Nest 1
+Cond 98
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 12106
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10679
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Val  0 0 4262 0 0
+End
+
+#O
+Vnum 10680
+Nest 1
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 4872
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13871
+Nest 1
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 13871
+Nest 1
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 12109
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 13871
+Nest 1
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 12107
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9036
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17653
+Nest 1
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 30055
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 30063
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10889
+Nest 1
+Cond 97
+Wear -1
+Cost 115
+End
+
+#O
+Vnum 1345
+Nest 1
+Cond 62
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 524
+Nest 2
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 529
+Nest 2
+Wear -1
+Cost 33
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 538
+Nest 2
+Cond 99
+Wear -1
+Cost 42
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 515
+Nest 2
+Wear -1
+Cost 16
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 530
+Nest 2
+Wear -1
+Cost 34
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 528
+Nest 2
+Cond 99
+Wear -1
+Cost 32
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 528
+Nest 2
+Wear -1
+Cost 32
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 562
+Nest 2
+Cond 99
+Wear -1
+Cost 36
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Cond 98
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 537
+Nest 2
+Cond 97
+Wear -1
+Cost 41
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 533
+Nest 2
+Cond 99
+Wear -1
+Cost 37
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 553
+Nest 2
+Cond 99
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 553
+Nest 2
+Cond 99
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 522
+Nest 2
+Cond 99
+Wear -1
+Cost 26
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 549
+Nest 2
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 548
+Nest 2
+Wear -1
+Cost 100
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 557
+Nest 2
+Wear -1
+Cost 0
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 524
+Nest 2
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 512
+Nest 2
+Wear -1
+Cost 18
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 511
+Nest 2
+Wear -1
+Cost 17
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 524
+Nest 2
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 557
+Nest 2
+Wear -1
+Cost 0
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Cond 99
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Cond 97
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Cond 99
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 518
+Nest 2
+Cond 94
+Wear -1
+Cost 22
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Cond 98
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 516
+Nest 2
+Cond 98
+Wear -1
+Cost 20
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 518
+Nest 2
+Wear -1
+Cost 22
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 518
+Nest 2
+Wear -1
+Cost 22
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 513
+Nest 2
+Wear -1
+Cost 19
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 524
+Nest 2
+Wear -1
+Cost 28
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 521
+Nest 2
+Wear -1
+Cost 25
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Cond 99
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Cond 99
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 505
+Nest 2
+Wear -1
+Cost 90
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 560
+Nest 2
+Wear -1
+Cost 35
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 510
+Nest 2
+Wear -1
+Cost 14
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 517
+Nest 2
+Wear -1
+Cost 21
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 1345
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Кайтара~
+ShD  коврик из кожи {/{/Кайтара~
+Desc Коврик из кожи {/Кайтара лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  33
+Cost 32
+Val  1 0 1168 116 116
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Джахмы~
+ShD  коврик из кожи {/{/Джахмы~
+Desc Коврик из кожи {/Джахмы лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 51
+Val  1 0 1168 125 125
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Джахмы~
+ShD  коврик из кожи {/{/Джахмы~
+Desc Коврик из кожи {/Джахмы лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 51
+Val  1 0 1168 125 125
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Чефа~
+ShD  коврик из кожи {/{/Чефа~
+Desc Коврик из кожи {/Чефа лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 38
+Val  1 0 1168 119 119
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Чефа~
+ShD  коврик из кожи {/{/Чефа~
+Desc Коврик из кожи {/Чефа лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 42
+Val  1 0 1168 121 121
+End
+
+#O
+Vnum 32
+Nest 2
+Name коврик {/Кайтара~
+ShD  коврик из кожи {/{/Кайтара~
+Desc Коврик из кожи {/Кайтара лежит здесь.~
+WeaF 1
+Wt   50
+Wear -1
+Lev  51
+Cost 51
+Val  1 0 1168 125 125
+End
+
+#O
+Vnum 2335
+Nest 1
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2325
+Nest 2
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 2326
+Nest 2
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 2325
+Nest 2
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 2326
+Nest 2
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 2325
+Nest 2
+Cond 99
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 10336
+Nest 2
+Cond 90
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2339
+Nest 2
+Cond 97
+Wear -1
+Cost 2300
+End
+
+#O
+Vnum 10855
+Nest 2
+Cond 98
+Wear -1
+Cost 4200
+End
+
+#O
+Vnum 10633
+Nest 2
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 10633
+Nest 2
+Cond 96
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 19420
+Nest 2
+Cond 84
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2300
+Nest 2
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 10854
+Nest 2
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 10335
+Nest 2
+Cond 84
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 101
+Nest 2
+Cond 77
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 2204
+Nest 2
+Cond 88
+Wear -1
+Cost 3900
+End
+
+#O
+Vnum 2330
+Nest 2
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 7914
+Nest 2
+Cond 54
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 2328
+Nest 2
+Cond 91
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 9609
+Nest 2
+Cond 98
+Wear -1
+Cost 1700
+End
+
+#O
+Vnum 9608
+Nest 2
+Cond 99
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 9608
+Nest 2
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 9610
+Nest 2
+Cond 97
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 17314
+Nest 2
+Cond 87
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 18091
+Nest 2
+ExtF 256
+Cond 94
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 12658
+Nest 2
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 31103
+Nest 2
+Cond 95
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 13547
+Nest 2
+Cond 87
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 15066
+Nest 2
+Cond 84
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 15066
+Nest 2
+Cond 93
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 134
+Nest 2
+Cond 85
+Wear -1
+Cost 780
+End
+
+#O
+Vnum 2204
+Nest 2
+Cond 97
+Wear -1
+Cost 3900
+End
+
+#O
+Vnum 15556
+Nest 2
+Cond 94
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 5974
+Nest 2
+ExtF 64
+Cond 97
+Wear -1
+Cost 1700
+End
+
+#O
+Vnum 10632
+Enchanted
+Nest 2
+ExtF 16777280
+Wt   20
+Cond 88
+Wear -1
+Cost 500
+Affc 'reserved'   1  25  -1  20  13          0
+Affc 'reserved'   1  25  -1   2  19          0
+Affc 'reserved'   1  25  -1   1   4          0
+Affc 'reserved'   0  25  -1   1   0          8
+Affc 'reserved'   1  21  -1   1   2          0
+Affc 'reserved'   1  21  -1   4  18          0
+Affc 'reserved'   1  21  -1 -10  17          0
+ExDe кольцо из медвежьей кости~ Вставлено в гнездо: перышко воробья.~
+End
+
+#O
+Vnum 10633
+Nest 2
+Cond 98
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 10866
+Nest 2
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 20233
+Nest 2
+Wear -1
+Cost 5600
+End
+
+#O
+Vnum 20234
+Nest 2
+Wear -1
+Cost 1235
+End
+
+#O
+Vnum 2333
+Nest 2
+Cond 98
+Wear -1
+Cost 580
+End
+
+#O
+Vnum 2516
+Nest 2
+Cond 97
+Wear -1
+Cost 5320
+Spell 3 'heal'
+End
+
+#O
+Vnum 2342
+Nest 2
+Wear -1
+Cost 6600
+End
+
+#O
+Vnum 12657
+Nest 2
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 20234
+Nest 2
+Wear -1
+Cost 1235
+End
+
+#O
+Vnum 13313
+Nest 2
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10774
+Nest 2
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 30012
+Nest 2
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10774
+Nest 2
+Cond 84
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10774
+Nest 2
+Cond 88
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10773
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10774
+Nest 2
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10889
+Nest 1
+Cond 92
+Wear -1
+Cost 115
+Val  1000 1 0 3000 10
+End
+
+#O
+Vnum 17310
+Nest 2
+Cond 96
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 24617
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 24616
+Nest 2
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 24616
+Nest 2
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 26040
+Nest 2
+ExtF 0
+Cond 99
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 26039
+Nest 2
+ExtF 0
+Cond 98
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 5520
+Nest 2
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5520
+Nest 2
+Cond 99
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13876
+Nest 2
+Cond 77
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 14015
+Nest 2
+Cond 86
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 10615
+Nest 2
+ExtF 0
+Cond 96
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 15447
+Nest 2
+ExtF 68
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 14051
+Nest 2
+Cond 97
+Wear -1
+Cost 3401
+End
+
+#O
+Vnum 20412
+Nest 2
+Cond 61
+Wear -1
+Cost 6700
+End
+
+#O
+Vnum 17329
+Nest 2
+ExtF 84
+Cond 71
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 20041
+Nest 2
+ExtF 1
+Wear -1
+Cost 10814
+End
+
+#O
+Vnum 14006
+Nest 2
+ExtF 16781312
+Wear -1
+Cost 543
+End
+
+#O
+Vnum 10797
+Nest 2
+ExtF 51904576
+Wear -1
+Cost 12300
+End
+
+#O
+Vnum 5714
+Nest 2
+ExtF 16777280
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5711
+Nest 2
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 15026
+Nest 2
+Wear -1
+Cost 5600
+End
+
+#O
+Vnum 29650
+Nest 2
+Cond 98
+Wear -1
+Cost 675
+End
+
+#O
+Vnum 5714
+Nest 2
+ExtF 16777280
+Cond 90
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 24615
+Nest 2
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 9037
+Nest 2
+ExtF 2
+Wear -1
+Cost 5600
+End
+
+#O
+Vnum 18020
+Nest 2
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 18096
+Nest 2
+ExtF 16777281
+Cond 99
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 2422
+Nest 2
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 12474
+Nest 2
+ExtF 17563714
+Cond 98
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 15449
+Nest 2
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 17356
+Nest 2
+Wear -1
+Cost 9300
+End
+
+#O
+Vnum 12641
+Nest 2
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 10649
+Nest 2
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2415
+Nest 2
+ExtF 268435456
+Cond 82
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 10871
+Nest 2
+ExtF 17301568
+Cond 82
+Wear -1
+Cost 5202
+End
+
+#O
+Vnum 15232
+Nest 2
+Cond 97
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 18758
+Nest 2
+ExtF 16777472
+Cond 99
+Wear -1
+Cost 2840
+End
+
+#O
+Vnum 13551
+Nest 2
+ExtF 0
+Cond 98
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5514
+Nest 2
+ExtF 0
+Cond 96
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 10828
+Nest 2
+ExtF 786432
+Cond 72
+Wear -1
+Cost 5810
+End
+
+#O
+Vnum 10662
+Nest 2
+Cond 95
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9020
+Nest 2
+Cond 95
+Wear -1
+Cost 5800
+End
+
+#O
+Vnum 13217
+Nest 2
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 10773
+Nest 2
+Cond 99
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 15015
+Nest 2
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10868
+Nest 2
+Cond 96
+Wear -1
+Cost 1600
+Val  0 0 2859 0 0
+End
+
+#O
+Vnum 9027
+Nest 2
+Cond 98
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 4880
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10869
+Nest 2
+Cond 53
+Wear -1
+Cost 470
+End
+
+#O
+Vnum 2422
+Nest 2
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20445
+Nest 2
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 26044
+Nest 2
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 7620
+Nest 2
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 10773
+Nest 2
+Cond 99
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10828
+Nest 2
+ExtF 786432
+Wear -1
+Cost 5810
+End
+
+#O
+Vnum 3828
+Nest 2
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3830
+Nest 2
+Wear -1
+Cost 3400
+End
+
+#O
+Vnum 3082
+Nest 2
+Wear -1
+Cost 10000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 4426
+Nest 2
+Cond 99
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10660
+Nest 2
+Cond 76
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13312
+Nest 2
+Wear -1
+Cost 2401
+End
+
+#O
+Vnum 30607
+Nest 2
+Wear -1
+Cost 2820
+End
+
+#O
+Vnum 30607
+Nest 2
+Wear -1
+Cost 2820
+End
+
+#O
+Vnum 11235
+Nest 2
+ExtF 16777218
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 15048
+Nest 2
+Cond 98
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 15074
+Nest 2
+Cond 99
+Wear -1
+Cost 5400
+End
+
+#O
+Vnum 18052
+Nest 2
+ExtF 262209
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20453
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 1228
+Nest 2
+Wear -1
+Cost 3463
+End
+
+#O
+Vnum 11021
+Nest 2
+Cond 96
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 20239
+Nest 2
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 29530
+Nest 2
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 7621
+Nest 2
+Cond 99
+Wear -1
+Cost 6800
+End
+
+#O
+Vnum 4684
+Nest 2
+Wear -1
+Cost 9812
+End
+
+#O
+Vnum 8052
+Nest 2
+Wear -1
+Cost 10000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 10797
+Nest 2
+ExtF 51904576
+Wear -1
+Cost 12300
+End
+
+#O
+Vnum 10674
+Nest 2
+Wear -1
+Cost 55
+End
+
+#O
+Vnum 10615
+Nest 2
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 4869
+Nest 2
+Cond 89
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 13876
+Nest 2
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 13876
+Nest 2
+Wear -1
+Cost 4510
+End
+
+#O
+Vnum 678
+Nest 2
+ExtF 16777280
+Cond 16
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12115
+Nest 2
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9035
+Nest 2
+Cond 99
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 2922
+Nest 2
+Wear -1
+Cost 8350
+End
+
+#O
+Vnum 20224
+Nest 2
+Wear -1
+Cost 7800
+End
+
+#O
+Vnum 20221
+Nest 2
+Cond 91
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 10790
+Nest 2
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 20463
+Nest 2
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10828
+Nest 2
+ExtF 786432
+Wear -1
+Cost 5810
+End
+
+#O
+Vnum 10797
+Nest 2
+ExtF 51904576
+Wear -1
+Cost 12300
+End
+
+#END

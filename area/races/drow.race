@@ -1,0 +1,40 @@
+Filename  drow.race~
+Name      drow~
+MName     дроу~
+FName     дроу~
+PC        true
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    magic 40
+Resist    light -25
+Resist    poison 40
+Resist    sound -25
+Resist    mental 40
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear eye~
+WName     Дроу~
+Points    10
+Skills    'sneak' 'hide' 'meditation' '' ''~
+
+*         Str Int Wis Dex Con
+Stats     15  17  16  15  11 
+MStats    19  22  19  20  15 
+ClassMult маг             100
+ClassMult жрец            110
+ClassMult вор             140
+ClassMult воин            160
+ClassMult некромант       110
+ClassMult паладин         0
+ClassMult назгул          100
+ClassMult друид           110
+ClassMult егерь           100
+ClassMult вампир          0
+ClassMult алхимик         100
+ClassMult оборотень       0
+Size      small
+Recall    8400
+Map       8551
+Align     evil neutral~
+End
+* charset=cp1251

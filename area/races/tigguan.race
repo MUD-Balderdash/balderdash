@@ -1,0 +1,41 @@
+Filename  tigguan.race~
+Name      tigguan~
+MName     тиггуан~
+FName     тиггуана~
+PC        true
+Act       warrior~
+Aff       ~
+Off       ~
+Resist    fire -25
+Resist    holy 25
+Resist    magic 33
+Resist    pierce 50
+Resist    negative -25
+Resist    drowning -50
+Form      edible sentient biped mammal~
+Parts     head arms legs heart skin brains guts hands feet fingers ear tail eye~
+WName     Тиггуан~
+Points    8
+Skills    'hide' 'sneak' 'concentrate' 'tail' ''~
+
+*         Str Int Wis Dex Con
+Stats     12  15  18  18  11 
+MStats    16  18  21  23  17 
+ClassMult маг             150
+ClassMult жрец            150
+ClassMult вор             100
+ClassMult воин            100
+ClassMult некромант       0
+ClassMult паладин         100
+ClassMult назгул          0
+ClassMult друид           150
+ClassMult егерь           150
+ClassMult вампир          0
+ClassMult алхимик         150
+ClassMult оборотень       0
+Size      medium
+Recall    10300
+Map       10306
+Align     good neutral~
+End
+* charset=cp1251

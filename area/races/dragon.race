@@ -1,0 +1,17 @@
+Filename  dragon.race~
+Name      dragon~
+MName     дракон~
+FName     драконица~
+PC        false
+Act       ~
+Aff       infrared flying~
+Off       ~
+Resist    charm 50
+Resist    bash 50
+Resist    fire 66
+Resist    pierce -40
+Resist    cold -30
+Form      edible sentient dragon~
+Parts     head legs heart brains guts hands feet fingers ear eye wings tail claws fangs scales skin~
+End
+* charset=cp1251

@@ -1,0 +1,16 @@
+Filename  demon.race~
+Name      demon~
+MName     демон~
+FName     демоница~
+PC        false
+Act       warrior~
+Aff       infrared flying dark_vision fire_shield~
+Off       ~
+Resist    charm 100
+Resist    bash 50
+Resist    fire 66
+Resist    holy -50
+Form      edible sentient biped cold_blood~
+Parts     head legs heart brains guts hands feet fingers ear eye wings tail claws fangs scales skin~
+End
+* charset=cp1251

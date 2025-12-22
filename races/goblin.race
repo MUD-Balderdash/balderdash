@@ -1,0 +1,14 @@
+Filename  goblin.race~
+Name      goblin~
+MName     гоблин~
+FName     гоблинка~
+PC        false
+Act       ~
+Aff       infrared~
+Off       ~
+Resist    disease 50
+Resist    magic -50
+Form      edible sentient biped mammal~
+Parts     head arms legs heart brains guts hands feet fingers ear eye skin~
+End
+* charset=cp1251

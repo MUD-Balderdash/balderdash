@@ -1,0 +1,12 @@
+Filename  humanoid.race~
+Name      humanoid~
+MName     гуманоид~
+FName     гуманоид~
+PC        false
+Act       ~
+Aff       ~
+Off       ~
+Form      edible sentient biped mammal~
+Parts     head arms legs heart brains guts hands feet fingers ear eye skin~
+End
+* charset=cp1251

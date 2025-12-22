@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -g  -rdynamic CMakeFiles/rom.dir/comm.c.o  -o rom 
