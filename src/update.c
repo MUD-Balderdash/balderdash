@@ -34,6 +34,8 @@
 #include "music.h"
 #include "recycle.h"
 
+AUCTION_DATA auctions[MAX_AUCTION];
+struct moon_type* moons_data;
 
 void bust_a_prompt(CHAR_DATA *ch);
 
@@ -41,6 +43,7 @@ bool check_obj_sex(CHAR_DATA *ch, OBJ_DATA *obj);
 bool is_uncomf(CHAR_DATA *ch, OBJ_DATA *obj);
 float check_material(OBJ_DATA *obj, int16_t dt);
 bool can_cleave(CHAR_DATA *ch, CHAR_DATA *victim);
+void restore(CHAR_DATA *ch, CHAR_DATA *victim);
 
 /*
  * Local functions.

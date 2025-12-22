@@ -618,20 +618,20 @@ struct race_incompatible
 };
 
 #define MAX_DREAMS    200
-char *dream_table[MAX_DREAMS];
+extern char *dream_table[MAX_DREAMS];
 
 #define MAX_QUOTES    200
-char *quote_table[MAX_QUOTES];
+extern char *quote_table[MAX_QUOTES];
 
 #define MAX_STOP_WORDS    100
-char *stoplist[MAX_STOP_WORDS];
+extern char *stoplist[MAX_STOP_WORDS];
 
 #define MAX_BAD_NAMES    1000
-char *badnames[MAX_BAD_NAMES];
+extern char *badnames[MAX_BAD_NAMES];
 
 #define MAX_WHOIS_ENTRIES	200
-char *whiteip[MAX_WHOIS_ENTRIES];
-char *whitedomains[MAX_WHOIS_ENTRIES];
+extern char *whiteip[MAX_WHOIS_ENTRIES];
+extern char *whitedomains[MAX_WHOIS_ENTRIES];
 
 /*
  * Religion stuff
@@ -692,7 +692,7 @@ struct auction_data
     bool	valid;
 };
 #define MAX_AUCTION  5
-AUCTION_DATA auctions[MAX_AUCTION];
+extern AUCTION_DATA auctions[MAX_AUCTION];
 
 /*
  * Time and weather stuff.
@@ -749,7 +749,7 @@ struct moon_type
     char color;
 };
 
-struct moon_type *moons_data;
+extern struct moon_type *moons_data;
 
 /*
  * Connected state for a channel.
@@ -3492,7 +3492,7 @@ struct clan_type
     int    rating;
 };
 
-struct clan_type  clan_table[MAX_CLAN];
+extern struct clan_type  clan_table[MAX_CLAN];
 
 extern bool clan_war_enabled;
 
@@ -4812,7 +4812,7 @@ struct chat_keys
 char *dochat(CHAR_DATA *ch, char *msg, CHAR_DATA *victim);
 CHAT_KEYS *get_chat_index(int vnum);
 
-CHAT_KEYS  *chatkeys_list;
+extern CHAT_KEYS  *chatkeys_list;
 
 
 #if defined (NO_STRL_FUNCS)
@@ -4827,7 +4827,7 @@ struct damres_t
     int64_t res;
 };
 
-const struct damres_t damres[DAM_MAX];
+extern const struct damres_t damres[DAM_MAX];
 
 #define bugf(fmt, args...)	bugf_internal("%s:%d:%s():: " fmt, __FILE__, __LINE__, __FUNCTION__ , ## args)
 

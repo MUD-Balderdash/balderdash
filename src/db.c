@@ -89,8 +89,6 @@ HELP_AREA *		had_list;
 SHOP_DATA *		shop_first;
 SHOP_DATA *		shop_last;
 
-NOTE_DATA *		note_free;
-
 PROG_CODE *		mprog_list;
 PROG_CODE *             oprog_list;
 PROG_CODE *             rprog_list;
@@ -102,12 +100,19 @@ ROOM_INDEX_DATA *	room_list;
 char *			help_greeting = NULL;
 
 KILL_DATA		kill_table	[MAX_LEVEL];
-NOTE_DATA *		note_list;
 OBJ_DATA *		object_list;
 TIME_INFO_DATA		time_info;
 WEATHER_DATA		weather_info;
 EXCEPT_DATA		*exceptions;
 int			limits[MAX_LIMITS];
+
+char *dream_table[MAX_DREAMS];
+char *quote_table[MAX_QUOTES];
+char *stoplist[MAX_STOP_WORDS];
+char *badnames[MAX_BAD_NAMES];
+char *whiteip[MAX_WHOIS_ENTRIES];
+char *whitedomains[MAX_WHOIS_ENTRIES];
+
 
 /*
  * Locals.
