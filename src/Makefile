@@ -55,14 +55,14 @@ clean:
 	rm -f $(O_FILES)
 
 devel: devel_rom
-	rm -f /home/mud/mud/devel/area/rom
-	install -m 0755 rom /home/mud/mud/devel/area
+	rm -f /app/devel/area/rom
+	install -m 0755 rom /app/devel/area
 
 install: rom
-	rm -f /home/mud/mud/bin/rom.last
-	cp -f /home/mud/mud/area/rom /home/mud/mud/bin/rom.last
-	rm -f /home/mud/mud/area/rom
-	install -m 0755 rom /home/mud/mud/area
+	rm -f /app/bin/rom.last
+	cp -f /app/area/rom /app/bin/rom.last
+	rm -f /app/area/rom
+	install -m 0755 rom /app/area
 
 ctags:
 	ctags -dtw $(O_FILES:.o=.c) *.h
