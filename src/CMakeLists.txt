@@ -3,6 +3,7 @@ project(balderdash)
 
 find_library(DL_LIB dl REQUIRED)
 find_package(ZLIB REQUIRED)
+find_package(Iconv REQUIRED)
 
 set(WITH_MYSQL NO CACHE STRING "Build with mysql support, default OFF")
 
@@ -14,7 +15,7 @@ else()
     add_definitions(-DNO_MYSQL)
 endif()
 
-
+include_directories(${ZLIB_iINCLUDE_DIRS} ${Iconv_INCLUDE_DIRS})
 add_definitions(-D_GNU_SOURCE -fPIC)
 set(SRCS
     act_comm.c act_info.c act_move.c act_obj.c act_wiz.c
@@ -29,4 +30,4 @@ set(SRCS
     olc_classes.c olc_groups.c query.c)
 
 add_executable(rom ${SRCS})
-target_link_libraries(rom m ${DL_LIB} ${ZLIB_LIBRARIES} ${mysqlclient_LIBRARIES} -export-dynamic)
+target_link_libraries(rom m ${DL_LIB} ${ZLIB_LIBRARIES} ${mysqlclient_LIBRARIES} ${Iconv_LIBRARIES} -export-dynamic)

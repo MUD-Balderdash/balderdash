@@ -3827,6 +3827,7 @@ ROM2.4(c)1993-1998 Russ Taylor \__/\__/   \__/\___________/    |##|
                                                                |##|             
      [1] - Win1251        [2] - KOI8      [3] - Alt(CP866)     |##|             
      [4] - Win1251(IAC)   [5] - Mac       [6] - Translit       |##|             
+     [7] - UTF8 (recommended)                                  |##|
                                                                \##/             
 Select your codepage: [1]                                       \/              
 ~

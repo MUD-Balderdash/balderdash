@@ -3810,12 +3810,13 @@ void page_to_char(const char *txt, CHAR_DATA *ch);
 void act_new(const char *format, CHAR_DATA *ch, void *arg1, void *arg2, int type, int min_pos);
 void tagline_to_char(const char *text, CHAR_DATA *ch, CHAR_DATA *looker);
 
-#define  CODEPAGE_WIN  1
-#define  CODEPAGE_KOI  2
-#define  CODEPAGE_ALT  3
+#define  CODEPAGE_WIN   1
+#define  CODEPAGE_KOI   2
+#define  CODEPAGE_ALT   3
 #define CODEPAGE_WINIAC 4
 #define CODEPAGE_MAC    5
 #define CODEPAGE_TRANS  6
+#define CODEPAGE_UTF8   7
 
 #define RECODE_INPUT    1
 #define RECODE_OUTPUT    2
