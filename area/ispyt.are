@@ -25,10 +25,10 @@ ABDGYa DEFHi -33 0 0
 -11 -11 -11 -11
 0 stand stand male 0
 AHMV ABCDEFGHIJKZ tiny unknown
-M SPEECH 17943 ^готово$~
-M SPEECH 17945 ^нет$~
-M SPEECH 17944 ^да$~
 M GREET 17942 100~
+M SPEECH 17944 ^да$~
+M SPEECH 17945 ^нет$~
+M SPEECH 17943 ^готово$~
 Z Шаград at Mon Nov  7 12:43:25 2005~
 #17942
 одержимый obsessed~
@@ -64,10 +64,10 @@ ABDGYa DFHi -35 0 0
 -11 -11 -11 -11
 0 stand stand male 0
 AHMV ABCDEFGHIJKZ medium unknown
-M SPEECH 17949 ^да$~
-M SPEECH 17950 ^нет$~
-M SPEECH 17948 ^готово$~
 M GREET 17946 100~
+M SPEECH 17948 ^готово$~
+M SPEECH 17950 ^нет$~
+M SPEECH 17949 ^да$~
 Z Шаград at Mon Nov  7 12:44:29 2005~
 #17944
 грязный человек dirty man~
@@ -99,8 +99,8 @@ ABQRSTf Z -40 -1000 0
 -13 -13 -13 -13
 FH stand stand male 0
 AGV ACDEFJKQVZ medium unknown
-M RANDOM 17979 100~
 M DEATH 17983 100~
+M RANDOM 17979 100~
 A inside ~
 Z BaldEd~
 #17946
@@ -117,10 +117,10 @@ ABDGYa DFH -37 0 0
 -12 -12 -12 -12
 0 stand stand male 0
 AHMV ABCDEFGHIJKZ medium unknown
-M SPEECH 17953 ^готово$~
-M SPEECH 17954 ^да$~
-M SPEECH 17955 ^нет$~
 M GREET 17951 100~
+M SPEECH 17955 ^нет$~
+M SPEECH 17954 ^да$~
+M SPEECH 17953 ^готово$~
 A inside city ~
 Z Шаград at Mon Nov  7 12:58:45 2005~
 #17947
@@ -159,8 +159,8 @@ P light -200
 P wood -100
 P silver -100
 P weapon 80
-M RANDOM 17980 100~
 M DEATH 17984 100~
+M RANDOM 17980 100~
 A inside city air ~
 Z Шаград at Tue Nov 15 15:51:35 2005~
 #17949
@@ -177,10 +177,10 @@ ABDGYa DFH -40 0 0
 -13 -13 -13 -13
 0 stand stand male 0
 AHMV ABCDEFGHIJKZ medium unknown
-M SPEECH 17961 ^нет$~
-M SPEECH 17959 ^готово$~
-M SPEECH 17960 ^да$~
 M GREET 17957 100~
+M SPEECH 17960 ^да$~
+M SPEECH 17959 ^готово$~
+M SPEECH 17961 ^нет$~
 A inside city ~
 Z Шаград at Mon Nov  7 12:45:12 2005~
 #17950
@@ -236,9 +236,9 @@ P bash -50
 P pierce 25
 P cold 20
 P poison 100
-M FIGHT 17962 30~
-M RANDOM 17981 100~
 M DEATH 17985 100~
+M RANDOM 17981 100~
+M FIGHT 17962 30~
 A inside city ~
 Z Рыкгаш at Tue Dec 12 15:01:08 2006~
 #17953
@@ -255,10 +255,10 @@ ABDGYa DFH -45 0 0
 -15 -15 -15 -15
 0 stand stand male 0
 AHMV ABCDEFGHIJKZ tiny unknown
-M SPEECH 17966 ^готово$~
-M SPEECH 17967 ^да$~
-M SPEECH 17968 ^нет$~
 M GRALL 17965 100~
+M SPEECH 17968 ^нет$~
+M SPEECH 17967 ^да$~
+M SPEECH 17966 ^готово$~
 A inside city ~
 Z Шаград at Mon Nov  7 12:45:55 2005~
 #17954
@@ -277,9 +277,9 @@ AGMW ACDEFKPU small unknown
 F par H
 P pierce 20
 P slash 20
-M FIGHT 17964 100~
-M GRALL 17963 100~
 M DEATH 17986 100~
+M GRALL 17963 100~
+M FIGHT 17964 100~
 A inside city forest air ~
 Z Рыкгаш at Tue Nov  7 09:44:28 2006~
 #17955
@@ -297,9 +297,9 @@ ADFHKM stand stand male 0
 AGMW ACDEFHKP small unknown
 P pierce 20
 P slash 20
-M FIGHT 17964 100~
-M GRALL 17963 100~
 M DEATH 17986 100~
+M GRALL 17963 100~
+M FIGHT 17964 100~
 A inside city forest ~
 Z Рыкгаш at Tue Nov  7 09:44:03 2006~
 #17956
@@ -317,9 +317,9 @@ ADFHKM stand stand male 0
 AGMW ACDEFHKP small unknown
 P pierce 20
 P slash 20
-M FIGHT 17964 100~
-M GRALL 17963 100~
 M DEATH 17986 100~
+M GRALL 17963 100~
+M FIGHT 17964 100~
 A forest ~
 Z Рыкгаш at Sat Feb  3 00:00:15 2007~
 #17957
@@ -337,9 +337,9 @@ ADFHKM stand stand male 0
 AGMW ACDEFHKPU small unknown
 P pierce 20
 P slash 20
-M FIGHT 17964 100~
-M GRALL 17963 100~
 M DEATH 17986 100~
+M GRALL 17963 100~
+M FIGHT 17964 100~
 A inside city forest ~
 Z Рыкгаш at Tue Nov  7 09:44:42 2006~
 #17958
@@ -356,10 +356,10 @@ ABDGYa DFH -47 0 0
 -17 -17 -17 -17
 0 stand stand male 0
 AHMV ABCDEFGHIJKZ medium unknown
-M SPEECH 17972 ^нет$~
-M SPEECH 17971 ^да$~
-M SPEECH 17970 ^готово$~
 M GRALL 17969 100~
+M SPEECH 17970 ^готово$~
+M SPEECH 17971 ^да$~
+M SPEECH 17972 ^нет$~
 A inside city ~
 Z Шаград at Mon Nov  7 12:46:31 2005~
 #17959
@@ -379,9 +379,9 @@ AFHK stand stand male 0
 AHMV ABCDEFGHIJKZ medium unknown
 P magic 33
 P weapon 33
-M DEATH 17976 100~
-M RANDOM 17982 30~
 M FIGHT 17973 100~
+M RANDOM 17982 30~
+M DEATH 17976 100~
 A inside city ~
 Z Лин at Thu Jun 21 16:31:17 2012~
 #17960
@@ -399,8 +399,8 @@ ABDGYa DFHc -51 0 0
 -21 -21 -21 -21
 0 stand stand male 0
 AHMV ABCDEFGHIJKZ medium unknown
-M SPEECH 17978 ^готово$~
 M GREET 17977 100~
+M SPEECH 17978 ^готово$~
 A inside city ~
 Z Шаград at Fri Dec 23 13:02:54 2005~
 #17961
@@ -411,7 +411,7 @@ Z Шаград at Fri Dec 23 13:02:54 2005~
 Большой комок древней энергии. Из этой праэнергии был сотворен весь мир. 
 ~
 unique~
-ABGQRSTY CDEFGHJLNOTUVcfks -110 0 0
+ABGQRSTY CDEFGHJLNOTUVcfks -100 0 0
 60 270 50d10+32000 1d1+9000 1d200+300 sound
 -30 -30 -30 -30
 ACFK stand stand none 0
@@ -426,10 +426,10 @@ P light 30
 P wood -20
 P silver 30
 P iron 15
-M DEATH 17975 100~
 M FIGHT 17974 100~
+M DEATH 17975 100~
 A inside city air ~
-Z Бруль at Mon Nov  5 15:18:08 2018~
+Z Джейкоб at Fri Jan 16 15:28:15 2026~
 #17962
 сакер saker~
 Сакер~
@@ -460,17 +460,17 @@ armor GSTY AI
 35 80 10000 100
 0 0
 A
-19 4
-A
-19 4
-A
-2 1
-A
-5 1
+13 30
 A
 12 30
 A
-13 30
+5 1
+A
+2 1
+A
+19 4
+A
+19 4
 Z Лин at Fri Jun 22 03:35:10 2012~
 E
 наручи~
@@ -657,15 +657,15 @@ armor 0 AG
 40 10 100 100
 0 0
 A
-13 40
-A
-19 4
-A
-18 4
+5 1
 F
 A 0 0 T
 A
-5 1
+18 4
+A
+19 4
+A
+13 40
 Z Лин at Thu Jun 21 16:35:23 2012~
 E
 ботинки~
@@ -853,9 +853,9 @@ E
                                    MM::::MM
                                     MM::MM
 ~
-O GIVE 17953 100~
-O GET 17953 100~
 O DROP 17953 100~
+O GET 17953 100~
+O GIVE 17953 100~
 #17963
 часть руны~
 первая часть руны~
@@ -920,18 +920,18 @@ armor GY AF
 10 10 10 10 0
 40 10 200 100
 0 0
+F
+A 0 0 V
 A
-18 4
-A
-19 4
-A
-14 100
+2 1
 A
 13 40
 A
-2 1
-F
-A 0 0 V
+14 100
+A
+19 4
+A
+18 4
 Z Билдер at Sat Apr 29 22:57:49 2017~
 E
 поножи~
@@ -1002,30 +1002,30 @@ light GY A
 0 0 999 0 0
 51 19 10000 100
 0 0
-F
-A 0 0 C
-F
-A 0 0 D
-F
-A 0 0 E
-F
-A 0 0 G
-F
-A 0 0 e
 A
-4 1
+13 50
+A
+12 60
+F
+R 0 3 ADE
+F
+R 0 3 ABCE
+A
+20 -10
 A
 3 1
 A
-20 -10
+4 1
 F
-R 0 3 ABCE
+A 0 0 e
 F
-R 0 3 ADE
-A
-12 60
-A
-13 50
+A 0 0 G
+F
+A 0 0 E
+F
+A 0 0 D
+F
+A 0 0 C
 Z Бруль at Sat Sep 29 22:44:00 2018~
 * резист~
 E
@@ -1043,17 +1043,17 @@ clothing GY AK
 45 20 10000 100
 0 HIN
 A
-13 60
-A
-3 1
-F
-R 0 3 ABCE
-F
-R 0 3 ADE
+12 70
 A
 20 -10
+F
+R 0 3 ADE
+F
+R 0 3 ABCE
 A
-12 70
+3 1
+A
+13 60
 Z Лин at Thu Jun 21 16:40:28 2012~
 E
 накидка~
@@ -1067,18 +1067,18 @@ armor GY AK
 20 20 20 20 0
 45 20 10000 100
 0 FGJM
+F
+R 0 5 ABCE
+F
+R 0 5 ADE
 A
-20 -10
-A
-18 6
+13 60
 A
 19 6
 A
-13 60
-F
-R 0 5 ADE
-F
-R 0 5 ABCE
+18 6
+A
+20 -10
 Z Билдер at Fri Sep 30 21:34:05 2016~
 * Масса и -мана~
 E
@@ -1169,8 +1169,8 @@ trash 0 0
 1 10 1 100
 0 0
 Z BaldEd~
-O SPEECH 17958 пиво~
 O NEW_CMD 17952 нарвать~
+O SPEECH 17958 пиво~
 #17987
 букет цветов~
 {gбукет {Gп{gо{Gл{gе{Gв{gы{Gх{g цветов{x~
@@ -1182,10 +1182,10 @@ trash 0 AO
 0 0
 Z BaldEd~
 E
-цвет~
+букет~
 Очень красивый букет из разнообразных полевых цветов. Запахи васильков, ромашек и других цветов, сочетаясь, создают божественный аромат.~
 E
-букет~
+цвет~
 Очень красивый букет из разнообразных полевых цветов. Запахи васильков, ромашек и других цветов, сочетаясь, создают божественный аромат.~
 #17988
 древний доспех~
@@ -1197,36 +1197,36 @@ armor Yu AD
 51 115 10000 100
 0 0
 A
-12 60
-A
-13 60
-F
-R 0 5 ABCE
-F
-R 0 5 ADE
-A
-19 10
-A
-18 10
-A
-20 -10
-A
-5 1
-A
-4 1
-A
-3 1
+1 1
 A
 2 1
 A
-1 1
+3 1
+A
+4 1
+A
+5 1
+A
+20 -10
+A
+18 10
+A
+19 10
+F
+R 0 5 ADE
+F
+R 0 5 ABCE
+A
+13 60
+A
+12 60
 Z Лин at Thu Jun 21 15:04:05 2012~
 * вес~
 E
-древний~
+доспех~
 Этот жилет сделан из энергии по древней, уже забытой почти всеми, технологии.~
 E
-доспех~
+древний~
 Этот жилет сделан из энергии по древней, уже забытой почти всеми, технологии.~
 O WEAR 17955 100~
 #17989
@@ -1280,15 +1280,15 @@ Z Шаград at Tue Nov 15 15:10:54 2005~
 ~
 0 1056 2
 E
-мерцание~
-Заглянув в мерцание, ты видишь надпись: Хочешь выпить пива для храбрости? 
-~
-E
 табличка~
 [#level > 51: Добро пожаловать, Бессмертный! ] [#level < 52: Войти проще
 простого. Сможешь ли ты выйти, смертный?
 {RИ помни - Испытание ты должен пройти сам. Один! Любая помощь со стороны наказуема!{x
 ]
+~
+E
+мерцание~
+Заглянув в мерцание, ты видишь надпись: Хочешь выпить пива для храбрости? 
 ~
 D2
 ~
@@ -1326,14 +1326,14 @@ D3
 1 0 17945
 M 100 H 110
 Z Шаград at Wed May 16 23:33:40 2007~
-R SPEECH 17949 выход~
-R RANDOM 17948 30~
-R SPEECH 17947 7~
-R SPEECH 17946 6~
-R SPEECH 17945 5~
-R SPEECH 17944 4~
-R SPEECH 17943 3~
 R SPEECH 17942 2~
+R SPEECH 17943 3~
+R SPEECH 17944 4~
+R SPEECH 17945 5~
+R SPEECH 17946 6~
+R SPEECH 17947 7~
+R RANDOM 17948 30~
+R SPEECH 17949 выход~
 S
 #17943
 Клетка с одержимым~
@@ -1350,8 +1350,8 @@ D3
 дверь~
 1 0 17942
 Z Шаград at Wed May 16 23:31:21 2007~
-R COMMAND 17950 убежать~
 R COMMAND 17950 бежать~
+R COMMAND 17950 убежать~
 S
 #17944
 Клетка с одержимым~
@@ -1368,8 +1368,8 @@ D0
 дверь~
 1 0 17942
 Z Шаград at Wed May 16 23:31:28 2007~
-R COMMAND 17950 убежать~
 R COMMAND 17950 бежать~
+R COMMAND 17950 убежать~
 S
 #17945
 Клетка с одержимым~
@@ -1386,8 +1386,8 @@ D1
 Дверь~
 1 0 17942
 Z Шаград at Wed May 16 23:31:04 2007~
-R COMMAND 17950 убежать~
 R COMMAND 17950 бежать~
+R COMMAND 17950 убежать~
 S
 #17946
 Клетка с одержимым~
@@ -1404,8 +1404,8 @@ D2
 дверь~
 1 0 17942
 Z Шаград at Wed May 16 23:31:14 2007~
-R COMMAND 17950 убежать~
 R COMMAND 17950 бежать~
+R COMMAND 17950 убежать~
 S
 #17947
 Второй круг Испытания~
@@ -1432,13 +1432,13 @@ D3
 1 0 17951
 M 100 H 120
 Z Шаград at Wed May 16 23:34:24 2007~
-R SPEECH 17949 выход~
-R SPEECH 17947 7~
-R SPEECH 17946 6~
-R SPEECH 17945 5~
-R SPEECH 17944 4~
-R SPEECH 17943 3~
 R SPEECH 17941 1~
+R SPEECH 17943 3~
+R SPEECH 17944 4~
+R SPEECH 17945 5~
+R SPEECH 17946 6~
+R SPEECH 17947 7~
+R SPEECH 17949 выход~
 S
 #17948
 Комната с клеткой~
@@ -1451,8 +1451,8 @@ D2
 дверь~
 1 0 17947
 Z Шаград at Wed May 16 23:31:56 2007~
-R COMMAND 17951 убежать~
 R COMMAND 17951 бежать~
+R COMMAND 17951 убежать~
 S
 #17949
 Комната с клеткой~
@@ -1465,8 +1465,8 @@ D3
 дверь~
 1 0 17947
 Z Шаград at Wed May 16 23:31:58 2007~
-R COMMAND 17951 убежать~
 R COMMAND 17951 бежать~
+R COMMAND 17951 убежать~
 S
 #17950
 Комната с клеткой~
@@ -1479,8 +1479,8 @@ D0
 дверь~
 1 0 17947
 Z Шаград at Wed May 16 23:31:59 2007~
-R COMMAND 17951 убежать~
 R COMMAND 17951 бежать~
+R COMMAND 17951 убежать~
 S
 #17951
 Комната с клеткой~
@@ -1493,8 +1493,8 @@ D1
 дверь~
 1 0 17947
 Z Шаград at Wed May 16 23:31:54 2007~
-R COMMAND 17951 убежать~
 R COMMAND 17951 бежать~
+R COMMAND 17951 убежать~
 S
 #17952
 Третий круг Испытания~
@@ -1521,13 +1521,13 @@ D3
 1 0 17956
 M 110 H 110
 Z Шаград at Thu Oct  5 13:31:18 2006~
-R SPEECH 17949 выход~
-R SPEECH 17947 7~
-R SPEECH 17946 6~
-R SPEECH 17945 5~
-R SPEECH 17944 4~
-R SPEECH 17942 2~
 R SPEECH 17941 1~
+R SPEECH 17942 2~
+R SPEECH 17944 4~
+R SPEECH 17945 5~
+R SPEECH 17946 6~
+R SPEECH 17947 7~
+R SPEECH 17949 выход~
 S
 #17953
 Зал~
@@ -1544,8 +1544,8 @@ D2
 дверь~
 1 0 17952
 Z BaldEd~
-R COMMAND 17952 убежать~
 R COMMAND 17952 бежать~
+R COMMAND 17952 убежать~
 S
 #17954
 Зал~
@@ -1562,8 +1562,8 @@ D3
 дверь~
 1 0 17952
 Z BaldEd~
-R COMMAND 17952 убежать~
 R COMMAND 17952 бежать~
+R COMMAND 17952 убежать~
 S
 #17955
 Зал~
@@ -1580,8 +1580,8 @@ D0
 дверь~
 1 0 17952
 Z BaldEd~
-R COMMAND 17952 убежать~
 R COMMAND 17952 бежать~
+R COMMAND 17952 убежать~
 S
 #17956
 Зал~
@@ -1594,8 +1594,8 @@ D1
 дверь~
 1 0 17952
 Z BaldEd~
-R COMMAND 17952 убежать~
 R COMMAND 17952 бежать~
+R COMMAND 17952 убежать~
 S
 #17957
 Четвертый круг Испытания~
@@ -1622,13 +1622,13 @@ D3
 1 0 17961
 M 120 H 120
 Z Шаград at Thu Oct  5 13:31:08 2006~
-R SPEECH 17949 выход~
-R SPEECH 17947 7~
-R SPEECH 17946 6~
-R SPEECH 17945 5~
-R SPEECH 17943 3~
-R SPEECH 17942 2~
 R SPEECH 17941 1~
+R SPEECH 17942 2~
+R SPEECH 17943 3~
+R SPEECH 17945 5~
+R SPEECH 17946 6~
+R SPEECH 17947 7~
+R SPEECH 17949 выход~
 S
 #17958
 Мрачная комната~
@@ -1646,8 +1646,8 @@ D2
 дверь~
 1 0 17957
 Z BaldEd~
-R COMMAND 17953 убежать~
 R COMMAND 17953 бежать~
+R COMMAND 17953 убежать~
 S
 #17959
 Мрачная комната~
@@ -1661,8 +1661,8 @@ D3
 дверь~
 1 0 17957
 Z BaldEd~
-R COMMAND 17953 убежать~
 R COMMAND 17953 бежать~
+R COMMAND 17953 убежать~
 S
 #17960
 Мрачная комната~
@@ -1676,8 +1676,8 @@ D0
 дверь~
 1 0 17957
 Z BaldEd~
-R COMMAND 17953 убежать~
 R COMMAND 17953 бежать~
+R COMMAND 17953 убежать~
 S
 #17961
 Мрачная комната~
@@ -1691,8 +1691,8 @@ D1
 дверь~
 1 0 17957
 Z BaldEd~
-R COMMAND 17953 убежать~
 R COMMAND 17953 бежать~
+R COMMAND 17953 убежать~
 S
 #17962
 Пятый круг Испытания~
@@ -1718,13 +1718,13 @@ D3
 1 0 17966
 M 130 H 130
 Z Шаград at Thu Oct  5 13:30:27 2006~
-R SPEECH 17949 выход~
-R SPEECH 17941 1~
-R SPEECH 17942 2~
-R SPEECH 17943 3~
-R SPEECH 17944 4~
-R SPEECH 17947 7~
 R SPEECH 17946 6~
+R SPEECH 17947 7~
+R SPEECH 17944 4~
+R SPEECH 17943 3~
+R SPEECH 17942 2~
+R SPEECH 17941 1~
+R SPEECH 17949 выход~
 S
 #17963
 Вольер с соловьем~
@@ -1739,10 +1739,10 @@ D2
 дверь~
 1 0 17962
 Z Шаград at Tue Nov 15 13:31:56 2005~
-R COMMAND 17954 убежать~
-R COMMAND 17954 бежать~
-R DEATH 17957 100~
 R QUIT 17957 100~
+R DEATH 17957 100~
+R COMMAND 17954 бежать~
+R COMMAND 17954 убежать~
 S
 #17964
 Вольер с кенаром~
@@ -1756,10 +1756,10 @@ D3
 дверь~
 1 0 17962
 Z Шаград at Tue Nov 15 13:32:00 2005~
-R COMMAND 17954 убежать~
-R COMMAND 17954 бежать~
-R QUIT 17957 100~
 R DEATH 17957 100~
+R QUIT 17957 100~
+R COMMAND 17954 бежать~
+R COMMAND 17954 убежать~
 S
 #17965
 Вольер с корольком~
@@ -1774,10 +1774,10 @@ D0
 дверь~
 1 0 17962
 Z Шаград at Tue Nov 15 13:32:03 2005~
-R COMMAND 17954 убежать~
-R COMMAND 17954 бежать~
-R DEATH 17957 100~
 R QUIT 17957 100~
+R DEATH 17957 100~
+R COMMAND 17954 бежать~
+R COMMAND 17954 убежать~
 S
 #17966
 Вольер с жаворонком~
@@ -1791,10 +1791,10 @@ D1
 дверь~
 1 0 17962
 Z Шаград at Tue Nov 15 13:32:07 2005~
-R COMMAND 17954 убежать~
-R COMMAND 17954 бежать~
-R QUIT 17957 100~
 R DEATH 17957 100~
+R QUIT 17957 100~
+R COMMAND 17954 бежать~
+R COMMAND 17954 убежать~
 S
 #17967
 Шестой круг Испытания~
@@ -1820,13 +1820,13 @@ D3
 1 0 17971
 M 120 H 120
 Z Шаград at Wed Nov 15 16:54:11 2006~
-R SPEECH 17949 выход~
-R SPEECH 17947 7~
-R SPEECH 17945 5~
-R SPEECH 17944 4~
-R SPEECH 17943 3~
-R SPEECH 17942 2~
 R SPEECH 17941 1~
+R SPEECH 17942 2~
+R SPEECH 17943 3~
+R SPEECH 17944 4~
+R SPEECH 17945 5~
+R SPEECH 17947 7~
+R SPEECH 17949 выход~
 S
 #17968
 Келья~
@@ -1840,10 +1840,10 @@ D2
 1 0 17967
 M 150 H 20
 Z Шаград at Wed Nov 15 14:17:32 2006~
-R COMMAND 17955 убежать~
-R COMMAND 17955 бежать~
-R DEATH 17957 100~
 R QUIT 17957 100~
+R DEATH 17957 100~
+R COMMAND 17955 бежать~
+R COMMAND 17955 убежать~
 S
 #17969
 Келья~
@@ -1857,10 +1857,10 @@ D3
 1 0 17967
 M 150 H 20
 Z Шаград at Wed Nov 15 14:17:39 2006~
-R COMMAND 17955 убежать~
-R COMMAND 17955 бежать~
-R QUIT 17957 100~
 R DEATH 17957 100~
+R QUIT 17957 100~
+R COMMAND 17955 бежать~
+R COMMAND 17955 убежать~
 S
 #17970
 Келья~
@@ -1874,10 +1874,10 @@ D0
 1 0 17967
 M 150 H 20
 Z Шаград at Wed Nov 15 14:17:45 2006~
-R COMMAND 17955 убежать~
-R COMMAND 17955 бежать~
-R DEATH 17957 100~
 R QUIT 17957 100~
+R DEATH 17957 100~
+R COMMAND 17955 бежать~
+R COMMAND 17955 убежать~
 S
 #17971
 Келья~
@@ -1891,10 +1891,10 @@ D1
 1 0 17967
 M 150 H 20
 Z Шаград at Wed Nov 15 14:17:49 2006~
-R COMMAND 17955 убежать~
-R COMMAND 17955 бежать~
-R QUIT 17957 100~
 R DEATH 17957 100~
+R QUIT 17957 100~
+R COMMAND 17955 бежать~
+R COMMAND 17955 убежать~
 S
 #17972
 Седьмой круг Испытания~
@@ -1909,14 +1909,14 @@ D2
 1 0 17975
 M 150 H 150
 Z Шаград at Mon Oct  9 13:58:52 2006~
-R SPEECH 17949 выход~
-R SPEECH 17946 6~
-R SPEECH 17945 5~
-R SPEECH 17944 4~
-R SPEECH 17943 3~
-R SPEECH 17942 2~
-R SPEECH 17941 1~
 R QUIT 17957 100~
+R SPEECH 17941 1~
+R SPEECH 17942 2~
+R SPEECH 17943 3~
+R SPEECH 17944 4~
+R SPEECH 17945 5~
+R SPEECH 17946 6~
+R SPEECH 17949 выход~
 S
 #17975
 Энергетическая площадка~
@@ -1930,10 +1930,10 @@ D0
 1 0 17972
 M 100 H 10
 Z Кей at Mon Dec  9 18:25:59 2013~
-RB COMMAND 17956 убежать~
-R COMMAND 17956 бежать~
-R DEATH 17957 100~
 RA QUIT 17957 100~
+R DEATH 17957 100~
+R COMMAND 17956 бежать~
+RB COMMAND 17956 убежать~
 S
 #17976
 Алтарь забвения~

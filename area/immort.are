@@ -32,10 +32,10 @@ P charm 100
 P magic 33
 P summon 100
 P weapon 33
-M SPEECH 1206 ^да$~
-M GIVE 1207 2427~
-M GRALL 1204 100~
 M DELAY 1208 100~
+M GRALL 1204 100~
+M GIVE 1207 2427~
+M SPEECH 1206 ^да$~
 Z Шаград at Sat Jul 16 02:59:56 2005~
 #1201
 каратель~
@@ -302,8 +302,8 @@ P disease 100
 P drowning 100
 P charm 100
 P summon 100
-M GRALL 1257 100~
 MA DEATH 1258 100~
+M GRALL 1257 100~
 Z Шакс at Fri Jun 18 01:04:49 2010~
 * Cloned from 2220.~
 #1212
@@ -382,10 +382,10 @@ F off H
 P magic 20
 P summon 100
 P weapon 20
-M DELAY 1200 100~
-M SPEECH 1201 цербер сидеть~
-M RANDOM 1200 5000~
 M SPEECH 1202 цербер гулять~
+M RANDOM 1200 5000~
+M SPEECH 1201 цербер сидеть~
+M DELAY 1200 100~
 Z Шаград at Fri Oct 13 13:22:41 2006~
 #1231
 кега пива~
@@ -595,9 +595,9 @@ P iron 100
 P magic 100
 P summon 100
 P weapon 100
-M GRALL 1240 100~
-M ENTRY 1240 100~
 M GIVE 1247 некроманта~
+M ENTRY 1240 100~
+M GRALL 1240 100~
 Z Тананда at Fri Sep 23 18:35:12 2005~
 #1248
 Кровожадный вампир~
@@ -632,9 +632,9 @@ P silver 100
 P iron 100
 P magic 100
 P weapon 100
-M ENTRY 1240 100~
-M GRALL 1240 100~
 M GIVE 1248 12358~
+M GRALL 1240 100~
+M ENTRY 1240 100~
 Z Тананда at Fri Sep 23 18:23:50 2005~
 #1249
 призрак хомячка~
@@ -672,8 +672,8 @@ P iron 100
 P magic 100
 P summon 100
 P weapon 100
-M GRALL 1240 100~
 M ENTRY 1240 100~
+M GRALL 1240 100~
 Z Тананда at Mon Jul  7 01:33:55 2008~
 #1250
 Химера~
@@ -739,8 +739,8 @@ ABC DFHVbi 0 0 0
 -20 -20 -20 -20
 0 stand stand male 0
 0 0 tiny unknown
-M RANDOM 1270 30~
 M GIVE 1260 3009~
+M RANDOM 1270 30~
 Z Шаград at Sat Jun 25 03:00:37 2005~
 #1261
 фея~
@@ -759,8 +759,8 @@ ABR DFHTVbi 0 0 0
 0 J tiny unknown
 F for AHMV
 F par ABCDEFGHIKZ
-M RANDOM 1262 80~
 M GIVE 1261 7714~
+M RANDOM 1262 80~
 E прилетает~
 G улетает~
 Z Шаград at Sun Oct  9 21:15:40 2005~
@@ -801,8 +801,8 @@ AB DFHVbi 0 0 0
 0 CJKQ tiny unknown
 F for AHMV
 F par ABDEFGHIZ
-M RANDOM 1269 80~
 M GIVE 1268 8417~
+M RANDOM 1269 80~
 E приходит~
 G уходит~
 Z Тананда at Fri Nov 28 20:11:08 2008~
@@ -917,26 +917,26 @@ book CEGYuvx AO
 0 0 0 0 0
 51 12 120 100
 0 0
-F
-R 0 7 BD
-F
-R 0 7 ABC
-F
-R 0 7 C
 A
-13 60
-A
-12 60
-A
-20 -10
-A
-19 7
-A
-18 7
+4 1
 A
 3 1
 A
-4 1
+18 7
+A
+19 7
+A
+20 -10
+A
+12 60
+A
+13 60
+F
+R 0 7 C
+F
+R 0 7 ABC
+F
+R 0 7 BD
 Z Киргшур at Wed Nov  6 01:42:54 2013~
 * Клон куклы, изменен под Назгула. Всокечена золотая руна.~
 E
@@ -946,8 +946,8 @@ E
 наполняя владельца книги силой, способной обратить в прах живое, утопить мир в крови 
 и заставить его исполнить симфонию агонии на тысячу голосов.{x
 ~
-O WEAR 1234 100~
 O RANDOM 1237 10~
+O WEAR 1234 100~
 #1205
 Слеза Ларны~
 {DСлеза {YЛарны{x~
@@ -955,9 +955,9 @@ O RANDOM 1237 10~
 unknown~
 light RY A
 0 0 999 0 0
-0 0 0 100
+1 10 0 100
 0 0
-Z Бруль at Wed Mar 13 22:05:19 2019~
+Z Паравель at Mon Jan 19 10:21:36 2026~
 #1211
 монетка~
 {Wмонетка{x~
@@ -1000,15 +1000,15 @@ trash A AO
 0 10 0 100
 0 0
 A
-4 4
-A
-3 4
-A
-5 4
+1 4
 A
 2 4
 A
-1 4
+5 4
+A
+3 4
+A
+4 4
 Z Тананда at Wed Jun 27 02:47:39 2012~
 E
 василек~
@@ -1053,18 +1053,18 @@ armor AG AEP
 10 10 10 10 7
 25 10 0 100
 0 0
-F
-A 0 0 U
 A
-19 5
-A
-18 5
-A
-13 25
+14 25
 A
 12 25
 A
-14 25
+13 25
+A
+18 5
+A
+19 5
+F
+A 0 0 U
 Z Билдер at Sun Jul 23 15:31:51 2017~
 #1215
 квестовый патронташ~
@@ -1076,19 +1076,19 @@ container AYZu AL
 30 10 0 100
 0 0
 A
-18 7
-A
-19 7
-F
-R 0 10 C
-F
-R 0 10 ABC
-A
-20 -10
+12 20
 A
 13 20
 A
-12 20
+20 -10
+F
+R 0 10 ABC
+F
+R 0 10 C
+A
+19 7
+A
+18 7
 Z Бруль at Sat Sep 29 22:09:54 2018~
 #1216
 орден квестера~
@@ -1099,20 +1099,20 @@ armor AGY AC
 5 5 5 5 0
 35 10 0 100
 0 0
+F
+A 0 0 V
 A
-12 35
-A
-13 35
-A
-3 1
-A
-19 5
+1 1
 A
 18 5
 A
-1 1
-F
-A 0 0 V
+19 5
+A
+3 1
+A
+13 35
+A
+12 35
 Z Лин at Tue Jun 19 19:18:24 2012~
 #1217
 кольцо квестера~
@@ -1123,22 +1123,22 @@ armor AG AB
 15 15 15 15 0
 40 10 0 100
 0 0
-F
-A 0 0 D
-F
-A 0 0 V
 A
-2 1
-A
-20 -7
-A
-18 7
-A
-19 7
+12 35
 A
 13 35
 A
-12 35
+19 7
+A
+18 7
+A
+20 -7
+A
+2 1
+F
+A 0 0 V
+F
+A 0 0 D
 Z Минкс at Thu May 31 07:44:43 2012~
 #1218
 медный орден квестера copper order quester~
@@ -1149,16 +1149,16 @@ treasure GTu AC
 0 0 0 0 0
 5 10 0 100
 0 0
-F
-A 0 0 V
 A
-4 1
-A
-2 1
+12 15
 A
 13 15
 A
-12 15
+2 1
+A
+4 1
+F
+A 0 0 V
 Z Тананда at Fri May 22 21:23:18 2009~
 #1219
 бронзовый орден квестера bronze order quester~
@@ -1169,18 +1169,18 @@ treasure GTu AC
 0 0 0 0 0
 10 10 0 100
 0 0
+F
+A 0 0 V
 A
-13 25
-A
-12 25
-A
-1 1
+4 1
 A
 3 1
 A
-4 1
-F
-A 0 0 V
+1 1
+A
+12 25
+A
+13 25
 Z Минкс at Thu May 31 07:45:25 2012~
 #1220
 серебряный орден квестера silver order quester~
@@ -1192,21 +1192,21 @@ treasure AGTYu AC
 20 10 0 100
 0 0
 A
-13 30
-A
-12 30
-A
-17 -15
-A
-2 1
-A
-1 1
-A
-5 1
+18 2
 A
 19 2
 A
-18 2
+5 1
+A
+1 1
+A
+2 1
+A
+17 -15
+A
+12 30
+A
+13 30
 Z Минкс at Thu May 31 07:46:41 2012~
 #1221
 орден золотой квестера order gold quester~
@@ -1218,19 +1218,19 @@ treasure AGTu AC
 30 10 200 100
 0 0
 A
-13 40
-A
-12 40
-A
-1 1
-A
-2 1
-A
-3 1
+5 1
 A
 4 1
 A
-5 1
+3 1
+A
+2 1
+A
+1 1
+A
+12 40
+A
+13 40
 Z Минкс at Thu May 31 07:45:55 2012~
 #1222
 платиновый орден квестера platinum order quester~
@@ -1242,21 +1242,21 @@ treasure BGTu AC
 45 10 10000 100
 0 0
 A
-5 1
-A
-2 1
-A
-4 1
-A
-3 1
-A
-1 1
-A
-12 60
+20 -10
 A
 13 60
 A
-20 -10
+12 60
+A
+1 1
+A
+3 1
+A
+4 1
+A
+2 1
+A
+5 1
 Z Минкс at Thu May 31 07:47:10 2012~
 #1223
 зелье полного восстановления~
@@ -1278,11 +1278,11 @@ drink AY AO
 0 10 2000 100
 0 0
 A
-13 10
+14 10
 A
 12 10
 A
-14 10
+13 10
 Z Суре at Wed Sep 14 08:53:11 2005~
 #1226
 патронташ алхимика~
@@ -1306,6 +1306,10 @@ container AG A
 0 0
 Z Слакл at Mon Aug  3 02:39:13 2009~
 E
+надпись~
+Коллеге по разуму от не меньшего любителя сладостей...
+~
+E
 коробочка~
 Красивая коробочка из дерева с резными стенками, изображающими
 завораживающей красоты девушку-эльфа, прячущуюся среди листвы.
@@ -1313,10 +1317,6 @@ E
 микроскопическим шрифтом, выведенную на стебельке куста.
  
 Тебе так и хочется {yпоесть{x ее содержимое.
-~
-E
-надпись~
-Коллеге по разуму от не меньшего любителя сладостей...
 ~
 OB NEW_CMD 1256 поесть~
 #1228
@@ -1328,28 +1328,28 @@ armor G AJ
 50 50 50 50 0
 51 250 3463 100
 0 0
-F
-R 0 2 B
-F
-R 0 2 AC
-F
-R 0 2 AD
-F
-R 0 2 ABE
 A
-19 10
-A
-18 10
-A
-13 50
-A
-12 50
-A
-20 -10
+1 1
 A
 4 1
 A
-1 1
+20 -10
+A
+12 50
+A
+13 50
+A
+18 10
+A
+19 10
+F
+R 0 2 ABE
+F
+R 0 2 AD
+F
+R 0 2 AC
+F
+R 0 2 B
 Z Бруль at Sun Oct 28 23:17:36 2018~
 * Cloned from 17363~
 #1229
@@ -1361,28 +1361,28 @@ armor GI AJ
 50 50 50 50 0
 51 500 3451 100
 0 0
-A
-19 10
-A
-18 10
-A
-20 -10
-A
-13 50
-A
-12 50
-A
-4 1
-A
-3 1
 F
-R 0 2 BC
-F
-R 0 2 C
+R 0 2 BD
 F
 R 0 2 A
 F
-R 0 2 BD
+R 0 2 C
+F
+R 0 2 BC
+A
+3 1
+A
+4 1
+A
+12 50
+A
+13 50
+A
+20 -10
+A
+18 10
+A
+19 10
 Z Билдер at Fri Sep 18 23:35:53 2015~
 * Cloned from 17380~
 #1230
@@ -1395,29 +1395,29 @@ armor CEG AJ
 51 50 9300 100
 0 0
 F
-R 0 2 C
-A
-12 50
-A
-13 50
-A
-20 -10
-A
-19 10
-A
-19 10
-A
-18 10
-A
-1 1
-A
-3 1
-F
-R 0 2 ABCD
+R 0 2 AD
 F
 R 0 2 AB
 F
-R 0 2 AD
+R 0 2 ABCD
+A
+3 1
+A
+1 1
+A
+18 10
+A
+19 10
+A
+19 10
+A
+20 -10
+A
+13 50
+A
+12 50
+F
+R 0 2 C
 Z Бруль at Sun Oct 28 23:16:52 2018~
 * Cloned from 17356~
 #1233
@@ -1441,7 +1441,7 @@ drink ST A
 0 0
 Z Аэгнор at Thu Feb 10 18:02:10 2005~
 E
-бутылка~
+кишковыверт~
 Адское пойло. По запаху похоже на абсент.
         На бутылке имеется клеймо:
 <<Произведено в магической лаборатории Аэгнора>>
@@ -1455,7 +1455,7 @@ E
 <<    специально, по заказу Рыкгаша           >>
 ~
 E
-кишковыверт~
+бутылка~
 Адское пойло. По запаху похоже на абсент.
         На бутылке имеется клеймо:
 <<Произведено в магической лаборатории Аэгнора>>
@@ -1487,8 +1487,8 @@ clothing M AE
 0 10 2000 100
 0 GHIJKLMN
 Z Аэгнор at Sun May  1 05:04:16 2005~
-O COMMAND 1243 насытиться~
 O COMMAND 1243 укусить~
+O COMMAND 1243 насытиться~
 #1244
 костер~
 костер~
@@ -1607,8 +1607,8 @@ E
 Кажется, ты уже где-то видел подобный рисунок. Возможно, стоит их совместить?
 На рукоятке видны символы НГ.
 ~
-O FIGHT 1251 50~
 O NEW_CMD 1229 совместить~
+O FIGHT 1251 50~
 #1252
 меч Вульнорез~
 {Yмеч {DВульнорез{x~
@@ -1619,9 +1619,9 @@ sword 8 8 'slash' D
 51 80 50000 100
 0 0
 A
-19 10
-A
 18 10
+A
+19 10
 Z Минкс at Wed May 23 03:09:41 2012~
 O FIGHT 1252 100~
 #1253
@@ -1780,11 +1780,11 @@ treasure ATYrx AQ
 0 0
 Z Тананда at Sat Feb  9 23:39:58 2008~
 E
-пёстрая~
+бабочка~
 Это редкое насекомое может стать украшением любой коллекции. 
 ~
 E
-бабочка~
+пёстрая~
 Это редкое насекомое может стать украшением любой коллекции. 
 ~
 #1275
@@ -1814,21 +1814,21 @@ protect BCEGMVYZrv AR
 45 10 0 100
 0 K
 F
-A 0 0 U
+A 0 0 L
 F
-A 0 0 T
+A 0 0 k
+A
+18 20
+A
+19 20
+F
+A 0 0 V
 F
 A 0 0 b
 F
-A 0 0 V
-A
-19 20
-A
-18 20
+A 0 0 T
 F
-A 0 0 k
-F
-A 0 0 L
+A 0 0 U
 Z Билдер at Tue May  2 05:54:17 2017~
 T 20
 E
@@ -1845,10 +1845,10 @@ trash 0 AR
 0 10 0 100
 0 0
 Z Кей at Sat Dec 13 07:29:32 2008~
-O RANDOM 1279 10~
-O RANDOM 1278 7~
-O RANDOM 1277 5~
 OA WEAR 1276 100~
+O RANDOM 1277 5~
+O RANDOM 1278 7~
+O RANDOM 1279 10~
 #1278
 дятел~
 матерый дятел~
@@ -1898,21 +1898,21 @@ armor TY AK
 41 10 3000 100
 0 0
 A
-2 1
-F
-A 0 0 T
-A
-20 -10
-F
-R 0 5 ADE
-A
-19 7
-A
-18 7
+12 45
 A
 13 45
 A
-12 45
+18 7
+A
+19 7
+F
+R 0 5 ADE
+A
+20 -10
+F
+A 0 0 T
+A
+2 1
 Z Билдер at Wed Feb  7 03:21:44 2018~
 #1283
 ботфорты квестера qboots_~
@@ -1923,26 +1923,26 @@ armor B AG
 10 10 10 10 0
 51 10 5000 100
 0 0
-F
-A 0 0 T
 A
-20 -10
+18 7
 A
-4 1
-A
-1 1
-F
-R 0 7 AC
-A
-13 60
-A
-12 60
+19 7
 F
 A 0 0 U
 A
-19 7
+12 60
 A
-18 7
+13 60
+F
+R 0 7 AC
+A
+1 1
+A
+4 1
+A
+20 -10
+F
+A 0 0 T
 Z Билдер at Mon May 1 22:56:40 2017~
 #1284
 квестовый браслет qbracer_~
@@ -1953,20 +1953,20 @@ treasure AGTYmu AM
 0 0 0 0 0
 47 10 5000 100
 0 0
-F
-A 0 0 U
 A
-17 -20
-A
-12 50
-A
-13 50
-A
-3 1
+20 -10
 A
 4 1
 A
-20 -10
+3 1
+A
+13 50
+A
+12 50
+A
+17 -20
+F
+A 0 0 U
 Z Билдер at Sun Jul 23 15:33:26 2017~
 #1285
 Обломок снеговика~
@@ -1978,11 +1978,6 @@ trash Grv A
 0 10 0 100
 0 0
 Z Саприт at Tue Jan  5 20:55:50 2016~
-E
-валентинка~
-Хризолит, ограненный в форме сердечка. Такие предметы любимые дарят друг другу
-на день Святого Валентина. Внутри драгоценности виднеются какие-то {Wслова{x.
-~
 E
 слова~
 Я так люблю смотреть в твои глаза. 
@@ -1998,6 +1993,11 @@ E
 Когда ты рядом, нет роднее 
 Тебя и чудных твоих глаз.
 ~
+E
+валентинка~
+Хризолит, ограненный в форме сердечка. Такие предметы любимые дарят друг другу
+на день Святого Валентина. Внутри драгоценности виднеются какие-то {Wслова{x.
+~
 #1286
 дух искателя~
 {WДух искателя{x~
@@ -2008,23 +2008,23 @@ jewelry ABGOYmuz AQ
 51 10 0 100
 0 0
 A
-20 -12
-F
-R 0 5 ADE
-F
-R 0 5 ABCE
-A
-18 8
-A
-19 8
-A
-13 60
-A
-2 1
+12 60
 A
 3 1
 A
-12 60
+2 1
+A
+13 60
+A
+19 8
+A
+18 8
+F
+R 0 5 ABCE
+F
+R 0 5 ADE
+A
+20 -12
 Z Билдер at Sun Feb 25 12:00:29 2018~
 #1287
 бутылка~
@@ -2106,20 +2106,20 @@ light AYrvx A
 12 10 1000 100
 0 C
 A
-13 5
-A
-19 2
+3 1
 A
 18 2
 A
-3 1
+19 2
+A
+13 5
 Z Тананда at Sun Feb 10 20:06:28 2008~
 E
 луч~
 Этот яркий луч рассеивает любую темноту.
 ~
-O GET 1293 100~
 O WEAR 1294 100~
+O GET 1293 100~
 #1297
 пакетик с нафталином~
 пакетик с нафталином~
@@ -2154,9 +2154,9 @@ whip 10 15 'whip' H
 51 10 10 100
 0 0
 A
-18 20
-A
 19 20
+A
+18 20
 Z Минкс at Wed May 23 01:45:01 2012~
 #0
 
@@ -2299,70 +2299,13 @@ S
 ~
 0 8712 4
 E
-rose rose-brambled balcony railing~
-Climbing white roses have swarmed over the original marble to obscure it
-almost completely. The air is sweet not with roses, though, but with Satin's
-sandalwood perfume. 
-~
-E
-rosewood chair~
-It looks comfortable, and the cushions are ivory velvet. 
-~
-E
-stark black mountains wine wine-dark dark sea~
-The ocean is constantly smashing up against the cliffs and rending huge
-slabs from it. The beach is scarcely a beach at all, more a collection of
-rough flakes varying in size from a small car to a small fist. As the water
-comes up over the rocks and ebbs back down, it filters through the spaces
-and makes an unnerving rattling sound. 
-~
-E
-print out print-out creased well poem~
-This page has been read over so many times that you can barely discern
-the words, and in fact with much poring only the following becomes clear: 'I
-know that I am studly - Heck, I'm sexy, cute and cuddly And I know that I'm
-extremely modest too. ' 
-~
-E
-yeats~
-The page it is flipped open to reads: A sudden blow: the great wings
-beating still Above the staggering girl, her thighs carressed By the dark
-webs, her nape caught in his bill, he holds her helpless breast upon his
-breast. How can those terrified vague fingers push The feathered glory from
-her loosening thighs? And how can body, laid in that white rush, But feel
-that strange heart beating where it lies? A shudder in the loins engenders
-there The broken wall, the burning roof and tower And Agammemnon dead. Being
-so caught up, So mastered by this brute blood of the air, Did she put on his
-knowledge with his power Before his indifferent beak could let her drop? 
-~
-E
-chandler~
-She has just started the Lady in the Lake: Gillerain Regal, the Champagne
-of Perfumes. It was definitely the stuff to get. One drop of that in the
-hollow of your throat and the matched pink pearls started falling off you
-like summer rain. 
-~
-E
-barrie~
-A copy of Peter Pan is opened near the end: What sort of form was Hook
-showing? Misguided man though he was, we may be glad, without sympathising
-with him, that in the end he stayed true to the traditions of his race. The
-other boys were flying about him now, flouting, scornful; and as he
-staggered about the deck striking at them impotently, his mind was no longer
-with them; it was slouching in the playing fields of long ago, or being sent
-up for good, or watching the wall-game from a famous wall. And his shoes
-were right, and his waistcoat was right, and his tie was right, and his
-socks were right. James Hook, thou not wholly unheroic figure, farewell. 
-~
-E
-tennyson~
-. "My mariners Souls that have toiled, and wrought, and thought with me -
-The ever with a frolic welcome took The thunder and the sunshine, and
-opposed Free hearts, free foreheads - you and I are old; Old age hath yet
-his honour and the toil Death closes all; but something ere the end, Some
-work of noble note, may yet be done, Not unbecoming of men that strove with
-the gods. The lights begin to twinkle from the rocks; The long day wanes;
-the slow moon climbs; the deep Moans round with many voices." 
+dusty leather bound leather-bound Donne~
+. `Cruel and sudden, hast thou since Purpled thy nail in blood of
+innocence? Wherein could this flea guilty be, Except in the drop it sucked
+from thee? Yet thou trimph'st and say'st that thou Find'st not thyself, nor
+me the weaker now; 'Tis true, then learn how false fears be: Just so much
+honour when thou yield'st to me Will waste as this flea's death took life
+from thee. ' 
 ~
 E
 battered paperback de Laclos~
@@ -2382,13 +2325,70 @@ leave you without regret. I shall come back perhaps. Such is life. It is not
 my fault. 
 ~
 E
-dusty leather bound leather-bound Donne~
-. `Cruel and sudden, hast thou since Purpled thy nail in blood of
-innocence? Wherein could this flea guilty be, Except in the drop it sucked
-from thee? Yet thou trimph'st and say'st that thou Find'st not thyself, nor
-me the weaker now; 'Tis true, then learn how false fears be: Just so much
-honour when thou yield'st to me Will waste as this flea's death took life
-from thee. ' 
+tennyson~
+. "My mariners Souls that have toiled, and wrought, and thought with me -
+The ever with a frolic welcome took The thunder and the sunshine, and
+opposed Free hearts, free foreheads - you and I are old; Old age hath yet
+his honour and the toil Death closes all; but something ere the end, Some
+work of noble note, may yet be done, Not unbecoming of men that strove with
+the gods. The lights begin to twinkle from the rocks; The long day wanes;
+the slow moon climbs; the deep Moans round with many voices." 
+~
+E
+barrie~
+A copy of Peter Pan is opened near the end: What sort of form was Hook
+showing? Misguided man though he was, we may be glad, without sympathising
+with him, that in the end he stayed true to the traditions of his race. The
+other boys were flying about him now, flouting, scornful; and as he
+staggered about the deck striking at them impotently, his mind was no longer
+with them; it was slouching in the playing fields of long ago, or being sent
+up for good, or watching the wall-game from a famous wall. And his shoes
+were right, and his waistcoat was right, and his tie was right, and his
+socks were right. James Hook, thou not wholly unheroic figure, farewell. 
+~
+E
+chandler~
+She has just started the Lady in the Lake: Gillerain Regal, the Champagne
+of Perfumes. It was definitely the stuff to get. One drop of that in the
+hollow of your throat and the matched pink pearls started falling off you
+like summer rain. 
+~
+E
+yeats~
+The page it is flipped open to reads: A sudden blow: the great wings
+beating still Above the staggering girl, her thighs carressed By the dark
+webs, her nape caught in his bill, he holds her helpless breast upon his
+breast. How can those terrified vague fingers push The feathered glory from
+her loosening thighs? And how can body, laid in that white rush, But feel
+that strange heart beating where it lies? A shudder in the loins engenders
+there The broken wall, the burning roof and tower And Agammemnon dead. Being
+so caught up, So mastered by this brute blood of the air, Did she put on his
+knowledge with his power Before his indifferent beak could let her drop? 
+~
+E
+print out print-out creased well poem~
+This page has been read over so many times that you can barely discern
+the words, and in fact with much poring only the following becomes clear: 'I
+know that I am studly - Heck, I'm sexy, cute and cuddly And I know that I'm
+extremely modest too. ' 
+~
+E
+stark black mountains wine wine-dark dark sea~
+The ocean is constantly smashing up against the cliffs and rending huge
+slabs from it. The beach is scarcely a beach at all, more a collection of
+rough flakes varying in size from a small car to a small fist. As the water
+comes up over the rocks and ebbs back down, it filters through the spaces
+and makes an unnerving rattling sound. 
+~
+E
+rosewood chair~
+It looks comfortable, and the cushions are ivory velvet. 
+~
+E
+rose rose-brambled balcony railing~
+Climbing white roses have swarmed over the original marble to obscure it
+almost completely. The air is sweet not with roses, though, but with Satin's
+sandalwood perfume. 
 ~
 D2
 Вальгалла на юге. 
@@ -2421,17 +2421,17 @@ S
 ~
 0 520 0
 E
-bookshelf книжная полка~
-Это величайшая коллекция книг, виденная тобой когда-либо. От редчайших и
-древнейших манускриптов до современнейших энциклопедий - любую книгу можно
-здесь найти. Другое дело, что придется хорошенько покопаться. 
-~
-E
 desk стол~
 Стол намного больше, чем кому-нибудь мог бы действительно понадобиться.
 По всему столу беспорядочно разбросаны кипы бумаг. Должно быть, нелегко
 Богам упраляться со всей этой рутиной. Также на нем имеется большая
 деревянная доска с непонятными надписями, сделанными мелом от руки. 
+~
+E
+bookshelf книжная полка~
+Это величайшая коллекция книг, виденная тобой когда-либо. От редчайших и
+древнейших манускриптов до современнейших энциклопедий - любую книгу можно
+здесь найти. Другое дело, что придется хорошенько покопаться. 
 ~
 D0
 Вальгалла осталась на севере. 
@@ -2780,12 +2780,12 @@ E
 M 32000 H 100
 L 52 60
 Z Шаград at Mon Jun 16 21:53:21 2008~
-R ACT 1202 входит в этот мир.~
-R NEW_CMD 1203 Чпок~
-R NEW_CMD 1204 спрятать_пуфик~
-R NEW_CMD 1202 искать_пуфик~
-R QUIT 1202 100~
 R NEW_CMD 1205 ктоздесь~
+R QUIT 1202 100~
+R NEW_CMD 1202 искать_пуфик~
+R NEW_CMD 1204 спрятать_пуфик~
+R NEW_CMD 1203 Чпок~
+R ACT 1202 входит в этот мир.~
 S
 #1234
 Типа Арена~
