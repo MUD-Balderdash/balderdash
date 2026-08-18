@@ -9406,7 +9406,7 @@ void do_pound(CHAR_DATA *ch, char *argument)
     char buf[MIL];
     int lev = 0, s = 0, m = 0, i, r = 0, cost[MAX_MORTAR_ING];
 
-    if ((skill = get_skill(ch, gsn_mix)) < 1)
+    if ((skill = get_skill(ch, gsn_pound)) < 1)
     {
 	send_to_char("Столочь. Это как?\n\r", ch);
 	return;
@@ -9466,7 +9466,7 @@ void do_pound(CHAR_DATA *ch, char *argument)
 		return;
 	    }
 
-	    send_to_char("Ты сдавливаешь ингредиенты.\n\r",ch);
+        send_to_char("Ты сдавливаешь ингредиенты.\n\r",ch);
 
 	    WAIT_STATE(ch, skill_table[gsn_pound].beats);
 
