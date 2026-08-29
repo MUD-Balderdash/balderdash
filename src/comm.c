@@ -185,6 +185,10 @@ void 	do_email_pass(CHAR_DATA *ch, char *argument);
 /********** Constants for recode: *********************************************/
 typedef unsigned char uchar;
 
+#include <iconv.h>
+static iconv_t iconv_fromutf;
+static iconv_t iconv_toutf;
+
 /* Alternative -> Windows (CP1251) */
 uchar aw[] =
 {
@@ -680,7 +684,16 @@ int main(int argc, char *argv[])
 
 //    init_lua();
 
-
+    if ((iconv_toutf = iconv_open("utf-8", "cp1251")) == (iconv_t)-1)
+    {
+	bugf("Unable to iconv_open(\"utf-8\", \"cp1251\"): %s", strerror(errno));
+	exit(1);
+    }
+    if ((iconv_fromutf = iconv_open("cp1251//TRANSLIT", "utf-8")) == (iconv_t)-1)
+    {
+	bugf("Unable to iconv_open(\"cp1251//TRANSLIT\", \"utf-8\"): %s", strerror(errno));
+	exit(1);
+    }
 
     control = init_socket(cfg.port);
 
@@ -694,6 +707,8 @@ int main(int argc, char *argv[])
 
     close(control);
 
+    iconv_close(iconv_toutf);
+    iconv_close(iconv_fromutf);
 
     /*
      * That's all, folks.
@@ -7389,8 +7404,11 @@ void nanny(DESCRIPTOR_DATA *d, char *argument){
                 case '6':
                     d->codepage = CODEPAGE_TRANS;
                     break;
+		case '7':
+		    d->codepage = CODEPAGE_UTF8;
+		    break;
                 default:
-                    write_to_buffer(d, "Please, 1, 2, 3, 4, 5 or 6?", 0);
+                    write_to_buffer(d, "Please, 1, 2, 3, 4, 5, 6 or 7?", 0);
                     return;
             }
 
@@ -10338,6 +10356,65 @@ int recode_trans(char *argument, bool outp)
     return count;
 }
 
+int recode_utf(char *argument, iconv_t *iconv_desc)
+{
+    size_t insz = strlen(argument);
+    size_t in_left = insz;
+    char outbuf[OUTBUF_SIZE];
+    size_t out_left = sizeof(outbuf);
+
+    char *inptr = argument;
+    char *outptr = outbuf;
+
+    while (in_left > 0)
+    {
+	size_t r = iconv(*iconv_desc, &inptr, &in_left, &outptr, &out_left);
+	if (r == (size_t)-1)
+	{
+	    if (errno == EILSEQ)
+	    {
+		if (iconv_desc == &iconv_fromutf) /* actually it's impossible in cp1251 -> utf8 conv */
+		{
+		    *outptr++ = 0xB6; /* paragraph mark to mark illegal utf-8 char */
+		    out_left--;
+		}
+		inptr++;
+		in_left--;
+	    }
+	    else if (errno == EINVAL)
+	    {
+		/* incomplete sequence at the end of the input, just skip */
+		break;
+	    }
+	    else if (errno == E2BIG)
+	    {
+		/* input string too big, truncate it */
+		if (iconv_desc == &iconv_fromutf)
+		{
+		    outbuf[OUTBUF_SIZE - 2] = 0x85; /* ellipsis */
+		    outbuf[OUTBUF_SIZE - 1] = 0;
+		}
+		else
+		{
+		    strcpy(outbuf + OUTBUF_SIZE - 4, "\xE2\x80\xA6");
+		    break;
+		}
+	    }
+	    else
+	    {
+		/* wtf? */
+		inptr++;
+		in_left--;
+	    }
+	}
+    }
+
+    *outptr = '\0';
+    strcpy(argument, outbuf);
+
+    return (outptr - outbuf) - insz;
+}
+
 int recode(char *argument, int codepage, int16_t outp)
 {
     uchar	*CodeTable;       /* Current conversion table. */
@@ -10360,6 +10437,8 @@ int recode(char *argument, int codepage, int16_t outp)
 	break;
     case CODEPAGE_TRANS:
 	return /* IS_SET(outp, RECODE_OUTPUT) ? */ recode_trans(argument, IS_SET(outp, RECODE_OUTPUT) /* TRUE */) /* : 0*/;
+    case CODEPAGE_UTF8:
+	return recode_utf(argument, IS_SET(outp, RECODE_OUTPUT) ? &iconv_toutf : &iconv_fromutf);
     }
 
     p = argument;
